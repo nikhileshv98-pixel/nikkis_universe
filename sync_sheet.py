@@ -38,33 +38,43 @@ for s in stores:
 
 catalog = []
 for i, r in enumerate(reader, 1):
-    link = r.get('Main link', '').strip()
     aff = r.get('Affiliate Link', '').strip()
-    target_url = link if link else aff
+    link = r.get('Main link', '').strip()
+    
+    # Check Affiliate Link first, then Main link
+    target_urls = [aff, link]
 
-    # Extract the exact product code from /p/XXXXX or the URL path
     code = ""
-    if "/p/" in target_url:
-        segment = target_url.split("/p/")[-1].split("?")[0].split("&")[0].strip('/')
-        if segment in existing_data:
-            code = segment
-
-    if not code:
-        # Search if any known key from existing_data is present anywhere in target_url
+    # Search all known product keys from our data files inside the URLs
+    for target in target_urls:
+        if not target: continue
         for k in existing_data.keys():
-            if k in target_url:
+            if k in target:
                 code = k
                 break
+        if code: break
+
+    # If still not found, look for /p/code format
+    if not code:
+        for target in target_urls:
+            if "/p/" in target:
+                parts = target.split("/p/")[-1].split("?")[0].split("&")[0].strip('/').split('/')
+                for p in parts:
+                    if p in existing_data:
+                        code = p
+                        break
+                if code: break
+                if parts:
+                    code = parts[0]
+                    break
 
     if not code:
-        # Fallback to last path component
-        clean_path = target_url.split("?")[0].split("&")[0].rstrip('/')
-        parts = [p for p in clean_path.split('/') if p and not p.startswith('http') and 'faym.co' not in p]
-        code = parts[-1] if parts else f"item_{i}"
+        code = f"item_{i}"
 
     st = r.get('Store', '').strip().lower()
     if st not in ["myntra", "amazon", "flipkart", "meesho", "ajio", "manual"]:
-        st = 'amazon' if 'amazon' in target_url.lower() else 'flipkart' if 'flipkart' in target_url.lower() else 'meesho' if 'meesho' in target_url.lower() else 'ajio' if 'ajio' in target_url.lower() else 'myntra'
+        full_text = aff + " " + link
+        st = 'amazon' if 'amazon' in full_text.lower() else 'flipkart' if 'flipkart' in full_text.lower() else 'meesho' if 'meesho' in full_text.lower() else 'ajio' if 'ajio' in full_text.lower() else 'myntra'
 
     title = r.get('Product Name', '').strip()
     brand = r.get('Brand', '').strip()

@@ -43,13 +43,20 @@ for row in reader:
 
     stores[store_key][code] = item
 
+# 1. Update data/ folder files
 os.makedirs('data', exist_ok=True)
 for store_name, data in stores.items():
     if data:
         js = f"window.NU_DATA = window.NU_DATA || {{}};\nwindow.NU_DATA.{store_name} = " + json.dumps(data, indent=2) + ";"
-        filename = f"data/{store_name}.js"
-        with open(filename, 'w', encoding='utf-8') as f:
+        
+        # Save in data/ folder
+        with open(f"data/{store_name}.js", 'w', encoding='utf-8') as f:
             f.write(js)
-        print(f"Updated {filename} with {len(data)} items.")
+            
+        # Save in root folder too
+        with open(f"{store_name}.js", 'w', encoding='utf-8') as f:
+            f.write(js)
+            
+        print(f"Updated {store_name}.js and data/{store_name}.js with {len(data)} items.")
 
 print("All stores synced successfully!")

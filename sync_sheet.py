@@ -1,6 +1,7 @@
 import urllib.request
 import csv
 import json
+import os
 
 url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
 
@@ -23,31 +24,26 @@ for row in reader:
         "brand": row.get('Brand', '').strip()
     }
 
-    # 1. Check Store column first (Column H)
+    # Check Store column (Column H) or fallback to link detection
     manual_store = row.get('Store', '').strip().lower()
-    
-    detected_store = ""
     if manual_store in stores:
-        detected_store = manual_store
+        store_key = manual_store
     else:
-        # 2. Fallback: Smart link detection if column is empty or mistyped
         link_lower = link.lower()
         if 'amazon' in link_lower or 'amzn.to' in link_lower:
-            detected_store = "amazon"
+            store_key = "amazon"
         elif 'flipkart' in link_lower:
-            detected_store = "flipkart"
+            store_key = "flipkart"
         elif 'meesho' in link_lower or 'meesho.onelink.me' in link_lower:
-            detected_store = "meesho"
+            store_key = "meesho"
         elif 'ajio' in link_lower:
-            detected_store = "ajio"
-        elif 'myntra' in link_lower or 'myntra.onelink.me' in link_lower:
-            detected_store = "myntra"
+            store_key = "ajio"
         else:
-            detected_store = "myntra" # Default fallback
+            store_key = "myntra"
 
-    stores[detected_store][code] = item
+    stores[store_key][code] = item
 
-# Save into each store's respective JS file automatically
+os.makedirs('data', exist_ok=True)
 for store_name, data in stores.items():
     if data:
         js = f"window.NU_DATA = window.NU_DATA || {{}};\nwindow.NU_DATA.{store_name} = " + json.dumps(data, indent=2) + ";"

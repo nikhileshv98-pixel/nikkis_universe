@@ -2,6 +2,7 @@ import urllib.request
 import csv
 import json
 import os
+import re
 
 url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
 response = urllib.request.urlopen(url)
@@ -9,18 +10,21 @@ reader = csv.DictReader([l.decode('utf-8') for l in response.readlines()])
 
 stores = {"myntra": {}, "amazon": {}, "flipkart": {}, "meesho": {}, "ajio": {}}
 
-# Load existing store image data if available
-existing_data = {}
+# Load existing image data from data/*.js files
+existing_imgs = {}
 for s in stores.keys():
     path = f"data/{s}.js"
     if os.path.exists(path):
         try:
             content = open(path, 'r', encoding='utf-8').read()
-            # Extract json object from window.NU_DATA.store = {...};
-            json_str = content.split('=', 1)[1].rstrip(';')
-            existing_data[s] = json.loads(json_str)
-        except:
-            pass
+            match = re.search(r'window\.NU_DATA\.\w+\s*=\s*(\{.+?\});', content, re.DOTALL)
+            if match:
+                data_dict = json.loads(match.group(1))
+                for code, info in data_dict.items():
+                    if isinstance(info, dict) and 'imgs' in info:
+                        existing_imgs[code] = info['imgs']
+        except Exception as e:
+            print(f"Error loading {path}: {e}")
 
 catalog = []
 for i, r in enumerate(reader, 1):
@@ -33,11 +37,7 @@ for i, r in enumerate(reader, 1):
 
     title = r.get('Product Name', '').strip()
     brand = r.get('Brand', '').strip()
-
-    # Retain existing images if we already have them for this code
-    imgs = []
-    if st in existing_data and code in existing_data[st]:
-        imgs = existing_data[st][code].get('imgs', [])
+    imgs = existing_imgs.get(code, [])
 
     item = {"title": title, "brand": brand, "imgs": imgs}
     stores[st][code] = item
@@ -68,4 +68,4 @@ for store_name, data in stores.items():
         with open(f"data/{store_name}.js", "w", encoding="utf-8") as f:
             f.write(js)
 
-print("Catalog and store data synced with images!")
+print(f"Synced {len(catalog)} products with images successfully!")

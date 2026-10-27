@@ -6,12 +6,19 @@ import urllib.request
 
 url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
 
+lines = []
 try:
-    response = urllib.request.urlopen(url)
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = urllib.request.urlopen(req)
     lines = [l.decode('utf-8') for l in response.readlines()]
 except Exception as e:
-    print(f"Warning: Could not fetch URL directly ({e})")
-    lines = []
+    print(f"Web fetch failed: {e}. Trying local products.csv...")
+    if os.path.exists("products.csv"):
+        with open("products.csv", "r", encoding="utf-8") as f:
+            lines = f.readlines()
+
+if not lines:
+    raise Exception("Error: Could not retrieve spreadsheet data from URL or local products.csv!")
 
 reader = csv.DictReader(lines)
 
@@ -36,24 +43,20 @@ for i, r in enumerate(reader, 1):
     aff = r.get('Affiliate Link', '').strip()
     target_url = link if link else aff
 
-    # 1. Try to match any known product code from existing data directly inside the URL
     code = ""
     for k in existing_data.keys():
         if k in target_url:
             code = k
             break
 
-    # 2. If not found, extract path segment after /p/
     if not code and "/p/" in target_url:
         code = target_url.split("/p/")[-1].split("?")[0].strip('/')
 
-    # 3. Fallback to extracting pid= parameter
     if not code and "pid=" in target_url:
         match_pid = re.search(r'pid=([A-Za-z0-9]+)', target_url)
         if match_pid:
             code = match_pid.group(1)
 
-    # 4. Ultimate fallback to last URL path component
     if not code or len(code) > 20:
         clean_path = target_url.split("?")[0].rstrip('/')
         parts = [p for p in clean_path.split('/') if p and not p.startswith('http') and 'faym.co' not in p]

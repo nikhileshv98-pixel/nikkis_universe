@@ -2,222 +2,497 @@ window.NU_DATA = window.NU_DATA || {};
 window.NU_DATA.myntra = {
   "buy?utm_source=social_share&utm_medium=social_share_pdp&utm_campaign=RkBp1MgA7Vn3SWAm&shared=true": {
     "title": "Suo Bohemian Women Solid Halter Neck Top with Trousers",
-    "brand": "Suo"
+    "brand": "Suo",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$44277922$ozpoor$6ade791c857deffd426b79e9$wall$1792964892609$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F44277922%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444277922%24ozpoor%246ade791c857deffd426b79e9%24wall%241792964892609&af_android_url=https%3A%2F%2Fwww.myntra.com%2F44277922%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444277922%24ozpoor%246ade791c857deffd426b79e9%24wall%241792964892609&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F44277922%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444277922%24ozpoor%246ade791c857deffd426b79e9%24wall%241792964892609&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F44277922%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444277922%24ozpoor%246ade791c857deffd426b79e9%24wall%241792964892609&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$44277922$ozpoor$6ade791c857deffd426b79e9$wall$1792964892609&af_dp=myntra%3A%2F%2Fmyntra.com%2F44277922%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444277922%24ozpoor%246ade791c857deffd426b79e9%24wall%241792964892609&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$44277922$ozpoor$6ade791c857deffd426b79e9$wall$1792964892609$trk-p--direct&sub2=gh_faym$nikkis_universe$44277922$ozpoor$6ade791c857deffd426b79e9$wall$1792964892609$trk-p--direct": {
     "title": "BLANC9 Bow Detail Embellished Top with Trousers",
-    "brand": "BLANC9"
+    "brand": "BLANC9",
+    "imgs": [],
+    "rating": {
+      "v": 5.0,
+      "n": 11
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$41446636$zqw4fk$6ade791c30da32884cd1f566$wall$1792964892823$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F41446636%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441446636%24zqw4fk%246ade791c30da32884cd1f566%24wall%241792964892823&af_android_url=https%3A%2F%2Fwww.myntra.com%2F41446636%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441446636%24zqw4fk%246ade791c30da32884cd1f566%24wall%241792964892823&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F41446636%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441446636%24zqw4fk%246ade791c30da32884cd1f566%24wall%241792964892823&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F41446636%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441446636%24zqw4fk%246ade791c30da32884cd1f566%24wall%241792964892823&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$41446636$zqw4fk$6ade791c30da32884cd1f566$wall$1792964892823&af_dp=myntra%3A%2F%2Fmyntra.com%2F41446636%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441446636%24zqw4fk%246ade791c30da32884cd1f566%24wall%241792964892823&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$41446636$zqw4fk$6ade791c30da32884cd1f566$wall$1792964892823$trk-p--direct&sub2=gh_faym$nikkis_universe$41446636$zqw4fk$6ade791c30da32884cd1f566$wall$1792964892823$trk-p--direct": {
     "title": "Marigold Lane Women Floral Printed Regular Top with Palazzos",
-    "brand": "Marigold Lane"
+    "brand": "Marigold Lane",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$43531628$arj13n$6ade791c2ef8e9fd367136b0$wall$1792964892775$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F43531628%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443531628%24arj13n%246ade791c2ef8e9fd367136b0%24wall%241792964892775&af_android_url=https%3A%2F%2Fwww.myntra.com%2F43531628%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443531628%24arj13n%246ade791c2ef8e9fd367136b0%24wall%241792964892775&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F43531628%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443531628%24arj13n%246ade791c2ef8e9fd367136b0%24wall%241792964892775&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F43531628%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443531628%24arj13n%246ade791c2ef8e9fd367136b0%24wall%241792964892775&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$43531628$arj13n$6ade791c2ef8e9fd367136b0$wall$1792964892775&af_dp=myntra%3A%2F%2Fmyntra.com%2F43531628%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443531628%24arj13n%246ade791c2ef8e9fd367136b0%24wall%241792964892775&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$43531628$arj13n$6ade791c2ef8e9fd367136b0$wall$1792964892775$trk-p--direct&sub2=gh_faym$nikkis_universe$43531628$arj13n$6ade791c2ef8e9fd367136b0$wall$1792964892775$trk-p--direct": {
     "title": "Woomn Bohemian Cotton Striped Top with Trousers",
-    "brand": "Woomn"
+    "brand": "Woomn",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 316
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$44492135$i9qpl5$6ade791c7a2500fd997596de$wall$1792964892730$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F44492135%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444492135%24i9qpl5%246ade791c7a2500fd997596de%24wall%241792964892730&af_android_url=https%3A%2F%2Fwww.myntra.com%2F44492135%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444492135%24i9qpl5%246ade791c7a2500fd997596de%24wall%241792964892730&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F44492135%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444492135%24i9qpl5%246ade791c7a2500fd997596de%24wall%241792964892730&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F44492135%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444492135%24i9qpl5%246ade791c7a2500fd997596de%24wall%241792964892730&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$44492135$i9qpl5$6ade791c7a2500fd997596de$wall$1792964892730&af_dp=myntra%3A%2F%2Fmyntra.com%2F44492135%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444492135%24i9qpl5%246ade791c7a2500fd997596de%24wall%241792964892730&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$44492135$i9qpl5$6ade791c7a2500fd997596de$wall$1792964892730$trk-p--direct&sub2=gh_faym$nikkis_universe$44492135$i9qpl5$6ade791c7a2500fd997596de$wall$1792964892730$trk-p--direct": {
     "title": "Outzidr Solid Top with Trousers",
-    "brand": "Outzidr"
+    "brand": "Outzidr",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$21387180$0levas$6ade792013cb18fcd9ac734c$wall$1792964896400$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F21387180%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2421387180%240levas%246ade792013cb18fcd9ac734c%24wall%241792964896400&af_android_url=https%3A%2F%2Fwww.myntra.com%2F21387180%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2421387180%240levas%246ade792013cb18fcd9ac734c%24wall%241792964896400&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F21387180%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2421387180%240levas%246ade792013cb18fcd9ac734c%24wall%241792964896400&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F21387180%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2421387180%240levas%246ade792013cb18fcd9ac734c%24wall%241792964896400&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$21387180$0levas$6ade792013cb18fcd9ac734c$wall$1792964896400&af_dp=myntra%3A%2F%2Fmyntra.com%2F21387180%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2421387180%240levas%246ade792013cb18fcd9ac734c%24wall%241792964896400&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$21387180$0levas$6ade792013cb18fcd9ac734c$wall$1792964896400$trk-p--direct&sub2=gh_faym$nikkis_universe$21387180$0levas$6ade792013cb18fcd9ac734c$wall$1792964896400$trk-p--direct": {
     "title": "Chemistry Ribbed Studded Detail Fitted Top",
-    "brand": "Chemistry"
+    "brand": "Chemistry",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 800
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$35660326$bccjg8$6ade792113cb18fcd9ac734e$wall$1792964897555$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F35660326%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435660326%24bccjg8%246ade792113cb18fcd9ac734e%24wall%241792964897555&af_android_url=https%3A%2F%2Fwww.myntra.com%2F35660326%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435660326%24bccjg8%246ade792113cb18fcd9ac734e%24wall%241792964897555&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F35660326%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435660326%24bccjg8%246ade792113cb18fcd9ac734e%24wall%241792964897555&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F35660326%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435660326%24bccjg8%246ade792113cb18fcd9ac734e%24wall%241792964897555&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$35660326$bccjg8$6ade792113cb18fcd9ac734e$wall$1792964897555&af_dp=myntra%3A%2F%2Fmyntra.com%2F35660326%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435660326%24bccjg8%246ade792113cb18fcd9ac734e%24wall%241792964897555&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$35660326$bccjg8$6ade792113cb18fcd9ac734e$wall$1792964897555$trk-p--direct&sub2=gh_faym$nikkis_universe$35660326$bccjg8$6ade792113cb18fcd9ac734e$wall$1792964897555$trk-p--direct": {
     "title": "Life With Pockets Women Straight-Fit High-Rise Clean-Look Stretchable Denim Midi Skirt",
-    "brand": "Life With Pockets"
+    "brand": "Life With Pockets",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 65
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$38774898$hg97iv$6ade79212654a2fc45d3a78b$wall$1792964897765$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F38774898%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438774898%24hg97iv%246ade79212654a2fc45d3a78b%24wall%241792964897765&af_android_url=https%3A%2F%2Fwww.myntra.com%2F38774898%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438774898%24hg97iv%246ade79212654a2fc45d3a78b%24wall%241792964897765&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F38774898%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438774898%24hg97iv%246ade79212654a2fc45d3a78b%24wall%241792964897765&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F38774898%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438774898%24hg97iv%246ade79212654a2fc45d3a78b%24wall%241792964897765&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$38774898$hg97iv$6ade79212654a2fc45d3a78b$wall$1792964897765&af_dp=myntra%3A%2F%2Fmyntra.com%2F38774898%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438774898%24hg97iv%246ade79212654a2fc45d3a78b%24wall%241792964897765&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$38774898$hg97iv$6ade79212654a2fc45d3a78b$wall$1792964897765$trk-p--direct&sub2=gh_faym$nikkis_universe$38774898$hg97iv$6ade79212654a2fc45d3a78b$wall$1792964897765$trk-p--direct": {
     "title": "Zucchini Rose Ribbed Boat Neck Top with Cut Out",
-    "brand": "Zucchini"
+    "brand": "Zucchini",
+    "imgs": [],
+    "rating": {
+      "v": 3.6,
+      "n": 24
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$44701341$hrwlus$6ade79222654a2fc45d3a78d$wall$1792964898297$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F44701341%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444701341%24hrwlus%246ade79222654a2fc45d3a78d%24wall%241792964898297&af_android_url=https%3A%2F%2Fwww.myntra.com%2F44701341%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444701341%24hrwlus%246ade79222654a2fc45d3a78d%24wall%241792964898297&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F44701341%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444701341%24hrwlus%246ade79222654a2fc45d3a78d%24wall%241792964898297&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F44701341%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444701341%24hrwlus%246ade79222654a2fc45d3a78d%24wall%241792964898297&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$44701341$hrwlus$6ade79222654a2fc45d3a78d$wall$1792964898297&af_dp=myntra%3A%2F%2Fmyntra.com%2F44701341%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444701341%24hrwlus%246ade79222654a2fc45d3a78d%24wall%241792964898297&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$44701341$hrwlus$6ade79222654a2fc45d3a78d$wall$1792964898297$trk-p--direct&sub2=gh_faym$nikkis_universe$44701341$hrwlus$6ade79222654a2fc45d3a78d$wall$1792964898297$trk-p--direct": {
     "title": "Manqsh by Claura Linen Embroidered Shirt with Palazzos",
-    "brand": "Manqsh by Claura"
+    "brand": "Manqsh by Claura",
+    "imgs": [],
+    "rating": {
+      "v": 4.0,
+      "n": 21
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$42868914$wpjl6q$6ade7925cf554f83e0be752a$wall$1792964901615$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F42868914%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442868914%24wpjl6q%246ade7925cf554f83e0be752a%24wall%241792964901615&af_android_url=https%3A%2F%2Fwww.myntra.com%2F42868914%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442868914%24wpjl6q%246ade7925cf554f83e0be752a%24wall%241792964901615&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F42868914%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442868914%24wpjl6q%246ade7925cf554f83e0be752a%24wall%241792964901615&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F42868914%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442868914%24wpjl6q%246ade7925cf554f83e0be752a%24wall%241792964901615&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$42868914$wpjl6q$6ade7925cf554f83e0be752a$wall$1792964901615&af_dp=myntra%3A%2F%2Fmyntra.com%2F42868914%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442868914%24wpjl6q%246ade7925cf554f83e0be752a%24wall%241792964901615&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$42868914$wpjl6q$6ade7925cf554f83e0be752a$wall$1792964901615$trk-p--direct&sub2=gh_faym$nikkis_universe$42868914$wpjl6q$6ade7925cf554f83e0be752a$wall$1792964901615$trk-p--direct": {
     "title": "Sangria Linen Embroidered Top with Palazzos",
-    "brand": "Sangria"
+    "brand": "Sangria",
+    "imgs": [],
+    "rating": {
+      "v": 4.0,
+      "n": 295
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$34123131$cqi5vf$6ade7928a24431fce04ac091$wall$1792964904846$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F34123131%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2434123131%24cqi5vf%246ade7928a24431fce04ac091%24wall%241792964904846&af_android_url=https%3A%2F%2Fwww.myntra.com%2F34123131%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2434123131%24cqi5vf%246ade7928a24431fce04ac091%24wall%241792964904846&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F34123131%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2434123131%24cqi5vf%246ade7928a24431fce04ac091%24wall%241792964904846&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F34123131%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2434123131%24cqi5vf%246ade7928a24431fce04ac091%24wall%241792964904846&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$34123131$cqi5vf$6ade7928a24431fce04ac091$wall$1792964904846&af_dp=myntra%3A%2F%2Fmyntra.com%2F34123131%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2434123131%24cqi5vf%246ade7928a24431fce04ac091%24wall%241792964904846&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$34123131$cqi5vf$6ade7928a24431fce04ac091$wall$1792964904846$trk-p--direct&sub2=gh_faym$nikkis_universe$34123131$cqi5vf$6ade7928a24431fce04ac091$wall$1792964904846$trk-p--direct": {
     "title": "Pink Paprika by SASSAFRAS Pure Cotton Crop Top & Trousers Co-Ords",
-    "brand": "Pink Paprika by SASSAFRAS"
+    "brand": "Pink Paprika by SASSAFRAS",
+    "imgs": [],
+    "rating": {
+      "v": 4.5,
+      "n": 466
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$40213544$ewnxtd$6ade79282ef8e9fd367136c7$wall$1792964904438$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F40213544%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440213544%24ewnxtd%246ade79282ef8e9fd367136c7%24wall%241792964904438&af_android_url=https%3A%2F%2Fwww.myntra.com%2F40213544%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440213544%24ewnxtd%246ade79282ef8e9fd367136c7%24wall%241792964904438&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F40213544%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440213544%24ewnxtd%246ade79282ef8e9fd367136c7%24wall%241792964904438&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F40213544%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440213544%24ewnxtd%246ade79282ef8e9fd367136c7%24wall%241792964904438&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$40213544$ewnxtd$6ade79282ef8e9fd367136c7$wall$1792964904438&af_dp=myntra%3A%2F%2Fmyntra.com%2F40213544%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440213544%24ewnxtd%246ade79282ef8e9fd367136c7%24wall%241792964904438&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$40213544$ewnxtd$6ade79282ef8e9fd367136c7$wall$1792964904438$trk-p--direct&sub2=gh_faym$nikkis_universe$40213544$ewnxtd$6ade79282ef8e9fd367136c7$wall$1792964904438$trk-p--direct": {
     "title": "AUTUMN LANE Cotton Embellished Tunic with Palazzos",
-    "brand": "AUTUMN LANE"
+    "brand": "AUTUMN LANE",
+    "imgs": [],
+    "rating": {
+      "v": 3.3,
+      "n": 7
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39848634$qjzoq6$6ade792813cb18fcd9ac7369$wall$1792964904681$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39848634%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439848634%24qjzoq6%246ade792813cb18fcd9ac7369%24wall%241792964904681&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39848634%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439848634%24qjzoq6%246ade792813cb18fcd9ac7369%24wall%241792964904681&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39848634%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439848634%24qjzoq6%246ade792813cb18fcd9ac7369%24wall%241792964904681&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39848634%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439848634%24qjzoq6%246ade792813cb18fcd9ac7369%24wall%241792964904681&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39848634$qjzoq6$6ade792813cb18fcd9ac7369$wall$1792964904681&af_dp=myntra%3A%2F%2Fmyntra.com%2F39848634%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439848634%24qjzoq6%246ade792813cb18fcd9ac7369%24wall%241792964904681&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39848634$qjzoq6$6ade792813cb18fcd9ac7369$wall$1792964904681$trk-p--direct&sub2=gh_faym$nikkis_universe$39848634$qjzoq6$6ade792813cb18fcd9ac7369$wall$1792964904681$trk-p--direct": {
     "title": "MASSTANI BY INDDUS Printed Shirt with Trousers",
-    "brand": "MASSTANI BY INDDUS"
+    "brand": "MASSTANI BY INDDUS",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 37
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39808531$d0dssj$6ade792c13cb18fcd9ac7371$wall$1792964908615$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39808531%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439808531%24d0dssj%246ade792c13cb18fcd9ac7371%24wall%241792964908615&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39808531%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439808531%24d0dssj%246ade792c13cb18fcd9ac7371%24wall%241792964908615&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39808531%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439808531%24d0dssj%246ade792c13cb18fcd9ac7371%24wall%241792964908615&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39808531%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439808531%24d0dssj%246ade792c13cb18fcd9ac7371%24wall%241792964908615&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39808531$d0dssj$6ade792c13cb18fcd9ac7371$wall$1792964908615&af_dp=myntra%3A%2F%2Fmyntra.com%2F39808531%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439808531%24d0dssj%246ade792c13cb18fcd9ac7371%24wall%241792964908615&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39808531$d0dssj$6ade792c13cb18fcd9ac7371$wall$1792964908615$trk-p--direct&sub2=gh_faym$nikkis_universe$39808531$d0dssj$6ade792c13cb18fcd9ac7371$wall$1792964908615$trk-p--direct": {
     "title": "ZUMMER Romantic Florals Cotton Embroidered Shirt with Trousers",
-    "brand": "ZUMMER"
+    "brand": "ZUMMER",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39523629$thlgmz$6ade792e857deffd426b7a1d$wall$1792964910029$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39523629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439523629%24thlgmz%246ade792e857deffd426b7a1d%24wall%241792964910029&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39523629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439523629%24thlgmz%246ade792e857deffd426b7a1d%24wall%241792964910029&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39523629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439523629%24thlgmz%246ade792e857deffd426b7a1d%24wall%241792964910029&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39523629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439523629%24thlgmz%246ade792e857deffd426b7a1d%24wall%241792964910029&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39523629$thlgmz$6ade792e857deffd426b7a1d$wall$1792964910029&af_dp=myntra%3A%2F%2Fmyntra.com%2F39523629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439523629%24thlgmz%246ade792e857deffd426b7a1d%24wall%241792964910029&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39523629$thlgmz$6ade792e857deffd426b7a1d$wall$1792964910029$trk-p--direct&sub2=gh_faym$nikkis_universe$39523629$thlgmz$6ade792e857deffd426b7a1d$wall$1792964910029$trk-p--direct": {
     "title": "Warthy Ent Embroidered Top With Trousers Co-Ords",
-    "brand": "Warthy Ent"
+    "brand": "Warthy Ent",
+    "imgs": [],
+    "rating": {
+      "v": 3.8,
+      "n": 26
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$36826150$mevklc$6ade792e8588cdfd8dab2087$wall$1792964910123$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F36826150%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436826150%24mevklc%246ade792e8588cdfd8dab2087%24wall%241792964910123&af_android_url=https%3A%2F%2Fwww.myntra.com%2F36826150%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436826150%24mevklc%246ade792e8588cdfd8dab2087%24wall%241792964910123&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F36826150%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436826150%24mevklc%246ade792e8588cdfd8dab2087%24wall%241792964910123&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F36826150%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436826150%24mevklc%246ade792e8588cdfd8dab2087%24wall%241792964910123&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$36826150$mevklc$6ade792e8588cdfd8dab2087$wall$1792964910123&af_dp=myntra%3A%2F%2Fmyntra.com%2F36826150%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436826150%24mevklc%246ade792e8588cdfd8dab2087%24wall%241792964910123&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$36826150$mevklc$6ade792e8588cdfd8dab2087$wall$1792964910123$trk-p--direct&sub2=gh_faym$nikkis_universe$36826150$mevklc$6ade792e8588cdfd8dab2087$wall$1792964910123$trk-p--direct": {
     "title": "Purple Feather Women Buckle Detailing Stretchable Skorts",
-    "brand": "Purple Feather"
+    "brand": "Purple Feather",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 519
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$42229867$hkgc1f$6ade792e857deffd426b7a1f$wall$1792964910947$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F42229867%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442229867%24hkgc1f%246ade792e857deffd426b7a1f%24wall%241792964910947&af_android_url=https%3A%2F%2Fwww.myntra.com%2F42229867%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442229867%24hkgc1f%246ade792e857deffd426b7a1f%24wall%241792964910947&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F42229867%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442229867%24hkgc1f%246ade792e857deffd426b7a1f%24wall%241792964910947&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F42229867%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442229867%24hkgc1f%246ade792e857deffd426b7a1f%24wall%241792964910947&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$42229867$hkgc1f$6ade792e857deffd426b7a1f$wall$1792964910947&af_dp=myntra%3A%2F%2Fmyntra.com%2F42229867%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442229867%24hkgc1f%246ade792e857deffd426b7a1f%24wall%241792964910947&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$42229867$hkgc1f$6ade792e857deffd426b7a1f$wall$1792964910947$trk-p--direct&sub2=gh_faym$nikkis_universe$42229867$hkgc1f$6ade792e857deffd426b7a1f$wall$1792964910947$trk-p--direct": {
     "title": "Suo Top",
-    "brand": "Suo"
+    "brand": "Suo",
+    "imgs": [],
+    "rating": {
+      "v": 3.5,
+      "n": 8
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$41281905$b6fyc2$6ade79308588cdfd8dab2089$wall$1792964912607$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F41281905%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441281905%24b6fyc2%246ade79308588cdfd8dab2089%24wall%241792964912607&af_android_url=https%3A%2F%2Fwww.myntra.com%2F41281905%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441281905%24b6fyc2%246ade79308588cdfd8dab2089%24wall%241792964912607&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F41281905%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441281905%24b6fyc2%246ade79308588cdfd8dab2089%24wall%241792964912607&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F41281905%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441281905%24b6fyc2%246ade79308588cdfd8dab2089%24wall%241792964912607&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$41281905$b6fyc2$6ade79308588cdfd8dab2089$wall$1792964912607&af_dp=myntra%3A%2F%2Fmyntra.com%2F41281905%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441281905%24b6fyc2%246ade79308588cdfd8dab2089%24wall%241792964912607&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$41281905$b6fyc2$6ade79308588cdfd8dab2089$wall$1792964912607$trk-p--direct&sub2=gh_faym$nikkis_universe$41281905$b6fyc2$6ade79308588cdfd8dab2089$wall$1792964912607$trk-p--direct": {
     "title": "Suo Women A-Line Skirt",
-    "brand": "Suo"
+    "brand": "Suo",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$40391053$agphtr$6ade7932b089fcfe966c2c62$wall$1792964914236$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F40391053%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440391053%24agphtr%246ade7932b089fcfe966c2c62%24wall%241792964914236&af_android_url=https%3A%2F%2Fwww.myntra.com%2F40391053%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440391053%24agphtr%246ade7932b089fcfe966c2c62%24wall%241792964914236&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F40391053%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440391053%24agphtr%246ade7932b089fcfe966c2c62%24wall%241792964914236&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F40391053%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440391053%24agphtr%246ade7932b089fcfe966c2c62%24wall%241792964914236&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$40391053$agphtr$6ade7932b089fcfe966c2c62$wall$1792964914236&af_dp=myntra%3A%2F%2Fmyntra.com%2F40391053%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440391053%24agphtr%246ade7932b089fcfe966c2c62%24wall%241792964914236&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$40391053$agphtr$6ade7932b089fcfe966c2c62$wall$1792964914236$trk-p--direct&sub2=gh_faym$nikkis_universe$40391053$agphtr$6ade7932b089fcfe966c2c62$wall$1792964914236$trk-p--direct": {
     "title": "glitchez Ruffles Top",
-    "brand": "glitchez"
+    "brand": "glitchez",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 871
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$46471991$zb4k0j$6ade7932b089fcfe966c2c64$wall$1792964914895$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F46471991%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446471991%24zb4k0j%246ade7932b089fcfe966c2c64%24wall%241792964914895&af_android_url=https%3A%2F%2Fwww.myntra.com%2F46471991%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446471991%24zb4k0j%246ade7932b089fcfe966c2c64%24wall%241792964914895&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F46471991%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446471991%24zb4k0j%246ade7932b089fcfe966c2c64%24wall%241792964914895&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F46471991%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446471991%24zb4k0j%246ade7932b089fcfe966c2c64%24wall%241792964914895&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$46471991$zb4k0j$6ade7932b089fcfe966c2c64$wall$1792964914895&af_dp=myntra%3A%2F%2Fmyntra.com%2F46471991%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446471991%24zb4k0j%246ade7932b089fcfe966c2c64%24wall%241792964914895&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$46471991$zb4k0j$6ade7932b089fcfe966c2c64$wall$1792964914895$trk-p--direct&sub2=gh_faym$nikkis_universe$46471991$zb4k0j$6ade7932b089fcfe966c2c64$wall$1792964914895$trk-p--direct": {
     "title": "FOREVER FRIDAY Women Sleek Utility Midi A-Line Skirt",
-    "brand": "FOREVER FRIDAY"
+    "brand": "FOREVER FRIDAY",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39602976$johalo$6ade79328588cdfd8dab2090$wall$1792964914912$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39602976%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439602976%24johalo%246ade79328588cdfd8dab2090%24wall%241792964914912&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39602976%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439602976%24johalo%246ade79328588cdfd8dab2090%24wall%241792964914912&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39602976%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439602976%24johalo%246ade79328588cdfd8dab2090%24wall%241792964914912&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39602976%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439602976%24johalo%246ade79328588cdfd8dab2090%24wall%241792964914912&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39602976$johalo$6ade79328588cdfd8dab2090$wall$1792964914912&af_dp=myntra%3A%2F%2Fmyntra.com%2F39602976%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439602976%24johalo%246ade79328588cdfd8dab2090%24wall%241792964914912&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39602976$johalo$6ade79328588cdfd8dab2090$wall$1792964914912$trk-p--direct&sub2=gh_faym$nikkis_universe$39602976$johalo$6ade79328588cdfd8dab2090$wall$1792964914912$trk-p--direct": {
     "title": "Anouk Embroidered Shirt Collar Shirt & Trousers Co-Ords",
-    "brand": "Anouk"
+    "brand": "Anouk",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 14
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39717911$vsz4ts$6ade7934857deffd426b7a31$wall$1792964916720$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39717911%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439717911%24vsz4ts%246ade7934857deffd426b7a31%24wall%241792964916720&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39717911%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439717911%24vsz4ts%246ade7934857deffd426b7a31%24wall%241792964916720&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39717911%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439717911%24vsz4ts%246ade7934857deffd426b7a31%24wall%241792964916720&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39717911%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439717911%24vsz4ts%246ade7934857deffd426b7a31%24wall%241792964916720&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39717911$vsz4ts$6ade7934857deffd426b7a31$wall$1792964916720&af_dp=myntra%3A%2F%2Fmyntra.com%2F39717911%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439717911%24vsz4ts%246ade7934857deffd426b7a31%24wall%241792964916720&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39717911$vsz4ts$6ade7934857deffd426b7a31$wall$1792964916720$trk-p--direct&sub2=gh_faym$nikkis_universe$39717911$vsz4ts$6ade7934857deffd426b7a31$wall$1792964916720$trk-p--direct": {
     "title": "KALINI Embroidered Tunic with Palazzos",
-    "brand": "KALINI"
+    "brand": "KALINI",
+    "imgs": [],
+    "rating": {
+      "v": 3.9,
+      "n": 198
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$38227350$6lkvd1$6ade793913cb18fcd9ac7393$wall$1792964921622$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F38227350%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438227350%246lkvd1%246ade793913cb18fcd9ac7393%24wall%241792964921622&af_android_url=https%3A%2F%2Fwww.myntra.com%2F38227350%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438227350%246lkvd1%246ade793913cb18fcd9ac7393%24wall%241792964921622&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F38227350%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438227350%246lkvd1%246ade793913cb18fcd9ac7393%24wall%241792964921622&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F38227350%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438227350%246lkvd1%246ade793913cb18fcd9ac7393%24wall%241792964921622&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$38227350$6lkvd1$6ade793913cb18fcd9ac7393$wall$1792964921622&af_dp=myntra%3A%2F%2Fmyntra.com%2F38227350%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2438227350%246lkvd1%246ade793913cb18fcd9ac7393%24wall%241792964921622&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$38227350$6lkvd1$6ade793913cb18fcd9ac7393$wall$1792964921622$trk-p--direct&sub2=gh_faym$nikkis_universe$38227350$6lkvd1$6ade793913cb18fcd9ac7393$wall$1792964921622$trk-p--direct": {
     "title": "AAFAMI Women Floral Regular Pure Cotton Kurti with Trousers",
-    "brand": "AAFAMI"
+    "brand": "AAFAMI",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 202
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$37702629$kd1wan$6ade793865899cfde31337c2$wall$1792964920834$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F37702629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437702629%24kd1wan%246ade793865899cfde31337c2%24wall%241792964920834&af_android_url=https%3A%2F%2Fwww.myntra.com%2F37702629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437702629%24kd1wan%246ade793865899cfde31337c2%24wall%241792964920834&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F37702629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437702629%24kd1wan%246ade793865899cfde31337c2%24wall%241792964920834&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F37702629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437702629%24kd1wan%246ade793865899cfde31337c2%24wall%241792964920834&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$37702629$kd1wan$6ade793865899cfde31337c2$wall$1792964920834&af_dp=myntra%3A%2F%2Fmyntra.com%2F37702629%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437702629%24kd1wan%246ade793865899cfde31337c2%24wall%241792964920834&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$37702629$kd1wan$6ade793865899cfde31337c2$wall$1792964920834$trk-p--direct&sub2=gh_faym$nikkis_universe$37702629$kd1wan$6ade793865899cfde31337c2$wall$1792964920834$trk-p--direct": {
     "title": "Amarasha Vertican Embroidery Coord Set",
-    "brand": "Amarasha"
+    "brand": "Amarasha",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 703
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39549512$i0sotr$6ade793913cb18fcd9ac738f$wall$1792964921189$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39549512%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439549512%24i0sotr%246ade793913cb18fcd9ac738f%24wall%241792964921189&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39549512%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439549512%24i0sotr%246ade793913cb18fcd9ac738f%24wall%241792964921189&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39549512%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439549512%24i0sotr%246ade793913cb18fcd9ac738f%24wall%241792964921189&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39549512%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439549512%24i0sotr%246ade793913cb18fcd9ac738f%24wall%241792964921189&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39549512$i0sotr$6ade793913cb18fcd9ac738f$wall$1792964921189&af_dp=myntra%3A%2F%2Fmyntra.com%2F39549512%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439549512%24i0sotr%246ade793913cb18fcd9ac738f%24wall%241792964921189&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39549512$i0sotr$6ade793913cb18fcd9ac738f$wall$1792964921189$trk-p--direct&sub2=gh_faym$nikkis_universe$39549512$i0sotr$6ade793913cb18fcd9ac738f$wall$1792964921189$trk-p--direct": {
     "title": "Warthy Ent Pure Cotton Embroidered V-Neck Top & Trousers Co-Ords",
-    "brand": "Warthy Ent"
+    "brand": "Warthy Ent",
+    "imgs": [],
+    "rating": {
+      "v": 3.6,
+      "n": 261
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39275154$rtvzfn$6ade793b0fe39b1fcfdf5895$wall$1792964923778$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39275154%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439275154%24rtvzfn%246ade793b0fe39b1fcfdf5895%24wall%241792964923778&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39275154%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439275154%24rtvzfn%246ade793b0fe39b1fcfdf5895%24wall%241792964923778&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39275154%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439275154%24rtvzfn%246ade793b0fe39b1fcfdf5895%24wall%241792964923778&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39275154%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439275154%24rtvzfn%246ade793b0fe39b1fcfdf5895%24wall%241792964923778&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39275154$rtvzfn$6ade793b0fe39b1fcfdf5895$wall$1792964923778&af_dp=myntra%3A%2F%2Fmyntra.com%2F39275154%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439275154%24rtvzfn%246ade793b0fe39b1fcfdf5895%24wall%241792964923778&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39275154$rtvzfn$6ade793b0fe39b1fcfdf5895$wall$1792964923778$trk-p--direct&sub2=gh_faym$nikkis_universe$39275154$rtvzfn$6ade793b0fe39b1fcfdf5895$wall$1792964923778$trk-p--direct": {
     "title": "Anouk Embroidered Silk Blend Shirt Collar Romantic Florals Co-Ords",
-    "brand": "Anouk"
+    "brand": "Anouk",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 273
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$27637220$raf25k$6ade79410fe39b1fcfdf58a2$wall$1792964929034$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F27637220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2427637220%24raf25k%246ade79410fe39b1fcfdf58a2%24wall%241792964929034&af_android_url=https%3A%2F%2Fwww.myntra.com%2F27637220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2427637220%24raf25k%246ade79410fe39b1fcfdf58a2%24wall%241792964929034&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F27637220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2427637220%24raf25k%246ade79410fe39b1fcfdf58a2%24wall%241792964929034&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F27637220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2427637220%24raf25k%246ade79410fe39b1fcfdf58a2%24wall%241792964929034&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$27637220$raf25k$6ade79410fe39b1fcfdf58a2$wall$1792964929034&af_dp=myntra%3A%2F%2Fmyntra.com%2F27637220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2427637220%24raf25k%246ade79410fe39b1fcfdf58a2%24wall%241792964929034&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$27637220$raf25k$6ade79410fe39b1fcfdf58a2$wall$1792964929034$trk-p--direct&sub2=gh_faym$nikkis_universe$27637220$raf25k$6ade79410fe39b1fcfdf58a2$wall$1792964929034$trk-p--direct": {
     "title": "Globus Floral Printed Co-Ord Set",
-    "brand": "Globus"
+    "brand": "Globus",
+    "imgs": [],
+    "rating": {
+      "v": 4.5,
+      "n": 485
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$33513468$mabsfl$6ade79418588cdfd8dab20da$wall$1792964929020$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F33513468%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433513468%24mabsfl%246ade79418588cdfd8dab20da%24wall%241792964929020&af_android_url=https%3A%2F%2Fwww.myntra.com%2F33513468%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433513468%24mabsfl%246ade79418588cdfd8dab20da%24wall%241792964929020&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F33513468%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433513468%24mabsfl%246ade79418588cdfd8dab20da%24wall%241792964929020&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F33513468%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433513468%24mabsfl%246ade79418588cdfd8dab20da%24wall%241792964929020&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$33513468$mabsfl$6ade79418588cdfd8dab20da$wall$1792964929020&af_dp=myntra%3A%2F%2Fmyntra.com%2F33513468%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433513468%24mabsfl%246ade79418588cdfd8dab20da%24wall%241792964929020&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$33513468$mabsfl$6ade79418588cdfd8dab20da$wall$1792964929020$trk-p--direct&sub2=gh_faym$nikkis_universe$33513468$mabsfl$6ade79418588cdfd8dab20da$wall$1792964929020$trk-p--direct": {
     "title": "SASSAFRAS Schiffli Embroidered Square Neck Pure Cotton Top With Palazzo",
-    "brand": "SASSAFRAS"
+    "brand": "SASSAFRAS",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 340
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$30083517$ggqbsf$6ade79407a2500fd9975973c$wall$1792964928873$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F30083517%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2430083517%24ggqbsf%246ade79407a2500fd9975973c%24wall%241792964928873&af_android_url=https%3A%2F%2Fwww.myntra.com%2F30083517%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2430083517%24ggqbsf%246ade79407a2500fd9975973c%24wall%241792964928873&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F30083517%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2430083517%24ggqbsf%246ade79407a2500fd9975973c%24wall%241792964928873&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F30083517%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2430083517%24ggqbsf%246ade79407a2500fd9975973c%24wall%241792964928873&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$30083517$ggqbsf$6ade79407a2500fd9975973c$wall$1792964928873&af_dp=myntra%3A%2F%2Fmyntra.com%2F30083517%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2430083517%24ggqbsf%246ade79407a2500fd9975973c%24wall%241792964928873&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$30083517$ggqbsf$6ade79407a2500fd9975973c$wall$1792964928873$trk-p--direct&sub2=gh_faym$nikkis_universe$30083517$ggqbsf$6ade79407a2500fd9975973c$wall$1792964928873$trk-p--direct": {
     "title": "Globus Floral Printed Notch Lapel Shirt & Palazzos Fusion Co-Ord Set",
-    "brand": "Globus"
+    "brand": "Globus",
+    "imgs": [],
+    "rating": {
+      "v": 4.4,
+      "n": 71
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$33993317$y89nza$6ade794265899cfde31337fb$wall$1792964930162$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F33993317%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433993317%24y89nza%246ade794265899cfde31337fb%24wall%241792964930162&af_android_url=https%3A%2F%2Fwww.myntra.com%2F33993317%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433993317%24y89nza%246ade794265899cfde31337fb%24wall%241792964930162&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F33993317%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433993317%24y89nza%246ade794265899cfde31337fb%24wall%241792964930162&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F33993317%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433993317%24y89nza%246ade794265899cfde31337fb%24wall%241792964930162&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$33993317$y89nza$6ade794265899cfde31337fb$wall$1792964930162&af_dp=myntra%3A%2F%2Fmyntra.com%2F33993317%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433993317%24y89nza%246ade794265899cfde31337fb%24wall%241792964930162&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$33993317$y89nza$6ade794265899cfde31337fb$wall$1792964930162$trk-p--direct&sub2=gh_faym$nikkis_universe$33993317$y89nza$6ade794265899cfde31337fb$wall$1792964930162$trk-p--direct": {
     "title": "bebe Round Neck Top With Palazzos Co-Ords",
-    "brand": "bebe"
+    "brand": "bebe",
+    "imgs": [],
+    "rating": {
+      "v": 4.0,
+      "n": 566
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$43345012$gz2gbl$6ade794513cb18fcd9ac73a7$wall$1792964933963$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F43345012%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443345012%24gz2gbl%246ade794513cb18fcd9ac73a7%24wall%241792964933963&af_android_url=https%3A%2F%2Fwww.myntra.com%2F43345012%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443345012%24gz2gbl%246ade794513cb18fcd9ac73a7%24wall%241792964933963&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F43345012%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443345012%24gz2gbl%246ade794513cb18fcd9ac73a7%24wall%241792964933963&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F43345012%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443345012%24gz2gbl%246ade794513cb18fcd9ac73a7%24wall%241792964933963&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$43345012$gz2gbl$6ade794513cb18fcd9ac73a7$wall$1792964933963&af_dp=myntra%3A%2F%2Fmyntra.com%2F43345012%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443345012%24gz2gbl%246ade794513cb18fcd9ac73a7%24wall%241792964933963&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$43345012$gz2gbl$6ade794513cb18fcd9ac73a7$wall$1792964933963$trk-p--direct&sub2=gh_faym$nikkis_universe$43345012$gz2gbl$6ade794513cb18fcd9ac73a7$wall$1792964933963$trk-p--direct": {
     "title": "Anouk Pastels Cotton Tunic with Trousers",
-    "brand": "Anouk"
+    "brand": "Anouk",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 1043
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$42864258$6j5kim$6ade79452654a2fc45d3a7cc$wall$1792964933669$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F42864258%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442864258%246j5kim%246ade79452654a2fc45d3a7cc%24wall%241792964933669&af_android_url=https%3A%2F%2Fwww.myntra.com%2F42864258%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442864258%246j5kim%246ade79452654a2fc45d3a7cc%24wall%241792964933669&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F42864258%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442864258%246j5kim%246ade79452654a2fc45d3a7cc%24wall%241792964933669&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F42864258%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442864258%246j5kim%246ade79452654a2fc45d3a7cc%24wall%241792964933669&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$42864258$6j5kim$6ade79452654a2fc45d3a7cc$wall$1792964933669&af_dp=myntra%3A%2F%2Fmyntra.com%2F42864258%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442864258%246j5kim%246ade79452654a2fc45d3a7cc%24wall%241792964933669&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$42864258$6j5kim$6ade79452654a2fc45d3a7cc$wall$1792964933669$trk-p--direct&sub2=gh_faym$nikkis_universe$42864258$6j5kim$6ade79452654a2fc45d3a7cc$wall$1792964933669$trk-p--direct": {
     "title": "ROSHNI Women Floral Embroidered Scoop Neck Viscose Rayon Tunic With Trouser",
-    "brand": "ROSHNI"
+    "brand": "ROSHNI",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 345
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$40132846$uzrrya$6ade794630da32884cd1f5c7$wall$1792964934364$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F40132846%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440132846%24uzrrya%246ade794630da32884cd1f5c7%24wall%241792964934364&af_android_url=https%3A%2F%2Fwww.myntra.com%2F40132846%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440132846%24uzrrya%246ade794630da32884cd1f5c7%24wall%241792964934364&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F40132846%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440132846%24uzrrya%246ade794630da32884cd1f5c7%24wall%241792964934364&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F40132846%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440132846%24uzrrya%246ade794630da32884cd1f5c7%24wall%241792964934364&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$40132846$uzrrya$6ade794630da32884cd1f5c7$wall$1792964934364&af_dp=myntra%3A%2F%2Fmyntra.com%2F40132846%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440132846%24uzrrya%246ade794630da32884cd1f5c7%24wall%241792964934364&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$40132846$uzrrya$6ade794630da32884cd1f5c7$wall$1792964934364$trk-p--direct&sub2=gh_faym$nikkis_universe$40132846$uzrrya$6ade794630da32884cd1f5c7$wall$1792964934364$trk-p--direct": {
     "title": "Tikhi Imli Embroidered Tunic with Palazzos",
-    "brand": "Tikhi Imli"
+    "brand": "Tikhi Imli",
+    "imgs": [],
+    "rating": {
+      "v": 4.4,
+      "n": 255
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$40041078$9lyi4x$6ade79468588cdfd8dab20e4$wall$1792964934990$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F40041078%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440041078%249lyi4x%246ade79468588cdfd8dab20e4%24wall%241792964934990&af_android_url=https%3A%2F%2Fwww.myntra.com%2F40041078%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440041078%249lyi4x%246ade79468588cdfd8dab20e4%24wall%241792964934990&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F40041078%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440041078%249lyi4x%246ade79468588cdfd8dab20e4%24wall%241792964934990&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F40041078%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440041078%249lyi4x%246ade79468588cdfd8dab20e4%24wall%241792964934990&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$40041078$9lyi4x$6ade79468588cdfd8dab20e4$wall$1792964934990&af_dp=myntra%3A%2F%2Fmyntra.com%2F40041078%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440041078%249lyi4x%246ade79468588cdfd8dab20e4%24wall%241792964934990&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$40041078$9lyi4x$6ade79468588cdfd8dab20e4$wall$1792964934990$trk-p--direct&sub2=gh_faym$nikkis_universe$40041078$9lyi4x$6ade79468588cdfd8dab20e4$wall$1792964934990$trk-p--direct": {
     "title": "Sangria Chanderi Embroidered Tunic with Trousers",
-    "brand": "Sangria"
+    "brand": "Sangria",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 134
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39397718$sweaii$6ade794a0fe39b1fcfdf58c6$wall$1792964938052$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39397718%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439397718%24sweaii%246ade794a0fe39b1fcfdf58c6%24wall%241792964938052&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39397718%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439397718%24sweaii%246ade794a0fe39b1fcfdf58c6%24wall%241792964938052&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39397718%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439397718%24sweaii%246ade794a0fe39b1fcfdf58c6%24wall%241792964938052&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39397718%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439397718%24sweaii%246ade794a0fe39b1fcfdf58c6%24wall%241792964938052&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39397718$sweaii$6ade794a0fe39b1fcfdf58c6$wall$1792964938052&af_dp=myntra%3A%2F%2Fmyntra.com%2F39397718%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439397718%24sweaii%246ade794a0fe39b1fcfdf58c6%24wall%241792964938052&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39397718$sweaii$6ade794a0fe39b1fcfdf58c6$wall$1792964938052$trk-p--direct&sub2=gh_faym$nikkis_universe$39397718$sweaii$6ade794a0fe39b1fcfdf58c6$wall$1792964938052$trk-p--direct": {
     "title": "Outzidr Pink Off-Shoulder Top With Floral Embellishments",
-    "brand": "Outzidr"
+    "brand": "Outzidr",
+    "imgs": [],
+    "rating": {
+      "v": 4.0,
+      "n": 291
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$37804237$15calr$6ade794a6caccafbed3e454b$wall$1792964938472$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F37804237%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437804237%2415calr%246ade794a6caccafbed3e454b%24wall%241792964938472&af_android_url=https%3A%2F%2Fwww.myntra.com%2F37804237%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437804237%2415calr%246ade794a6caccafbed3e454b%24wall%241792964938472&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F37804237%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437804237%2415calr%246ade794a6caccafbed3e454b%24wall%241792964938472&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F37804237%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437804237%2415calr%246ade794a6caccafbed3e454b%24wall%241792964938472&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$37804237$15calr$6ade794a6caccafbed3e454b$wall$1792964938472&af_dp=myntra%3A%2F%2Fmyntra.com%2F37804237%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437804237%2415calr%246ade794a6caccafbed3e454b%24wall%241792964938472&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$37804237$15calr$6ade794a6caccafbed3e454b$wall$1792964938472$trk-p--direct&sub2=gh_faym$nikkis_universe$37804237$15calr$6ade794a6caccafbed3e454b$wall$1792964938472$trk-p--direct": {
     "title": "GIANNA Embroidered Pure Cotton Round Neck Top With Trousers Co-Ords",
-    "brand": "GIANNA"
+    "brand": "GIANNA",
+    "imgs": [],
+    "rating": {
+      "v": 4.0,
+      "n": 6
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39399499$nymph1$6ade794aa24431fce04ac0ef$wall$1792964938384$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39399499%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439399499%24nymph1%246ade794aa24431fce04ac0ef%24wall%241792964938384&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39399499%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439399499%24nymph1%246ade794aa24431fce04ac0ef%24wall%241792964938384&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39399499%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439399499%24nymph1%246ade794aa24431fce04ac0ef%24wall%241792964938384&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39399499%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439399499%24nymph1%246ade794aa24431fce04ac0ef%24wall%241792964938384&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39399499$nymph1$6ade794aa24431fce04ac0ef$wall$1792964938384&af_dp=myntra%3A%2F%2Fmyntra.com%2F39399499%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439399499%24nymph1%246ade794aa24431fce04ac0ef%24wall%241792964938384&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39399499$nymph1$6ade794aa24431fce04ac0ef$wall$1792964938384$trk-p--direct&sub2=gh_faym$nikkis_universe$39399499$nymph1$6ade794aa24431fce04ac0ef$wall$1792964938384$trk-p--direct": {
     "title": "Tikhi Imli Embroidered Round Neck Top With Palazzos Co-Ords",
-    "brand": "Tikhi Imli"
+    "brand": "Tikhi Imli",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 201
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39616958$hf7svp$6ade794b2654a2fc45d3a7dc$wall$1792964939323$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39616958%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439616958%24hf7svp%246ade794b2654a2fc45d3a7dc%24wall%241792964939323&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39616958%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439616958%24hf7svp%246ade794b2654a2fc45d3a7dc%24wall%241792964939323&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39616958%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439616958%24hf7svp%246ade794b2654a2fc45d3a7dc%24wall%241792964939323&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39616958%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439616958%24hf7svp%246ade794b2654a2fc45d3a7dc%24wall%241792964939323&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39616958$hf7svp$6ade794b2654a2fc45d3a7dc$wall$1792964939323&af_dp=myntra%3A%2F%2Fmyntra.com%2F39616958%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439616958%24hf7svp%246ade794b2654a2fc45d3a7dc%24wall%241792964939323&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39616958$hf7svp$6ade794b2654a2fc45d3a7dc$wall$1792964939323$trk-p--direct&sub2=gh_faym$nikkis_universe$39616958$hf7svp$6ade794b2654a2fc45d3a7dc$wall$1792964939323$trk-p--direct": {
     "title": "Anouk Embroidered Tunic With Palazzos Co-Ords",
-    "brand": "Anouk"
+    "brand": "Anouk",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 789
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$43075779$6226h7$6ade7950a24431fce04ac103$wall$1792964944056$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F43075779%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443075779%246226h7%246ade7950a24431fce04ac103%24wall%241792964944056&af_android_url=https%3A%2F%2Fwww.myntra.com%2F43075779%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443075779%246226h7%246ade7950a24431fce04ac103%24wall%241792964944056&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F43075779%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443075779%246226h7%246ade7950a24431fce04ac103%24wall%241792964944056&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F43075779%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443075779%246226h7%246ade7950a24431fce04ac103%24wall%241792964944056&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$43075779$6226h7$6ade7950a24431fce04ac103$wall$1792964944056&af_dp=myntra%3A%2F%2Fmyntra.com%2F43075779%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2443075779%246226h7%246ade7950a24431fce04ac103%24wall%241792964944056&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$43075779$6226h7$6ade7950a24431fce04ac103$wall$1792964944056$trk-p--direct&sub2=gh_faym$nikkis_universe$43075779$6226h7$6ade7950a24431fce04ac103$wall$1792964944056$trk-p--direct": {
     "title": "Inddus Embroidered Tunic with Palazzos",
-    "brand": "Inddus"
+    "brand": "Inddus",
+    "imgs": [],
+    "rating": {
+      "v": 3.7,
+      "n": 6
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$39515533$7hookr$6ade7950b089fcfe966c2cb5$wall$1792964944672$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F39515533%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439515533%247hookr%246ade7950b089fcfe966c2cb5%24wall%241792964944672&af_android_url=https%3A%2F%2Fwww.myntra.com%2F39515533%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439515533%247hookr%246ade7950b089fcfe966c2cb5%24wall%241792964944672&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F39515533%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439515533%247hookr%246ade7950b089fcfe966c2cb5%24wall%241792964944672&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F39515533%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439515533%247hookr%246ade7950b089fcfe966c2cb5%24wall%241792964944672&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$39515533$7hookr$6ade7950b089fcfe966c2cb5$wall$1792964944672&af_dp=myntra%3A%2F%2Fmyntra.com%2F39515533%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2439515533%247hookr%246ade7950b089fcfe966c2cb5%24wall%241792964944672&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$39515533$7hookr$6ade7950b089fcfe966c2cb5$wall$1792964944672$trk-p--direct&sub2=gh_faym$nikkis_universe$39515533$7hookr$6ade7950b089fcfe966c2cb5$wall$1792964944672$trk-p--direct": {
     "title": "Anouk Embroidered Round Neck Tunic & Trousers Co-Ords",
-    "brand": "Anouk"
+    "brand": "Anouk",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 1183
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$35005220$92drml$6ade7951b089fcfe966c2cb7$wall$1792964945506$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F35005220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435005220%2492drml%246ade7951b089fcfe966c2cb7%24wall%241792964945506&af_android_url=https%3A%2F%2Fwww.myntra.com%2F35005220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435005220%2492drml%246ade7951b089fcfe966c2cb7%24wall%241792964945506&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F35005220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435005220%2492drml%246ade7951b089fcfe966c2cb7%24wall%241792964945506&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F35005220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435005220%2492drml%246ade7951b089fcfe966c2cb7%24wall%241792964945506&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$35005220$92drml$6ade7951b089fcfe966c2cb7$wall$1792964945506&af_dp=myntra%3A%2F%2Fmyntra.com%2F35005220%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2435005220%2492drml%246ade7951b089fcfe966c2cb7%24wall%241792964945506&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$35005220$92drml$6ade7951b089fcfe966c2cb7$wall$1792964945506$trk-p--direct&sub2=gh_faym$nikkis_universe$35005220$92drml$6ade7951b089fcfe966c2cb7$wall$1792964945506$trk-p--direct": {
     "title": "fusion by glitchez Pink Ethnic Motif Sleeveless Peplum Top",
-    "brand": "fusion by glitchez"
+    "brand": "fusion by glitchez",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 39
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$44541235$hpqapg$6ade79516caccafbed3e4559$wall$1792964945866$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F44541235%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444541235%24hpqapg%246ade79516caccafbed3e4559%24wall%241792964945866&af_android_url=https%3A%2F%2Fwww.myntra.com%2F44541235%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444541235%24hpqapg%246ade79516caccafbed3e4559%24wall%241792964945866&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F44541235%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444541235%24hpqapg%246ade79516caccafbed3e4559%24wall%241792964945866&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F44541235%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444541235%24hpqapg%246ade79516caccafbed3e4559%24wall%241792964945866&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$44541235$hpqapg$6ade79516caccafbed3e4559$wall$1792964945866&af_dp=myntra%3A%2F%2Fmyntra.com%2F44541235%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444541235%24hpqapg%246ade79516caccafbed3e4559%24wall%241792964945866&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$44541235$hpqapg$6ade79516caccafbed3e4559$wall$1792964945866$trk-p--direct&sub2=gh_faym$nikkis_universe$44541235$hpqapg$6ade79516caccafbed3e4559$wall$1792964945866$trk-p--direct": {
     "title": "Stylum Solid Top with Trousers",
-    "brand": "Stylum"
+    "brand": "Stylum",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 7754
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$41870239$uygxuy$6ade795665899cfde3133826$wall$1792964950067$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F41870239%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441870239%24uygxuy%246ade795665899cfde3133826%24wall%241792964950067&af_android_url=https%3A%2F%2Fwww.myntra.com%2F41870239%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441870239%24uygxuy%246ade795665899cfde3133826%24wall%241792964950067&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F41870239%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441870239%24uygxuy%246ade795665899cfde3133826%24wall%241792964950067&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F41870239%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441870239%24uygxuy%246ade795665899cfde3133826%24wall%241792964950067&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$41870239$uygxuy$6ade795665899cfde3133826$wall$1792964950067&af_dp=myntra%3A%2F%2Fmyntra.com%2F41870239%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2441870239%24uygxuy%246ade795665899cfde3133826%24wall%241792964950067&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$41870239$uygxuy$6ade795665899cfde3133826$wall$1792964950067$trk-p--direct&sub2=gh_faym$nikkis_universe$41870239$uygxuy$6ade795665899cfde3133826$wall$1792964950067$trk-p--direct": {
     "title": "Inddus Women Embroidered Thread Work Anarkali Kurta",
-    "brand": "Inddus"
+    "brand": "Inddus",
+    "imgs": [],
+    "rating": {
+      "v": 3.6,
+      "n": 34
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$46536100$nl71qr$6ade7956fc3c4efe29c916a0$wall$1792964950748$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F46536100%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446536100%24nl71qr%246ade7956fc3c4efe29c916a0%24wall%241792964950748&af_android_url=https%3A%2F%2Fwww.myntra.com%2F46536100%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446536100%24nl71qr%246ade7956fc3c4efe29c916a0%24wall%241792964950748&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F46536100%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446536100%24nl71qr%246ade7956fc3c4efe29c916a0%24wall%241792964950748&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F46536100%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446536100%24nl71qr%246ade7956fc3c4efe29c916a0%24wall%241792964950748&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$46536100$nl71qr$6ade7956fc3c4efe29c916a0$wall$1792964950748&af_dp=myntra%3A%2F%2Fmyntra.com%2F46536100%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2446536100%24nl71qr%246ade7956fc3c4efe29c916a0%24wall%241792964950748&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$46536100$nl71qr$6ade7956fc3c4efe29c916a0$wall$1792964950748$trk-p--direct&sub2=gh_faym$nikkis_universe$46536100$nl71qr$6ade7956fc3c4efe29c916a0$wall$1792964950748$trk-p--direct": {
     "title": "TENNECY Women Ethnic Motifs Embroidered Empire Sequinned Kurta ,Trousers & Dupatta",
-    "brand": "TENNECY"
+    "brand": "TENNECY",
+    "imgs": [],
+    "rating": {
+      "v": 3.1,
+      "n": 72
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$42302192$qvmv6v$6ade7957cf554f83e0be7587$wall$1792964951059$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F42302192%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442302192%24qvmv6v%246ade7957cf554f83e0be7587%24wall%241792964951059&af_android_url=https%3A%2F%2Fwww.myntra.com%2F42302192%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442302192%24qvmv6v%246ade7957cf554f83e0be7587%24wall%241792964951059&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F42302192%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442302192%24qvmv6v%246ade7957cf554f83e0be7587%24wall%241792964951059&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F42302192%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442302192%24qvmv6v%246ade7957cf554f83e0be7587%24wall%241792964951059&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$42302192$qvmv6v$6ade7957cf554f83e0be7587$wall$1792964951059&af_dp=myntra%3A%2F%2Fmyntra.com%2F42302192%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442302192%24qvmv6v%246ade7957cf554f83e0be7587%24wall%241792964951059&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$42302192$qvmv6v$6ade7957cf554f83e0be7587$wall$1792964951059$trk-p--direct&sub2=gh_faym$nikkis_universe$42302192$qvmv6v$6ade7957cf554f83e0be7587$wall$1792964951059$trk-p--direct": {
     "title": "Navibhu Formal Women Striped Pleated Kurta with Trousers",
-    "brand": "Navibhu"
+    "brand": "Navibhu",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 51
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$37727513$aw1oos$6ade79572654a2fc45d3a7e7$wall$1792964951196$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F37727513%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437727513%24aw1oos%246ade79572654a2fc45d3a7e7%24wall%241792964951196&af_android_url=https%3A%2F%2Fwww.myntra.com%2F37727513%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437727513%24aw1oos%246ade79572654a2fc45d3a7e7%24wall%241792964951196&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F37727513%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437727513%24aw1oos%246ade79572654a2fc45d3a7e7%24wall%241792964951196&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F37727513%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437727513%24aw1oos%246ade79572654a2fc45d3a7e7%24wall%241792964951196&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$37727513$aw1oos$6ade79572654a2fc45d3a7e7$wall$1792964951196&af_dp=myntra%3A%2F%2Fmyntra.com%2F37727513%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2437727513%24aw1oos%246ade79572654a2fc45d3a7e7%24wall%241792964951196&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$37727513$aw1oos$6ade79572654a2fc45d3a7e7$wall$1792964951196$trk-p--direct&sub2=gh_faym$nikkis_universe$37727513$aw1oos$6ade79572654a2fc45d3a7e7$wall$1792964951196$trk-p--direct": {
     "title": "StyleCast Women Floral Printed Pullover",
-    "brand": "StyleCast"
+    "brand": "StyleCast",
+    "imgs": [],
+    "rating": {
+      "v": 0,
+      "n": 0
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$42135683$m8gni0$6ade795a2ef8e9fd36713750$wall$1792964954019$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F42135683%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442135683%24m8gni0%246ade795a2ef8e9fd36713750%24wall%241792964954019&af_android_url=https%3A%2F%2Fwww.myntra.com%2F42135683%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442135683%24m8gni0%246ade795a2ef8e9fd36713750%24wall%241792964954019&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F42135683%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442135683%24m8gni0%246ade795a2ef8e9fd36713750%24wall%241792964954019&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F42135683%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442135683%24m8gni0%246ade795a2ef8e9fd36713750%24wall%241792964954019&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$42135683$m8gni0$6ade795a2ef8e9fd36713750$wall$1792964954019&af_dp=myntra%3A%2F%2Fmyntra.com%2F42135683%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2442135683%24m8gni0%246ade795a2ef8e9fd36713750%24wall%241792964954019&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$42135683$m8gni0$6ade795a2ef8e9fd36713750$wall$1792964954019$trk-p--direct&sub2=gh_faym$nikkis_universe$42135683$m8gni0$6ade795a2ef8e9fd36713750$wall$1792964954019$trk-p--direct": {
     "title": "SZN Striped Twisted Cotton Peplum Top",
-    "brand": "SZN"
+    "brand": "SZN",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 76
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$31180861$tudvlq$6ade795d2654a2fc45d3a810$wall$1792964957184$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F31180861%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431180861%24tudvlq%246ade795d2654a2fc45d3a810%24wall%241792964957184&af_android_url=https%3A%2F%2Fwww.myntra.com%2F31180861%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431180861%24tudvlq%246ade795d2654a2fc45d3a810%24wall%241792964957184&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F31180861%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431180861%24tudvlq%246ade795d2654a2fc45d3a810%24wall%241792964957184&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F31180861%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431180861%24tudvlq%246ade795d2654a2fc45d3a810%24wall%241792964957184&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$31180861$tudvlq$6ade795d2654a2fc45d3a810$wall$1792964957184&af_dp=myntra%3A%2F%2Fmyntra.com%2F31180861%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431180861%24tudvlq%246ade795d2654a2fc45d3a810%24wall%241792964957184&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$31180861$tudvlq$6ade795d2654a2fc45d3a810$wall$1792964957184$trk-p--direct&sub2=gh_faym$nikkis_universe$31180861$tudvlq$6ade795d2654a2fc45d3a810$wall$1792964957184$trk-p--direct": {
     "title": "StyleCast x Revolte Women Loose Fit Wide Leg Chinos Trousers",
-    "brand": "StyleCast x Revolte"
+    "brand": "StyleCast x Revolte",
+    "imgs": [],
+    "rating": {
+      "v": 3.9,
+      "n": 73
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$44744984$a8nt0m$6ade795d13cb18fcd9ac73ed$wall$1792964957321$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F44744984%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444744984%24a8nt0m%246ade795d13cb18fcd9ac73ed%24wall%241792964957321&af_android_url=https%3A%2F%2Fwww.myntra.com%2F44744984%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444744984%24a8nt0m%246ade795d13cb18fcd9ac73ed%24wall%241792964957321&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F44744984%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444744984%24a8nt0m%246ade795d13cb18fcd9ac73ed%24wall%241792964957321&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F44744984%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444744984%24a8nt0m%246ade795d13cb18fcd9ac73ed%24wall%241792964957321&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$44744984$a8nt0m$6ade795d13cb18fcd9ac73ed$wall$1792964957321&af_dp=myntra%3A%2F%2Fmyntra.com%2F44744984%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2444744984%24a8nt0m%246ade795d13cb18fcd9ac73ed%24wall%241792964957321&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$44744984$a8nt0m$6ade795d13cb18fcd9ac73ed$wall$1792964957321$trk-p--direct&sub2=gh_faym$nikkis_universe$44744984$a8nt0m$6ade795d13cb18fcd9ac73ed$wall$1792964957321$trk-p--direct": {
     "title": "makemyfab Women Relaxed Trousers",
-    "brand": "makemyfab"
+    "brand": "makemyfab",
+    "imgs": [],
+    "rating": {
+      "v": 4.2,
+      "n": 124
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$40656016$narkxq$6ade795dfc3c4efe29c916b2$wall$1792964957534$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F40656016%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440656016%24narkxq%246ade795dfc3c4efe29c916b2%24wall%241792964957534&af_android_url=https%3A%2F%2Fwww.myntra.com%2F40656016%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440656016%24narkxq%246ade795dfc3c4efe29c916b2%24wall%241792964957534&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F40656016%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440656016%24narkxq%246ade795dfc3c4efe29c916b2%24wall%241792964957534&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F40656016%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440656016%24narkxq%246ade795dfc3c4efe29c916b2%24wall%241792964957534&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$40656016$narkxq$6ade795dfc3c4efe29c916b2$wall$1792964957534&af_dp=myntra%3A%2F%2Fmyntra.com%2F40656016%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2440656016%24narkxq%246ade795dfc3c4efe29c916b2%24wall%241792964957534&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$40656016$narkxq$6ade795dfc3c4efe29c916b2$wall$1792964957534$trk-p--direct&sub2=gh_faym$nikkis_universe$40656016$narkxq$6ade795dfc3c4efe29c916b2$wall$1792964957534$trk-p--direct": {
     "title": "Youthnic Floral Print Linen Blend Peplum Crop Top",
-    "brand": "Youthnic"
+    "brand": "Youthnic",
+    "imgs": [],
+    "rating": {
+      "v": 4.0,
+      "n": 14
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$33609070$ijcoxa$6ade796265899cfde3133849$wall$1792964962112$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F33609070%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433609070%24ijcoxa%246ade796265899cfde3133849%24wall%241792964962112&af_android_url=https%3A%2F%2Fwww.myntra.com%2F33609070%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433609070%24ijcoxa%246ade796265899cfde3133849%24wall%241792964962112&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F33609070%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433609070%24ijcoxa%246ade796265899cfde3133849%24wall%241792964962112&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F33609070%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433609070%24ijcoxa%246ade796265899cfde3133849%24wall%241792964962112&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$33609070$ijcoxa$6ade796265899cfde3133849$wall$1792964962112&af_dp=myntra%3A%2F%2Fmyntra.com%2F33609070%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2433609070%24ijcoxa%246ade796265899cfde3133849%24wall%241792964962112&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$33609070$ijcoxa$6ade796265899cfde3133849$wall$1792964962112$trk-p--direct&sub2=gh_faym$nikkis_universe$33609070$ijcoxa$6ade796265899cfde3133849$wall$1792964962112$trk-p--direct": {
     "title": "glitchez Oversized Pullover with Bow Embroidered Detail",
-    "brand": "glitchez"
+    "brand": "glitchez",
+    "imgs": [],
+    "rating": {
+      "v": 4.3,
+      "n": 276
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$31576179$1lhsfq$6ade7964d71155fe35da7867$wall$1792964964870$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F31576179%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431576179%241lhsfq%246ade7964d71155fe35da7867%24wall%241792964964870&af_android_url=https%3A%2F%2Fwww.myntra.com%2F31576179%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431576179%241lhsfq%246ade7964d71155fe35da7867%24wall%241792964964870&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F31576179%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431576179%241lhsfq%246ade7964d71155fe35da7867%24wall%241792964964870&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F31576179%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431576179%241lhsfq%246ade7964d71155fe35da7867%24wall%241792964964870&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$31576179$1lhsfq$6ade7964d71155fe35da7867$wall$1792964964870&af_dp=myntra%3A%2F%2Fmyntra.com%2F31576179%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431576179%241lhsfq%246ade7964d71155fe35da7867%24wall%241792964964870&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$31576179$1lhsfq$6ade7964d71155fe35da7867$wall$1792964964870$trk-p--direct&sub2=gh_faym$nikkis_universe$31576179$1lhsfq$6ade7964d71155fe35da7867$wall$1792964964870$trk-p--direct": {
     "title": "StyleCast Women Floral Printed Pullover",
-    "brand": "StyleCast"
+    "brand": "StyleCast",
+    "imgs": [],
+    "rating": {
+      "v": 4.1,
+      "n": 7
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$36191490$rotv6c$6ade7965cf554f83e0be75b9$wall$1792964965154$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F36191490%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436191490%24rotv6c%246ade7965cf554f83e0be75b9%24wall%241792964965154&af_android_url=https%3A%2F%2Fwww.myntra.com%2F36191490%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436191490%24rotv6c%246ade7965cf554f83e0be75b9%24wall%241792964965154&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F36191490%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436191490%24rotv6c%246ade7965cf554f83e0be75b9%24wall%241792964965154&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F36191490%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436191490%24rotv6c%246ade7965cf554f83e0be75b9%24wall%241792964965154&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$36191490$rotv6c$6ade7965cf554f83e0be75b9$wall$1792964965154&af_dp=myntra%3A%2F%2Fmyntra.com%2F36191490%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436191490%24rotv6c%246ade7965cf554f83e0be75b9%24wall%241792964965154&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$36191490$rotv6c$6ade7965cf554f83e0be75b9$wall$1792964965154$trk-p--direct&sub2=gh_faym$nikkis_universe$36191490$rotv6c$6ade7965cf554f83e0be75b9$wall$1792964965154$trk-p--direct": {
     "title": "ESPYR By Tokyo Talkies Women Pullover Applique Sweaters",
-    "brand": "ESPYR By Tokyo Talkies"
+    "brand": "ESPYR By Tokyo Talkies",
+    "imgs": [],
+    "rating": {
+      "v": 4.5,
+      "n": 78
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$31583680$pozjbi$6ade7965a24431fce04ac12e$wall$1792964965701$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F31583680%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431583680%24pozjbi%246ade7965a24431fce04ac12e%24wall%241792964965701&af_android_url=https%3A%2F%2Fwww.myntra.com%2F31583680%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431583680%24pozjbi%246ade7965a24431fce04ac12e%24wall%241792964965701&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F31583680%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431583680%24pozjbi%246ade7965a24431fce04ac12e%24wall%241792964965701&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F31583680%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431583680%24pozjbi%246ade7965a24431fce04ac12e%24wall%241792964965701&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$31583680$pozjbi$6ade7965a24431fce04ac12e$wall$1792964965701&af_dp=myntra%3A%2F%2Fmyntra.com%2F31583680%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2431583680%24pozjbi%246ade7965a24431fce04ac12e%24wall%241792964965701&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$31583680$pozjbi$6ade7965a24431fce04ac12e$wall$1792964965701$trk-p--direct&sub2=gh_faym$nikkis_universe$31583680$pozjbi$6ade7965a24431fce04ac12e$wall$1792964965701$trk-p--direct": {
     "title": "StyleCast Women Floral Embroidered Round Neck Pullover",
-    "brand": "StyleCast"
+    "brand": "StyleCast",
+    "imgs": [],
+    "rating": {
+      "v": 4.5,
+      "n": 116
+    }
   },
   "eWcy?pid=fayma3rg_int&af_siteid=gh_faym&c=gh_faym$nikkis_universe$36739612$kwq7gf$6ade79688588cdfd8dab2137$wall$1792964968983$trk-p--direct&af_click_lookback=1d&af_reengagement_window=14d&af_ios_url=https%3A%2F%2Fwww.myntra.com%2F36739612%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436739612%24kwq7gf%246ade79688588cdfd8dab2137%24wall%241792964968983&af_android_url=https%3A%2F%2Fwww.myntra.com%2F36739612%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436739612%24kwq7gf%246ade79688588cdfd8dab2137%24wall%241792964968983&af_web_dp=https%3A%2F%2Fwww.myntra.com%2F36739612%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436739612%24kwq7gf%246ade79688588cdfd8dab2137%24wall%241792964968983&af_xp=custom&is_retargeting=true&deep_link_value=myntra%3A%2F%2Fmyntra.com%2F36739612%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436739612%24kwq7gf%246ade79688588cdfd8dab2137%24wall%241792964968983&af_click_lookback=1d&af_force_deeplink=true&utm_source=gh_faym&utm_medium=Faym_rev&utm_campaign=gh_faym$nikkis_universe$36739612$kwq7gf$6ade79688588cdfd8dab2137$wall$1792964968983&af_dp=myntra%3A%2F%2Fmyntra.com%2F36739612%3Futm_source%3Dgh_faym%26utm_medium%3DFaym_rev%26utm_campaign%3Dgh_faym%24nikkis_universe%2436739612%24kwq7gf%246ade79688588cdfd8dab2137%24wall%241792964968983&af_pmod_priority=equal&sub1=gh_faym$nikkis_universe$36739612$kwq7gf$6ade79688588cdfd8dab2137$wall$1792964968983$trk-p--direct&sub2=gh_faym$nikkis_universe$36739612$kwq7gf$6ade79688588cdfd8dab2137$wall$1792964968983$trk-p--direct": {
     "title": "StyleCast Women Conversational Embroidered Round Neck Woollen Pullover",
-    "brand": "StyleCast"
+    "brand": "StyleCast",
+    "imgs": [],
+    "rating": {
+      "v": 4.7,
+      "n": 20
+    }
   }
 };

@@ -1,5 +1,5 @@
-window.NU_DATA = window.NU_DATA || {};
-window.NU_DATA.amazon = {
+window.NU_DATA=window.NU_DATA||{};
+window.NU_DATA.amazon={
   "B0DH3JB7DR?ref=cm_sw_r_cso_cp_apin_dp_4FSWF47A07K5CMQ0MZVX&ref_=cm_sw_r_cso_cp_apin_dp_4FSWF47A07K5CMQ0MZVX&social_share=cm_sw_r_cso_cp_apin_dp_4FSWF47A07K5CMQ0MZVX&tag=fmap15755-21": {
     "title": "Women's Regular Fit Cotton Lycra Long Sleeves Formal Opaque Shirts",
     "brand": ""

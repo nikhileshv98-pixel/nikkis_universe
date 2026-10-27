@@ -1,5 +1,5 @@
-window.NU_DATA = window.NU_DATA || {};
-window.NU_DATA.flipkart = {
+window.NU_DATA=window.NU_DATA||{};
+window.NU_DATA.flipkart={
   "itm7849671d10443?pid=AZTHBFZUJSPVZSYN&affid=faymco&affExtParam1=flipkart$nikkis_universe$AZTHBFZUJSPVZSYN$fvldyt$6ade798813cb18fcd9ac746f$wall$trk-p--direct&affExtParam2=AZTHBFZUJSPVZSYN": {
     "title": "QISSA Top Pant Co-ords Set with Jacket",
     "brand": "QISSA"

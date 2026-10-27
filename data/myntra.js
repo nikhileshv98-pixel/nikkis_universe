@@ -1,5 +1,5 @@
-window.NU_DATA=window.NU_DATA||{};
-window.NU_DATA.myntra={
+window.NU_DATA = window.NU_DATA || {};
+window.NU_DATA.myntra = {
   "buy?utm_source=social_share&utm_medium=social_share_pdp&utm_campaign=RkBp1MgA7Vn3SWAm&shared=true": {
     "title": "Suo Bohemian Women Solid Halter Neck Top with Trousers",
     "brand": "Suo"

@@ -1,5 +1,5 @@
-window.NU_DATA=window.NU_DATA||{};
-window.NU_DATA.meesho={
+window.NU_DATA = window.NU_DATA || {};
+window.NU_DATA.meesho = {
   "open&af_force_deeplink=True&product_name=product&af_web_dp=https%3A%2F%2Fwww.meesho.com%2Fs%2Fp%2Fgwifq2&host_internal=single_product&pid=fayma3rg_int&af_siteid=faym&c=nikkis_universe&af_sub1=nikkis_universe&af_click_lookback=14d&af_sub2=meesho$nikkis_universe$1022066714$2sf83a$6ade796a8588cdfd8dab2139$wall$1792964970468$trk-p--direct&af_reengagement_window=14d&is_retargeting=true&product_id=1022066714&external_product_id=gwifq2&web_view_url=https%3A%2F%2Fwww.meesho.com%2Fs%2Fp%2Fgwifq2": {
     "title": "Trendy Women's Premium Chocolate Brown A-Line Flared Embroidered Short Kurti with White Palazzo Set | Floral Cutwork Sleeves | Stylish Casual & Festive Ethnic Wear",
     "brand": ""

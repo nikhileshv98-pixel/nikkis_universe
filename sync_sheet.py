@@ -10,7 +10,7 @@ reader = csv.DictReader([l.decode('utf-8') for l in response.readlines()])
 
 stores = {"myntra": {}, "amazon": {}, "flipkart": {}, "meesho": {}, "ajio": {}}
 
-# Load existing image data from data/*.js files
+# Load existing photo links from data/*.js files
 existing_imgs = {}
 for s in stores.keys():
     path = f"data/{s}.js"
@@ -23,8 +23,8 @@ for s in stores.keys():
                 for code, info in data_dict.items():
                     if isinstance(info, dict) and 'imgs' in info:
                         existing_imgs[code] = info['imgs']
-        except Exception as e:
-            print(f"Error loading {path}: {e}")
+        except:
+            pass
 
 catalog = []
 for i, r in enumerate(reader, 1):
@@ -38,9 +38,6 @@ for i, r in enumerate(reader, 1):
     title = r.get('Product Name', '').strip()
     brand = r.get('Brand', '').strip()
     imgs = existing_imgs.get(code, [])
-
-    item = {"title": title, "brand": brand, "imgs": imgs}
-    stores[st][code] = item
 
     raw_rate = str(r.get('Rating', '')).strip()
     raw_cnt = str(r.get('Rating count', '')).strip().replace(',', '')
@@ -58,14 +55,8 @@ for i, r in enumerate(reader, 1):
         "imgs": imgs
     })
 
+# Save catalog.json WITH image links included
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 
-os.makedirs('data', exist_ok=True)
-for store_name, data in stores.items():
-    if data:
-        js = f"window.NU_DATA = window.NU_DATA || {{}};\nwindow.NU_DATA.{store_name} = " + json.dumps(data, indent=2) + ";"
-        with open(f"data/{store_name}.js", "w", encoding="utf-8") as f:
-            f.write(js)
-
-print(f"Synced {len(catalog)} products with images successfully!")
+print(f"Successfully generated catalog.json with {len(catalog)} products and their images!")

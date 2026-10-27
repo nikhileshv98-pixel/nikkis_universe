@@ -2,38 +2,58 @@ import urllib.request
 import csv
 import json
 
-SHEET_URL = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
+url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
 
-def main():
-    print("Downloading Google Sheet...")
-    req = urllib.request.urlopen(SHEET_URL)
-    lines = [line.decode('utf-8') for line in req.readlines()]
-    reader = csv.DictReader(lines)
+print("Downloading sheet...")
+response = urllib.request.urlopen(url)
+lines = [line.decode('utf-8') for line in response.readlines()]
+reader = csv.DictReader(lines)
 
-    myntra_data = {}
-    for row in reader:
-        sno = row.get('S.No', '').strip()
-        main_link = row.get('Main link', '').strip()
-        if not sno or not main_link:
-            continue
+stores = {"myntra": {}, "amazon": {}, "flipkart": {}, "meesho": {}, "ajio": {}}
 
-        code = main_link.rstrip('/').split('/')[-1]
+for row in reader:
+    sno = row.get('S.No', '').strip()
+    link = row.get('Main link', '').strip()
+    if not sno or not link:
+        continue
 
-        myntra_data[code] = {
-            "title": row.get('Product Name', '').strip(),
-            "brand": row.get('Brand', '').strip(),
-            "rating": {
-                "v": float(row['Rating']) if row.get('Rating') else 0,
-                "n": int(float(row['Rating count'])) if row.get('Rating count') else 0
-            }
-        }
+    code = link.rstrip('/').split('/')[-1]
+    item = {
+        "title": row.get('Product Name', '').strip(),
+        "brand": row.get('Brand', '').strip()
+    }
 
-    js_content = "window.NU_DATA = window.NU_DATA || {};\nwindow.NU_DATA.myntra = " + json.dumps(myntra_data, indent=2) + ";"
+    # 1. Check Store column first (Column H)
+    manual_store = row.get('Store', '').strip().lower()
+    
+    detected_store = ""
+    if manual_store in stores:
+        detected_store = manual_store
+    else:
+        # 2. Fallback: Smart link detection if column is empty or mistyped
+        link_lower = link.lower()
+        if 'amazon' in link_lower or 'amzn.to' in link_lower:
+            detected_store = "amazon"
+        elif 'flipkart' in link_lower:
+            detected_store = "flipkart"
+        elif 'meesho' in link_lower or 'meesho.onelink.me' in link_lower:
+            detected_store = "meesho"
+        elif 'ajio' in link_lower:
+            detected_store = "ajio"
+        elif 'myntra' in link_lower or 'myntra.onelink.me' in link_lower:
+            detected_store = "myntra"
+        else:
+            detected_store = "myntra" # Default fallback
 
-    with open('data/myntra.js', 'w', encoding='utf-8') as f:
-        f.write(js_content)
+    stores[detected_store][code] = item
 
-    print("Updated data/myntra.js successfully!")
+# Save into each store's respective JS file automatically
+for store_name, data in stores.items():
+    if data:
+        js = f"window.NU_DATA = window.NU_DATA || {{}};\nwindow.NU_DATA.{store_name} = " + json.dumps(data, indent=2) + ";"
+        filename = f"data/{store_name}.js"
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(js)
+        print(f"Updated {filename} with {len(data)} items.")
 
-if __name__ == "__main__":
-    main()
+print("All stores synced successfully!")

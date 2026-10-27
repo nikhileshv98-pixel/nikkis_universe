@@ -1,5 +1,4 @@
-window.NU_DATA = window.NU_DATA || {};
-window.NU_DATA.myntra = {
+window.NU_DATA=window.NU_DATA||{};window.NU_DATA.myntra={
   "buy?utm_source=social_share&utm_medium=social_share_pdp&utm_campaign=RkBp1MgA7Vn3SWAm&shared=true": {
     "title": "Suo Bohemian Women Solid Halter Neck Top with Trousers",
     "brand": "Suo",
@@ -14,7 +13,7 @@ window.NU_DATA.myntra = {
     "brand": "BLANC9",
     "imgs": [],
     "rating": {
-      "v": 5.0,
+      "v": 5,
       "n": 11
     }
   },
@@ -77,7 +76,7 @@ window.NU_DATA.myntra = {
     "brand": "Manqsh by Claura",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 21
     }
   },
@@ -86,7 +85,7 @@ window.NU_DATA.myntra = {
     "brand": "Sangria",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 295
     }
   },
@@ -266,7 +265,7 @@ window.NU_DATA.myntra = {
     "brand": "bebe",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 566
     }
   },
@@ -311,7 +310,7 @@ window.NU_DATA.myntra = {
     "brand": "Outzidr",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 291
     }
   },
@@ -320,7 +319,7 @@ window.NU_DATA.myntra = {
     "brand": "GIANNA",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 6
     }
   },
@@ -446,7 +445,7 @@ window.NU_DATA.myntra = {
     "brand": "Youthnic",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 14
     }
   },
@@ -493,6 +492,609 @@ window.NU_DATA.myntra = {
     "rating": {
       "v": 4.7,
       "n": 20
+    }
+  },
+  "item_1": {
+    "title": "Trousers",
+    "brand": "Suo",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_2": {
+    "title": "Trousers",
+    "brand": "BLANC9",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 5,
+      "n": "11"
+    }
+  },
+  "item_3": {
+    "title": "Palazzos",
+    "brand": "Lane",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_4": {
+    "title": "Trousers",
+    "brand": "Woomn",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "316"
+    }
+  },
+  "item_5": {
+    "title": "Trousers",
+    "brand": "Outzidr",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_6": {
+    "title": "Top",
+    "brand": "Chemistry",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "800"
+    }
+  },
+  "item_7": {
+    "title": "Skirt",
+    "brand": "Pockets",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "65"
+    }
+  },
+  "item_8": {
+    "title": "Out",
+    "brand": "Zucchini",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "24"
+    }
+  },
+  "item_9": {
+    "title": "Palazzos",
+    "brand": "Claura",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "21"
+    }
+  },
+  "item_10": {
+    "title": "Palazzos",
+    "brand": "Sangria",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "295"
+    }
+  },
+  "item_11": {
+    "title": "Co-Ords",
+    "brand": "SASSAFRAS",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "466"
+    }
+  },
+  "item_12": {
+    "title": "Palazzos",
+    "brand": "LANE",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.3,
+      "n": "7"
+    }
+  },
+  "item_13": {
+    "title": "Trousers",
+    "brand": "INDDUS",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "37"
+    }
+  },
+  "item_14": {
+    "title": "Trousers",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_15": {
+    "title": "Co-Ords",
+    "brand": "Ent",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.8,
+      "n": "26"
+    }
+  },
+  "item_16": {
+    "title": "Skorts",
+    "brand": "Feather",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "519"
+    }
+  },
+  "item_17": {
+    "title": "Top",
+    "brand": "Suo",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.5,
+      "n": "8"
+    }
+  },
+  "item_18": {
+    "title": "Skirt",
+    "brand": "Suo",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_19": {
+    "title": "Top",
+    "brand": "glitchez",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "871"
+    }
+  },
+  "item_20": {
+    "title": "Skirt",
+    "brand": "FRIDAY",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_21": {
+    "title": "Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "14"
+    }
+  },
+  "item_22": {
+    "title": "Palazzos",
+    "brand": "KALINI",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.9,
+      "n": "198"
+    }
+  },
+  "item_23": {
+    "title": "Trousers",
+    "brand": "AAFAMI",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "202"
+    }
+  },
+  "item_24": {
+    "title": "Set",
+    "brand": "Amarasha",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "703"
+    }
+  },
+  "item_25": {
+    "title": "Co-Ords",
+    "brand": "Ent",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "261"
+    }
+  },
+  "item_26": {
+    "title": "Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "273"
+    }
+  },
+  "item_27": {
+    "title": "Set",
+    "brand": "Globus",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "485"
+    }
+  },
+  "item_28": {
+    "title": "Palazzo",
+    "brand": "SASSAFRAS",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "340"
+    }
+  },
+  "item_29": {
+    "title": "Set",
+    "brand": "Globus",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.4,
+      "n": "71"
+    }
+  },
+  "item_30": {
+    "title": "Co-Ords",
+    "brand": "bebe",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "566"
+    }
+  },
+  "item_31": {
+    "title": "Trousers",
+    "brand": "Anouk",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "1043"
+    }
+  },
+  "item_32": {
+    "title": "Trouser",
+    "brand": "ROSHNI",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "345"
+    }
+  },
+  "item_33": {
+    "title": "Palazzos",
+    "brand": "Imli",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.4,
+      "n": "255"
+    }
+  },
+  "item_34": {
+    "title": "Trousers",
+    "brand": "Sangria",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "134"
+    }
+  },
+  "item_35": {
+    "title": "Embellishments",
+    "brand": "Outzidr",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "291"
+    }
+  },
+  "item_36": {
+    "title": "Co-Ords",
+    "brand": "GIANNA",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "6"
+    }
+  },
+  "item_37": {
+    "title": "Co-Ords",
+    "brand": "Imli",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "201"
+    }
+  },
+  "item_38": {
+    "title": "Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "789"
+    }
+  },
+  "item_39": {
+    "title": "Palazzos",
+    "brand": "Inddus",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.7,
+      "n": "6"
+    }
+  },
+  "item_40": {
+    "title": "Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "1183"
+    }
+  },
+  "item_41": {
+    "title": "Top",
+    "brand": "glitchez",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "39"
+    }
+  },
+  "item_42": {
+    "title": "Trousers",
+    "brand": "Stylum",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "7754"
+    }
+  },
+  "item_43": {
+    "title": "Kurta",
+    "brand": "Inddus",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "34"
+    }
+  },
+  "item_44": {
+    "title": "TENNECY Women Ethnic Motifs Embroidered Empire Sequinned Kurta ,Trousers & Dupatta",
+    "brand": "TENNECY",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.1,
+      "n": "72"
+    }
+  },
+  "item_45": {
+    "title": "Trousers",
+    "brand": "Navibhu",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "51"
+    }
+  },
+  "item_46": {
+    "title": "Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_47": {
+    "title": "Top",
+    "brand": "SZN",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "76"
+    }
+  },
+  "item_48": {
+    "title": "Trousers",
+    "brand": "Revolte",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.9,
+      "n": "73"
+    }
+  },
+  "item_49": {
+    "title": "Trousers",
+    "brand": "makemyfab",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "124"
+    }
+  },
+  "item_50": {
+    "title": "Top",
+    "brand": "Youthnic",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "14"
+    }
+  },
+  "item_51": {
+    "title": "Detail",
+    "brand": "glitchez",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "276"
+    }
+  },
+  "item_52": {
+    "title": "Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "7"
+    }
+  },
+  "item_53": {
+    "title": "Sweaters",
+    "brand": "Talkies",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "78"
+    }
+  },
+  "item_54": {
+    "title": "Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "116"
+    }
+  },
+  "item_55": {
+    "title": "Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.7,
+      "n": "20"
+    }
+  },
+  "item_73": {
+    "title": "",
+    "brand": "",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_93": {
+    "title": "KOTTY",
+    "brand": "4.3",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 703,
+      "n": "Amazon"
     }
   }
 };

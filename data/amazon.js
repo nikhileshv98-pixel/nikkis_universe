@@ -1,5 +1,4 @@
-window.NU_DATA = window.NU_DATA || {};
-window.NU_DATA.amazon = {
+window.NU_DATA=window.NU_DATA||{};window.NU_DATA.amazon={
   "B0DH3JB7DR?ref=cm_sw_r_cso_cp_apin_dp_4FSWF47A07K5CMQ0MZVX&ref_=cm_sw_r_cso_cp_apin_dp_4FSWF47A07K5CMQ0MZVX&social_share=cm_sw_r_cso_cp_apin_dp_4FSWF47A07K5CMQ0MZVX&tag=fmap15755-21": {
     "title": "Women's Regular Fit Cotton Lycra Long Sleeves Formal Opaque Shirts",
     "brand": "",
@@ -77,7 +76,7 @@ window.NU_DATA.amazon = {
     "brand": "RIEKA",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 344
     }
   },
@@ -86,7 +85,7 @@ window.NU_DATA.amazon = {
     "brand": "MAFIA OX",
     "imgs": [],
     "rating": {
-      "v": 3.0,
+      "v": 3,
       "n": 35
     }
   },
@@ -95,12 +94,12 @@ window.NU_DATA.amazon = {
     "brand": "RIEKA",
     "imgs": [],
     "rating": {
-      "v": 4.0,
+      "v": 4,
       "n": 74
     }
   },
   "B0GN3VSKPT?ref=cm_sw_r_cso_cp_apin_dp_1JKJ81ARQEMEG67QX1X2&ref_=cm_sw_r_cso_cp_apin_dp_1JKJ81ARQEMEG67QX1X2&social_share=cm_sw_r_cso_cp_apin_dp_1JKJ81ARQEMEG67QX1X2&tag=fmfp13171-21": {
-    "title": "Women\u2019s Pure Cotton Flare Palazzo Pant | Wide Leg Trouser | Casual Office Wear | Relaxed Fit- Semi-Elastic High Waist",
+    "title": "Women’s Pure Cotton Flare Palazzo Pant | Wide Leg Trouser | Casual Office Wear | Relaxed Fit- Semi-Elastic High Waist",
     "brand": "Jawdrobe",
     "imgs": [],
     "rating": {
@@ -124,6 +123,143 @@ window.NU_DATA.amazon = {
     "rating": {
       "v": 3.9,
       "n": 66
+    }
+  },
+  "item_71": {
+    "title": "Shirts",
+    "brand": "Amazon",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_72": {
+    "title": "",
+    "brand": "",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": null
+  },
+  "item_74": {
+    "title": "Top",
+    "brand": "3.9",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 18,
+      "n": "Amazon"
+    }
+  },
+  "item_75": {
+    "title": "Pants",
+    "brand": "4.3",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 693,
+      "n": "Amazon"
+    }
+  },
+  "item_94": {
+    "title": "Top",
+    "brand": "FIORRA",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "68"
+    }
+  },
+  "item_95": {
+    "title": "Pants",
+    "brand": "KOTTY",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "703"
+    }
+  },
+  "item_96": {
+    "title": "Women",
+    "brand": "RIEKA",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "495"
+    }
+  },
+  "item_97": {
+    "title": "Women's Embroidered Top for Women, Maroon V Neck Rayon, 3/4 Sleeve Casual Loose Fit Tunic, Boho Blouse for Women, Korean Style",
+    "brand": "RIEKA",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "344"
+    }
+  },
+  "item_98": {
+    "title": "Women",
+    "brand": "OX",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3,
+      "n": "35"
+    }
+  },
+  "item_99": {
+    "title": "Womens Embroidered Korean Style Tunic Top, Floral Thread Work | V Neck | Puff Sleeves | Relaxed Fit Casual | Fusion Rayon Top for Every Day Styling",
+    "brand": "RIEKA",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "74"
+    }
+  },
+  "item_100": {
+    "title": "Waist",
+    "brand": "Jawdrobe",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.8,
+      "n": "451"
+    }
+  },
+  "item_101": {
+    "title": "Women",
+    "brand": "RIEKA",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "495"
+    }
+  },
+  "item_102": {
+    "title": "Kurti",
+    "brand": "Feranoid",
+    "imgs": [
+      "https://m.media-amazon.com/images/I/51Dyikmc1oL._SL1280_.jpg"
+    ],
+    "rating": {
+      "v": 3.9,
+      "n": "66"
     }
   }
 };

@@ -1,5 +1,4 @@
-window.NU_DATA = window.NU_DATA || {};
-window.NU_DATA.flipkart = {
+window.NU_DATA=window.NU_DATA||{};window.NU_DATA.flipkart={
   "itm7849671d10443?pid=AZTHBFZUJSPVZSYN&affid=faymco&affExtParam1=flipkart$nikkis_universe$AZTHBFZUJSPVZSYN$fvldyt$6ade798813cb18fcd9ac746f$wall$trk-p--direct&affExtParam2=AZTHBFZUJSPVZSYN": {
     "title": "QISSA Top Pant Co-ords Set with Jacket",
     "brand": "QISSA",
@@ -142,6 +141,167 @@ window.NU_DATA.flipkart = {
     "rating": {
       "v": 3.7,
       "n": 7
+    }
+  },
+  "itm7849671d10443": {
+    "title": "Jacket",
+    "brand": "QISSA",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/a/3/h/m-sum25-qiswtbj0284-co-ords-qissa-original-imahbfzuns4bgahg.jpeg"
+    ],
+    "rating": {
+      "v": 2.5,
+      "n": "4"
+    }
+  },
+  "itmb4183857273b8": {
+    "title": "Set",
+    "brand": "Athena",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/y/v/x/xs-aco-19334-co-ords-shally-bhasin-by-athena-original-imahg3ggqratmhhd.jpeg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "14"
+    }
+  },
+  "itm0729ae9b1552d": {
+    "title": "Set",
+    "brand": "Talkies",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/dress/a/9/f/l-ttce000200-tokyo-talkies-original-imagpacrujhx7rsg.jpeg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "1104"
+    }
+  },
+  "itm2519cfcbbfb98": {
+    "title": "Set",
+    "brand": "Talkies",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/b/q/d/-resized-original-imahfms8rbgdqqjs.jpeg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "133"
+    }
+  },
+  "itm6f8c277aa1997": {
+    "title": "Set",
+    "brand": "Selvia",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/m/g/b/m-640ctk11285aa-co-ords-selvia-resized-original-imahhsuxuazuhh98.jpeg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "407"
+    }
+  },
+  "itm2ed32af51b290": {
+    "title": "Set",
+    "brand": "Dwarros",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/l/d/z/xl-21042-chocolate-co-ords-dwarros-original-imahm6fdmdmgztgk.jpeg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "28"
+    }
+  },
+  "itmf2692a1295ed2": {
+    "title": "Set",
+    "brand": "ENTERPRISES",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/j/p/s/s-cord-set-co-ords-leeshu-enterprises-original-imahqgvhrknty7bb.jpeg"
+    ],
+    "rating": {
+      "v": 3.7,
+      "n": "1286"
+    }
+  },
+  "itm430e652cb98d2": {
+    "title": "Set",
+    "brand": "Mansion",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/b/v/t/xl-co-ordset-s-co-ords-riwazmansion-original-imahzxgybsn6sfhf.jpeg"
+    ],
+    "rating": null
+  },
+  "itm81ffb109ab275": {
+    "title": "Set",
+    "brand": "7OUNCE",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/s/6/e/xs-7onzwomencord11-co-ords-7ounce-original-imahntbn8qafwfcx.jpeg"
+    ],
+    "rating": null
+  },
+  "itmfabadadaa9eea": {
+    "title": "Set",
+    "brand": "Stylum",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/ethnic-set/a/c/x/m-csgreenolly-stylum-original-imah9rm5yzgeucgd.jpeg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "31"
+    }
+  },
+  "itm3de6fed8e2107": {
+    "title": "Set",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/p/o/d/l-nco00tl5214-co-ords-zummer-original-imahhuwuy4hfzvnu.jpeg"
+    ],
+    "rating": null
+  },
+  "itm3615fbaa6733b": {
+    "title": "Set",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/u/h/0/m-nco00bk5215-co-ords-zummer-original-imahe28ph72cvfjf.jpeg"
+    ],
+    "rating": null
+  },
+  "itm61bab59fe010d": {
+    "title": "Set",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/k/1/j/l-nco05bk5088-co-ords-zummer-original-imahhuwdjmqsbm4g.jpeg"
+    ],
+    "rating": null
+  },
+  "itmcb56f1d0ca37a": {
+    "title": "Set",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/o/r/a/s-tco00bk5402-co-ords-zummer-original-imahm5hngfjgmpft.jpeg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "15"
+    }
+  },
+  "itmf44f400004f26": {
+    "title": "Set",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/m/1/0/xl-co00wh5005-co-ords-zummer-original-imahggy5mgqhuavf.jpeg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "30"
+    }
+  },
+  "itmf52f01c4395f4": {
+    "title": "Set",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://rukminim2.flixcart.com/image/300/300/xif0q/apparel-set/r/7/o/s-co00nb5006-co-ords-zummer-original-imahgfv25z4eyyup.jpeg"
+    ],
+    "rating": {
+      "v": 3.7,
+      "n": "7"
     }
   }
 };

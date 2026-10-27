@@ -17,9 +17,8 @@ def main():
         if not sno or not main_link:
             continue
 
-        # Extract code from the main link or affiliate link
         code = main_link.rstrip('/').split('/')[-1]
-        
+
         myntra_data[code] = {
             "title": row.get('Product Name', '').strip(),
             "brand": row.get('Brand', '').strip(),
@@ -29,9 +28,8 @@ def main():
             }
         }
 
-    # Save directly into data/myntra.js
     js_content = "window.NU_DATA = window.NU_DATA || {};\nwindow.NU_DATA.myntra = " + json.dumps(myntra_data, indent=2) + ";"
-    
+
     with open('data/myntra.js', 'w', encoding='utf-8') as f:
         f.write(js_content)
 

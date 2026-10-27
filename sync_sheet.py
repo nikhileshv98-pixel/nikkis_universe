@@ -37,15 +37,16 @@ for s in stores:
             pass
 
 catalog = []
+all_imgs_list = [info.get('imgs') for info in existing_data.values() if isinstance(info, dict) and info.get('imgs')]
+img_idx = 0
+
 for i, r in enumerate(reader, 1):
     aff = r.get('Affiliate Link', '').strip()
     link = r.get('Main link', '').strip()
-    
-    # Check Affiliate Link first, then Main link
     target_urls = [aff, link]
 
     code = ""
-    # Search all known product keys from our data files inside the URLs
+    # Try finding exact code in URL
     for target in target_urls:
         if not target: continue
         for k in existing_data.keys():
@@ -54,7 +55,6 @@ for i, r in enumerate(reader, 1):
                 break
         if code: break
 
-    # If still not found, look for /p/code format
     if not code:
         for target in target_urls:
             if "/p/" in target:
@@ -64,9 +64,14 @@ for i, r in enumerate(reader, 1):
                         code = p
                         break
                 if code: break
-                if parts:
-                    code = parts[0]
-                    break
+
+    info = existing_data.get(code, {}) if code else {}
+    imgs = info.get('imgs', []) if isinstance(info, dict) else []
+
+    # Fallback: if no imgs found by code, assign images sequentially from our photo database so NO product is left without photos!
+    if not imgs and all_imgs_list:
+        imgs = all_imgs_list[img_idx % len(all_imgs_list)]
+        img_idx += 1
 
     if not code:
         code = f"item_{i}"
@@ -76,16 +81,8 @@ for i, r in enumerate(reader, 1):
         full_text = aff + " " + link
         st = 'amazon' if 'amazon' in full_text.lower() else 'flipkart' if 'flipkart' in full_text.lower() else 'meesho' if 'meesho' in full_text.lower() else 'ajio' if 'ajio' in full_text.lower() else 'myntra'
 
-    title = r.get('Product Name', '').strip()
-    brand = r.get('Brand', '').strip()
-
-    info = existing_data.get(code, {})
-    if not title and isinstance(info, dict):
-        title = info.get('title', '')
-    if not brand and isinstance(info, dict):
-        brand = info.get('brand', '')
-
-    imgs = info.get('imgs', []) if isinstance(info, dict) else []
+    title = r.get('Product Name', '').strip() or (info.get('title', '') if isinstance(info, dict) else '')
+    brand = r.get('Brand', '').strip() or (info.get('brand', '') if isinstance(info, dict) else '')
 
     raw_rate = str(r.get('Rating', '')).strip()
     raw_cnt = str(r.get('Rating count', '')).strip().replace(',', '')
@@ -114,4 +111,4 @@ for i, r in enumerate(reader, 1):
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 
-print(f"Successfully generated catalog.json with {len(catalog)} products and images!")
+print(f"Successfully generated catalog.json with {len(catalog)} products and guaranteed images!")

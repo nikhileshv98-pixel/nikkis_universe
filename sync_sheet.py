@@ -29,15 +29,36 @@ for s in stores.keys():
 catalog = []
 for i, r in enumerate(reader, 1):
     link = r.get('Main link', '').strip()
-    if not link: continue
-    code = link.rstrip('/').split('/')[-1]
+    aff = r.get('Affiliate Link', '').strip()
+    if not link and not aff: continue
+    
+    # Robustly extract product code / identifier
+    target_url = link if link else aff
+    code = ""
+    if "/p/" in target_url:
+        code = target_url.split("/p/")[-1].split("?")[0].strip('/')
+    elif "pid=" in target_url:
+        match_pid = re.search(r'pid=([A-Za-z0-9]+)', target_url)
+        if match_pid:
+            code = match_pid.group(1)
+    
+    if not code:
+        code = target_url.rstrip('/').split('/')[-1].split('?')[0]
+
     st = r.get('Store', '').strip().lower()
     if st not in stores:
-        st = 'amazon' if 'amazon' in link.lower() else 'flipkart' if 'flipkart' in link.lower() else 'meesho' if 'meesho' in link.lower() else 'ajio' if 'ajio' in link.lower() else 'myntra'
+        st = 'amazon' if 'amazon' in target_url.lower() else 'flipkart' if 'flipkart' in target_url.lower() else 'meesho' if 'meesho' in target_url.lower() else 'ajio' if 'ajio' in target_url.lower() else 'myntra'
 
     title = r.get('Product Name', '').strip()
     brand = r.get('Brand', '').strip()
+    
+    # Try matching by extracted code, or fallback to searching keys
     imgs = existing_imgs.get(code, [])
+    if not imgs:
+        for k, v in existing_imgs.items():
+            if k in target_url or (code and code in k):
+                imgs = v
+                break
 
     raw_rate = str(r.get('Rating', '')).strip()
     raw_cnt = str(r.get('Rating count', '')).strip().replace(',', '')
@@ -46,7 +67,7 @@ for i, r in enumerate(reader, 1):
         "n": i,
         "code": code,
         "store": st.capitalize(),
-        "aff": r.get('Affiliate Link', '').strip(),
+        "aff": aff,
         "brand": brand,
         "title": title,
         "full": f"{brand} {title}".strip(),
@@ -55,8 +76,8 @@ for i, r in enumerate(reader, 1):
         "imgs": imgs
     })
 
-# Save catalog.json WITH image links included
+# Save catalog.json with image links
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 
-print(f"Successfully generated catalog.json with {len(catalog)} products and their images!")
+print(f"Successfully generated catalog.json with {len(catalog)} products and mapped images!")

@@ -12,13 +12,12 @@ try:
     response = urllib.request.urlopen(req)
     lines = [l.decode('utf-8') for l in response.readlines()]
 except Exception as e:
-    print(f"Web fetch failed: {e}. Trying local products.csv...")
     if os.path.exists("products.csv"):
         with open("products.csv", "r", encoding="utf-8") as f:
             lines = f.readlines()
 
 if not lines:
-    raise Exception("Error: Could not retrieve spreadsheet data from URL or local products.csv!")
+    raise Exception("Could not read spreadsheet data!")
 
 reader = csv.DictReader(lines)
 
@@ -43,22 +42,23 @@ for i, r in enumerate(reader, 1):
     aff = r.get('Affiliate Link', '').strip()
     target_url = link if link else aff
 
+    # Extract the exact product code from /p/XXXXX or the URL path
     code = ""
-    for k in existing_data.keys():
-        if k in target_url:
-            code = k
-            break
+    if "/p/" in target_url:
+        segment = target_url.split("/p/")[-1].split("?")[0].split("&")[0].strip('/')
+        if segment in existing_data:
+            code = segment
 
-    if not code and "/p/" in target_url:
-        code = target_url.split("/p/")[-1].split("?")[0].strip('/')
+    if not code:
+        # Search if any known key from existing_data is present anywhere in target_url
+        for k in existing_data.keys():
+            if k in target_url:
+                code = k
+                break
 
-    if not code and "pid=" in target_url:
-        match_pid = re.search(r'pid=([A-Za-z0-9]+)', target_url)
-        if match_pid:
-            code = match_pid.group(1)
-
-    if not code or len(code) > 20:
-        clean_path = target_url.split("?")[0].rstrip('/')
+    if not code:
+        # Fallback to last path component
+        clean_path = target_url.split("?")[0].split("&")[0].rstrip('/')
         parts = [p for p in clean_path.split('/') if p and not p.startswith('http') and 'faym.co' not in p]
         code = parts[-1] if parts else f"item_{i}"
 
@@ -104,4 +104,4 @@ for i, r in enumerate(reader, 1):
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 
-print(f"Successfully generated catalog.json with {len(catalog)} products and mapped image arrays!")
+print(f"Successfully generated catalog.json with {len(catalog)} products and images!")

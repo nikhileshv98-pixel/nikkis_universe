@@ -24,7 +24,6 @@ for row in reader:
         "brand": row.get('Brand', '').strip()
     }
 
-    # Check Store column (Column H) or fallback to link detection
     manual_store = row.get('Store', '').strip().lower()
     if manual_store in stores:
         store_key = manual_store
@@ -43,20 +42,14 @@ for row in reader:
 
     stores[store_key][code] = item
 
-# 1. Update data/ folder files
 os.makedirs('data', exist_ok=True)
 for store_name, data in stores.items():
     if data:
         js = f"window.NU_DATA = window.NU_DATA || {{}};\nwindow.NU_DATA.{store_name} = " + json.dumps(data, indent=2) + ";"
-        
-        # Save in data/ folder
         with open(f"data/{store_name}.js", 'w', encoding='utf-8') as f:
             f.write(js)
-            
-        # Save in root folder too
         with open(f"{store_name}.js", 'w', encoding='utf-8') as f:
             f.write(js)
-            
         print(f"Updated {store_name}.js and data/{store_name}.js with {len(data)} items.")
 
 print("All stores synced successfully!")

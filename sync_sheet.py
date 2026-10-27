@@ -7,9 +7,22 @@ url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvks
 response = urllib.request.urlopen(url)
 reader = csv.DictReader([l.decode('utf-8') for l in response.readlines()])
 
-catalog = []
 stores = {"myntra": {}, "amazon": {}, "flipkart": {}, "meesho": {}, "ajio": {}}
 
+# Load existing store image data if available
+existing_data = {}
+for s in stores.keys():
+    path = f"data/{s}.js"
+    if os.path.exists(path):
+        try:
+            content = open(path, 'r', encoding='utf-8').read()
+            # Extract json object from window.NU_DATA.store = {...};
+            json_str = content.split('=', 1)[1].rstrip(';')
+            existing_data[s] = json.loads(json_str)
+        except:
+            pass
+
+catalog = []
 for i, r in enumerate(reader, 1):
     link = r.get('Main link', '').strip()
     if not link: continue
@@ -18,26 +31,33 @@ for i, r in enumerate(reader, 1):
     if st not in stores:
         st = 'amazon' if 'amazon' in link.lower() else 'flipkart' if 'flipkart' in link.lower() else 'meesho' if 'meesho' in link.lower() else 'ajio' if 'ajio' in link.lower() else 'myntra'
 
-    item = {
-        "title": r.get('Product Name', '').strip(),
-        "brand": r.get('Brand', '').strip()
-    }
+    title = r.get('Product Name', '').strip()
+    brand = r.get('Brand', '').strip()
+
+    # Retain existing images if we already have them for this code
+    imgs = []
+    if st in existing_data and code in existing_data[st]:
+        imgs = existing_data[st][code].get('imgs', [])
+
+    item = {"title": title, "brand": brand, "imgs": imgs}
     stores[st][code] = item
+
+    raw_rate = str(r.get('Rating', '')).strip()
+    raw_cnt = str(r.get('Rating count', '')).strip().replace(',', '')
 
     catalog.append({
         "n": i,
         "code": code,
         "store": st.capitalize(),
         "aff": r.get('Affiliate Link', '').strip(),
-        "brand": item["brand"],
-        "title": item["title"],
-        "rating": {"v": float(r['Rating']) if r.get('Rating') else 0, "n": str(r.get('Rating count', '0'))},
+        "brand": brand,
+        "title": title,
+        "full": f"{brand} {title}".strip(),
+        "rating": {"v": float(raw_rate) if raw_rate else 0, "n": raw_cnt if raw_cnt else "0"},
         "ref": {"k": "ID", "v": code},
-        "full": item["brand"] + " " + item["title"],
-        "imgs": []
+        "imgs": imgs
     })
 
-# Overwrite catalog.json and data store files
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 
@@ -48,4 +68,4 @@ for store_name, data in stores.items():
         with open(f"data/{store_name}.js", "w", encoding="utf-8") as f:
             f.write(js)
 
-print("Synced successfully!")
+print("Catalog and store data synced with images!")

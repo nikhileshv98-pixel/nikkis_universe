@@ -1,7 +1,6 @@
 import urllib.request
 import csv
 import json
-import os
 
 url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
 response = urllib.request.urlopen(url)
@@ -15,7 +14,10 @@ for i, r in enumerate(reader, 1):
     st = r.get('Store', '').strip().lower()
     if st not in ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio']:
         st = 'amazon' if 'amazon' in link.lower() else 'flipkart' if 'flipkart' in link.lower() else 'meesho' if 'meesho' in link.lower() else 'ajio' if 'ajio' in link.lower() else 'myntra'
-    
+
+    raw_rate = str(r.get('Rating', '')).strip()
+    raw_cnt = str(r.get('Rating count', '')).strip().replace(',', '')
+
     catalog.append({
         "n": i,
         "code": code,
@@ -23,10 +25,9 @@ for i, r in enumerate(reader, 1):
         "aff": r.get('Affiliate Link', '').strip(),
         "brand": r.get('Brand', '').strip(),
         "title": r.get('Product Name', '').strip(),
-        "rating": {"v": float(r['Rating']) if r.get('Rating') else 0, "n": int(float(r['Rating count'])) if r.get('Rating count') else 0}
+        "rating": {"v": float(raw_rate) if raw_rate else 0, "n": int(float(raw_cnt)) if raw_cnt else 0}
     })
 
-# Overwrite catalog.json so the website reads all entries directly
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 

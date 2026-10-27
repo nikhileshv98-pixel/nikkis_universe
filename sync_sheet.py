@@ -30,10 +30,9 @@ catalog = []
 for i, r in enumerate(reader, 1):
     link = r.get('Main link', '').strip()
     aff = r.get('Affiliate Link', '').strip()
-    if not link and not aff: continue
-    
-    # Robustly extract product code / identifier
     target_url = link if link else aff
+
+    # Extract clean product code from faym.co/p/xyz or similar
     code = ""
     if "/p/" in target_url:
         code = target_url.split("/p/")[-1].split("?")[0].strip('/')
@@ -42,8 +41,10 @@ for i, r in enumerate(reader, 1):
         if match_pid:
             code = match_pid.group(1)
     
-    if not code:
-        code = target_url.rstrip('/').split('/')[-1].split('?')[0]
+    if not code or len(code) > 20:
+        # Fallback to last path segment if code is too long or messy
+        clean_path = target_url.split("?")[0].rstrip('/')
+        code = clean_path.split('/')[-1] if '/' in clean_path else f"item_{i}"
 
     st = r.get('Store', '').strip().lower()
     if st not in stores:
@@ -51,12 +52,12 @@ for i, r in enumerate(reader, 1):
 
     title = r.get('Product Name', '').strip()
     brand = r.get('Brand', '').strip()
-    
-    # Try matching by extracted code, or fallback to searching keys
+
+    # Get images matching the code
     imgs = existing_imgs.get(code, [])
     if not imgs:
         for k, v in existing_imgs.items():
-            if k in target_url or (code and code in k):
+            if k in target_url or code == k:
                 imgs = v
                 break
 
@@ -76,8 +77,8 @@ for i, r in enumerate(reader, 1):
         "imgs": imgs
     })
 
-# Save catalog.json with image links
+# Save catalog.json with correct image arrays
 with open("catalog.json", "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2)
 
-print(f"Successfully generated catalog.json with {len(catalog)} products and mapped images!")
+print(f"Successfully generated catalog.json with {len(catalog)} products!")

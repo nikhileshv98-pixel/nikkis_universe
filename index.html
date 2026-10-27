@@ -335,13 +335,19 @@ dialog::backdrop{background:rgba(10,5,24,.68);-webkit-backdrop-filter:blur(4px);
    Photos can also be dropped in as files: images/<code>/1.jpg, 2.jpg ...   Or fill data/myntra.js / data/manual.js (see the notes in those files). */
 var CATALOG = [];
 fetch('catalog.json')
-  .then(res => res.json())
-  .then(data => {
+  .then(function(res){ return res.json(); })
+  .then(function(data){
     CATALOG = data;
+    total = CATALOG.length;
+    counts = {}; STORE_ORDER.forEach(function(s){counts[s]=CATALOG.filter(function(p){return p.store===s}).length});
+    byCode = {}; CATALOG.forEach(function(p){byCode[p.code]=p});
+    $('#total').textContent = total;
     buildOrbit();
     buildChips();
+    syncUI();
     render();
-  });
+  })
+  .catch(function(err){ console.error('Error loading catalog:', err); });
 /* ---- names: the store's exact wording is kept. Only a hashtag-only name is turned into words for the card; the popup always shows the exact name. ---- */
 function tidy(t){return String(t==null?'':t).replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/\s*\|\s*/g,' | ').replace(/\s+/g,' ').trim()}
 function hashWords(t){

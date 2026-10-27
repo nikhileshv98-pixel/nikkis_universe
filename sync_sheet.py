@@ -5,7 +5,6 @@ import os
 
 url = "https://docs.google.com/spreadsheets/d/1dbixFOxz4K1tEo0UESC-lrBFY7MbbPvksEupUiwdow4/export?format=csv"
 
-print("Downloading sheet...")
 response = urllib.request.urlopen(url)
 lines = [line.decode('utf-8') for line in response.readlines()]
 reader = csv.DictReader(lines)
@@ -50,6 +49,5 @@ for store_name, data in stores.items():
             f.write(js)
         with open(f"{store_name}.js", 'w', encoding='utf-8') as f:
             f.write(js)
-        print(f"Updated {store_name}.js and data/{store_name}.js with {len(data)} items.")
 
-print("All stores synced successfully!")
+print("Done!")

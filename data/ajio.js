@@ -1,1 +1,7 @@
-window.NU_DATA=window.NU_DATA||{};window.NU_DATA.ajio={"aajlzs":{"title":"High Rise Relaxed Fit Trousers","brand":"KOTTY","imgs":["https://assets.ajio.com/medias/sys_master/root/20250407/K8h2/67f2d59e55340d4b4fb56f0b/-1117Wx1400H-701420764-beige-MODEL.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/K8h2/67f2d59e55340d4b4fb56eff/-1117Wx1400H-701420764-beige-MODEL.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/bTed/67f2d59e55340d4b4fb56e84/-701420764-beige-SWATCH.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/K8h2/67f2d59e55340d4b4fb56ef3/-1117Wx1400H-701420764-beige-MODEL.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/K8h2/67f2d59e55340d4b4fb56e83/-1117Wx1400H-701420764-beige-MODEL.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/3B3P/67f2d59e55340d4b4fb56e82/-1117Wx1400H-701420764-beige-MODEL2.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/3B3P/67f2d59e55340d4b4fb56e92/-1117Wx1400H-701420764-beige-MODEL2.jpg","https://assets.ajio.com/medias/sys_master/root/20250407/3B3P/67f2d59e55340d4b4fb56ebe/-1117Wx1400H-701420764-beige-MODEL2.jpg"],"rating":null}};
+window.NU_DATA = window.NU_DATA || {};
+window.NU_DATA.ajio = {
+  "701420764_beige?utm_source=faym&utm_medium=retargeting&utm_campaign=nikkis_universe": {
+    "title": "KOTTY High Rise Relaxed Fit Trousers",
+    "brand": "KOTTY"
+  }
+};

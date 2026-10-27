@@ -10,36 +10,32 @@ def main():
     lines = [line.decode('utf-8') for line in req.readlines()]
     reader = csv.DictReader(lines)
 
-    products = []
+    myntra_data = {}
     for row in reader:
         sno = row.get('S.No', '').strip()
         main_link = row.get('Main link', '').strip()
         if not sno or not main_link:
             continue
+
+        # Extract code from the main link or affiliate link
+        code = main_link.rstrip('/').split('/')[-1]
         
-        try:
-            n_val = float(sno)
-        except ValueError:
-            continue
-
-        products.append({
-            "n": n_val,
-            "store": "Myntra", # Adjust or detect store if needed
-            "aff": row.get('Affiliate Link', '').strip(),
-            "main": main_link,
-            "brand": row.get('Brand', '').strip(),
+        myntra_data[code] = {
             "title": row.get('Product Name', '').strip(),
-            "rating": row.get('Rating', '').strip(),
-            "count": row.get('Rating count', '').strip()
-        })
+            "brand": row.get('Brand', '').strip(),
+            "rating": {
+                "v": float(row['Rating']) if row.get('Rating') else 0,
+                "n": int(float(row['Rating count'])) if row.get('Rating count') else 0
+            }
+        }
 
-    print(f"Processed {len(products)} products from sheet.")
+    # Save directly into data/myntra.js
+    js_content = "window.NU_DATA = window.NU_DATA || {};\nwindow.NU_DATA.myntra = " + json.dumps(myntra_data, indent=2) + ";"
     
-    # Save into catalog or data files so your website reads them
-    with open('catalog.json', 'w', encoding='utf-8') as f:
-        json.dump(products, f, indent=2)
+    with open('data/myntra.js', 'w', encoding='utf-8') as f:
+        f.write(js_content)
 
-    print("Updated catalog.json successfully!")
+    print("Updated data/myntra.js successfully!")
 
 if __name__ == "__main__":
     main()

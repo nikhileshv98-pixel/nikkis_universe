@@ -62,7 +62,7 @@ function parseCSV(text) {
     if (!stores.includes(store)) {
       if (/amazon/i.test(link)) store = 'amazon';
       else if (/flipkart/i.test(link)) store = 'flipkart';
-      else if /meesho/i.test(link) store = 'meesho';
+      else if (/meesho/i.test(link)) store = 'meesho';
       else if (/ajio/i.test(link)) store = 'ajio';
       else store = 'myntra';
     }

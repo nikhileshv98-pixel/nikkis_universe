@@ -15,6 +15,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+<<<<<<< HEAD
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -34,3 +35,20 @@ jobs:
           else
             echo "No changes to commit"
           fi
+=======
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Scraper & Sync Script
+        run: node fetch_new_products.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto-update catalog.json with real photos" || echo "No changes to commit"
+          git push
+>>>>>>> bd514b3f8bf0e60993076c3ae982549cb512d0c6

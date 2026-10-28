@@ -68,18 +68,15 @@ function generateCatalog() {
     console.error('products.csv not found!');
     process.exit(1);
   }
-
   const csvText = fs.readFileSync(CSV_PATH, 'utf8');
   const rows = parseCSV(csvText);
   const photoMap = loadPhotoMap();
-
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
   const catalog = rows.map((r, i) => {
     const affLink = r['Affiliate Link'] || '';
     const mainLink = r['Main link'] || '';
     const sheetTitle = r['Product Name'] || '';
     const sheetBrand = r['Brand'] || '';
-
     let store = (r['Store'] || '').toLowerCase();
     if (!stores.includes(store)) {
       if (/amazon/i.test(mainLink)) store = 'amazon';
@@ -88,10 +85,8 @@ function generateCatalog() {
       else if (/ajio/i.test(mainLink)) store = 'ajio';
       else store = 'myntra';
     }
-
     let slug = extractSlug(affLink) || extractSlug(mainLink);
     let photoEntry = photoMap[slug];
-
     if (!photoEntry) {
       for (const entry of Object.values(photoMap)) {
         if (sheetBrand && entry.brand && sheetBrand.toLowerCase() === entry.brand.toLowerCase() &&
@@ -100,11 +95,9 @@ function generateCatalog() {
         }
       }
     }
-
     const code = photoEntry ? photoEntry.code : (slug || `item_${i + 1}`);
     const imgs = (photoEntry && photoEntry.imgs) ? photoEntry.imgs : [];
     const ratingCount = (r['Rating count'] || '0').replace(/,/g, '');
-
     return {
       n: i + 1,
       code: code,
@@ -118,7 +111,6 @@ function generateCatalog() {
       ref: { k: "ID", v: code }
     };
   });
-
   fs.writeFileSync(CATALOG_PATH, JSON.stringify(catalog, null, 2), 'utf8');
   const withImages = catalog.filter(c => c.imgs.length > 0).length;
   console.log(`Catalog generated: ${catalog.length} products, ${withImages} with images.`);

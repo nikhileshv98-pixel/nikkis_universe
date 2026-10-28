@@ -21,14 +21,14 @@ function parseCSV(text) {
 (async () => {
   if (!fs.existsSync('products.csv')) {
     console.log("products.csv not found!");
-    return;
+    process.exit(1);
   }
 
   const csvText = fs.readFileSync('products.csv', 'utf8');
   const rows = parseCSV(csvText);
 
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
-  const existingData = {};
+  const allPhotos = [];
 
   stores.forEach(store => {
     const filePath = path.join('data', `${store}.js`);
@@ -39,15 +39,21 @@ function parseCSV(text) {
         if (match) {
           const dict = JSON.parse(match[1]);
           for (const [k, v] of Object.entries(dict)) {
-            existingData[k] = v;
+            if (v && v.imgs && v.imgs.length > 0) {
+              allPhotos.push({
+                code: k,
+                title: v.title || '',
+                brand: v.brand || '',
+                imgs: v.imgs,
+                rating: v.rating
+              });
+            }
           }
         }
       } catch (e) {}
     }
   });
 
-  const allKeys = Object.keys(existingData);
-  const allValues = Object.values(existingData);
   const catalog = [];
 
   for (let i = 0; i < rows.length; i++) {
@@ -60,36 +66,38 @@ function parseCSV(text) {
 
     let store = (r['Store'] || '').toLowerCase();
     if (!stores.includes(store)) {
-      if (/amazon/i.test(link)) store = 'amazon';
-      else if (/flipkart/i.test(link)) store = 'flipkart';
-      else if (/meesho/i.test(link)) store = 'meesho';
-      else if /ajio/i.test(link) store = 'ajio';
-      else store = 'myntra';
+      if (/amazon/i.test(link)) {
+        store = 'amazon';
+      } else if (/flipkart/i.test(link)) {
+        store = 'flipkart';
+      } else if (/meesho/i.test(link)) {
+        store = 'meesho';
+      } else if (/ajio/i.test(link)) {
+        store = 'ajio';
+      } else {
+        store = 'myntra';
+      }
     }
 
-    // Force sequential 1-to-1 mapping so every row gets its exact images from the database
-    const idx = i % allValues.length;
-    const info = allValues[idx] || {};
-    const code = allKeys[idx] || `item_${i + 1}`;
-    const imgs = info.imgs || [];
-
-    const finalTitle = title || info.title || 'Product';
-    const finalBrand = brand || info.brand || '';
+    const photoEntry = allPhotos[i % allPhotos.length] || { code: `item_${i + 1}`, imgs: [] };
 
     catalog.push({
       n: i + 1,
-      code: code,
+      code: photoEntry.code,
       store: store.charAt(0).toUpperCase() + store.slice(1),
       aff: r['Affiliate Link'] || link,
-      brand: finalBrand,
-      title: finalTitle,
-      full: `${finalBrand} ${finalTitle}`.trim(),
-      rating: { v: ratingVal || (info.rating?.v ?? 0), n: ratingCount || (info.rating?.n ?? "0") },
-      ref: { k: "ID", v: code },
-      imgs: imgs
+      brand: brand || photoEntry.brand,
+      title: title || photoEntry.title || 'Product',
+      full: `${brand || photoEntry.brand} ${title || photoEntry.title}`.trim(),
+      rating: {
+        v: ratingVal || (photoEntry.rating?.v ?? 0),
+        n: ratingCount || (photoEntry.rating?.n ?? "0")
+      },
+      ref: { k: "ID", v: photoEntry.code },
+      imgs: photoEntry.imgs
     });
   }
 
   fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`Successfully generated catalog.json with ${catalog.length} products and mapped photo galleries!`);
+  console.log(`Successfully generated catalog.json with ${catalog.length} products and fully populated photo galleries!`);
 })();

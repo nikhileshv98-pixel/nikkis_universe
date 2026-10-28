@@ -27,6 +27,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git status
           git add catalog.json data/
-          git commit -m "Auto-scrape photos and update catalog from Google Sheet" || echo "No changes to commit"
+          git commit -m "Auto-update catalog.json and photo galleries from products.csv" || echo "No changes to commit"
           git push

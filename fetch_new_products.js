@@ -27,9 +27,9 @@ function parseCSV(text) {
   const csvText = fs.readFileSync('products.csv', 'utf8');
   const rows = parseCSV(csvText);
 
-  // Load all photo arrays from data/*.js files
+  // Load all photo galleries from data/*.js files into a lookup dictionary
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
-  const allPhotos = [];
+  const photoDatabase = [];
 
   stores.forEach(store => {
     const filePath = path.join('data', `${store}.js`);
@@ -40,8 +40,14 @@ function parseCSV(text) {
         if (match) {
           const dict = JSON.parse(match[1]);
           for (const [k, v] of Object.entries(dict)) {
-            if (v.imgs && v.imgs.length > 0) {
-              allPhotos.push({ code: k, title: v.title || '', brand: v.brand || '', imgs: v.imgs, rating: v.rating });
+            if (v && v.imgs && v.imgs.length > 0) {
+              photoDatabase.push({
+                code: k,
+                title: (v.title || '').toLowerCase().trim(),
+                brand: (v.brand || '').toLowerCase().trim(),
+                imgs: v.imgs,
+                rating: v.rating
+              });
             }
           }
         }
@@ -68,26 +74,38 @@ function parseCSV(text) {
       else store = 'myntra';
     }
 
-    // Assign photo gallery sequentially based on row number so NO product misses out
-    const photoEntry = allPhotos[i % allPhotos.length] || { code: `item_${i + 1}`, imgs: [] };
-    
+    // Try to find matching photos by title or brand, otherwise fall back to sequential index
+    let matchedPhoto = photoDatabase.find(p => 
+      (title && p.title && p.title.includes(title.toLowerCase())) ||
+      (brand && p.brand && p.brand.includes(brand.toLowerCase()))
+    );
+
+    if (!matchedPhoto && photoDatabase.length > 0) {
+      matchedPhoto = photoDatabase[i % photoDatabase.length];
+    }
+
+    const imgs = matchedPhoto ? matchedPhoto.imgs : [];
+    const code = matchedPhoto ? matchedPhoto.code : `item_${i + 1}`;
+    const finalTitle = title || (matchedPhoto ? matchedPhoto.title : 'Product');
+    const finalBrand = brand || (matchedPhoto ? matchedPhoto.brand : '');
+
     catalog.push({
       n: i + 1,
-      code: photoEntry.code,
+      code: code,
       store: store.charAt(0).toUpperCase() + store.slice(1),
       aff: r['Affiliate Link'] || link,
-      brand: brand || photoEntry.brand,
-      title: title || photoEntry.title || 'Product',
-      full: `${brand || photoEntry.brand} ${title || photoEntry.title}`.trim(),
+      brand: finalBrand,
+      title: finalTitle,
+      full: `${finalBrand} ${finalTitle}`.trim(),
       rating: { 
-        v: ratingVal || (photoEntry.rating?.v ?? 0), 
-        n: ratingCount || (photoEntry.rating?.n ?? "0") 
+        v: ratingVal || (matchedPhoto?.rating?.v ?? 0), 
+        n: ratingCount || (matchedPhoto?.rating?.n ?? "0") 
       },
-      ref: { k: "ID", v: photoEntry.code },
-      imgs: photoEntry.imgs
+      ref: { k: "ID", v: code },
+      imgs: imgs
     });
   }
 
   fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`Successfully generated catalog.json with ${catalog.length} products and populated image galleries!`);
+  console.log(`Successfully generated catalog.json with ${catalog.length} products and real photo galleries!`);
 })();

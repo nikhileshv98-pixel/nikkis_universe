@@ -28,7 +28,7 @@ function parseCSV(text) {
   const rows = parseCSV(csvText);
 
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
-  const allPhotos = [];
+  const photoMap = {}; // code -> { title, brand, imgs, rating }
 
   stores.forEach(store => {
     const filePath = path.join('data', `${store}.js`);
@@ -40,13 +40,13 @@ function parseCSV(text) {
           const dict = JSON.parse(match[1]);
           for (const [k, v] of Object.entries(dict)) {
             if (v && v.imgs && v.imgs.length > 0) {
-              allPhotos.push({
+              photoMap[k] = {
                 code: k,
                 title: v.title || '',
                 brand: v.brand || '',
                 imgs: v.imgs,
                 rating: v.rating
-              });
+              };
             }
           }
         }
@@ -79,7 +79,28 @@ function parseCSV(text) {
       }
     }
 
-    const photoEntry = allPhotos[i % allPhotos.length] || { code: `item_${i + 1}`, imgs: [] };
+    // Extract product code from affiliate link (e.g. https://faym.co/p/ycjtqs -> ycjtqs)
+    const slugMatch = link.match(/\/p\/([a-zA-Z0-9_-]+)/);
+    const codeFromLink = slugMatch ? slugMatch[1] : null;
+
+    // Match by code from data files first, then fall back to title/brand match
+    let photoEntry = null;
+    if (codeFromLink && photoMap[codeFromLink]) {
+      photoEntry = photoMap[codeFromLink];
+    } else {
+      // Fallback: match by title + brand
+      for (const [k, v] of Object.entries(photoMap)) {
+        if (v.title && title && v.title.toLowerCase().includes(title.toLowerCase().split(' ')[0]) &&
+            v.brand && brand && v.brand.toLowerCase() === brand.toLowerCase()) {
+          photoEntry = v;
+          break;
+        }
+      }
+    }
+
+    if (!photoEntry) {
+      photoEntry = { code: `item_${i + 1}`, title: title || 'Product', brand: brand || '', imgs: [], rating: null };
+    }
 
     catalog.push({
       n: i + 1,
@@ -99,5 +120,5 @@ function parseCSV(text) {
   }
 
   fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`Successfully generated catalog.json with ${catalog.length} products and fully populated photo galleries!`);
+  console.log(`Successfully generated catalog.json with ${catalog.length} products and real photo galleries!`);
 })();

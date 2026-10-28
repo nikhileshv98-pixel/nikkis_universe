@@ -27,9 +27,8 @@ function parseCSV(text) {
   const csvText = fs.readFileSync('products.csv', 'utf8');
   const rows = parseCSV(csvText);
 
-  // Load all photo galleries from data/*.js files into a lookup dictionary
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
-  const photoDatabase = [];
+  const existingData = {};
 
   stores.forEach(store => {
     const filePath = path.join('data', `${store}.js`);
@@ -40,21 +39,15 @@ function parseCSV(text) {
         if (match) {
           const dict = JSON.parse(match[1]);
           for (const [k, v] of Object.entries(dict)) {
-            if (v && v.imgs && v.imgs.length > 0) {
-              photoDatabase.push({
-                code: k,
-                title: (v.title || '').toLowerCase().trim(),
-                brand: (v.brand || '').toLowerCase().trim(),
-                imgs: v.imgs,
-                rating: v.rating
-              });
-            }
+            existingData[k] = v;
           }
         }
       } catch (e) {}
     }
   });
 
+  const allKeys = Object.keys(existingData);
+  const allValues = Object.values(existingData);
   const catalog = [];
 
   for (let i = 0; i < rows.length; i++) {
@@ -70,24 +63,18 @@ function parseCSV(text) {
       if (/amazon/i.test(link)) store = 'amazon';
       else if (/flipkart/i.test(link)) store = 'flipkart';
       else if (/meesho/i.test(link)) store = 'meesho';
-      else if (/ajio/i.test(link)) store = 'ajio';
+      else if /ajio/i.test(link) store = 'ajio';
       else store = 'myntra';
     }
 
-    // Try to find matching photos by title or brand, otherwise fall back to sequential index
-    let matchedPhoto = photoDatabase.find(p => 
-      (title && p.title && p.title.includes(title.toLowerCase())) ||
-      (brand && p.brand && p.brand.includes(brand.toLowerCase()))
-    );
+    // Force sequential 1-to-1 mapping so every row gets its exact images from the database
+    const idx = i % allValues.length;
+    const info = allValues[idx] || {};
+    const code = allKeys[idx] || `item_${i + 1}`;
+    const imgs = info.imgs || [];
 
-    if (!matchedPhoto && photoDatabase.length > 0) {
-      matchedPhoto = photoDatabase[i % photoDatabase.length];
-    }
-
-    const imgs = matchedPhoto ? matchedPhoto.imgs : [];
-    const code = matchedPhoto ? matchedPhoto.code : `item_${i + 1}`;
-    const finalTitle = title || (matchedPhoto ? matchedPhoto.title : 'Product');
-    const finalBrand = brand || (matchedPhoto ? matchedPhoto.brand : '');
+    const finalTitle = title || info.title || 'Product';
+    const finalBrand = brand || info.brand || '';
 
     catalog.push({
       n: i + 1,
@@ -97,15 +84,12 @@ function parseCSV(text) {
       brand: finalBrand,
       title: finalTitle,
       full: `${finalBrand} ${finalTitle}`.trim(),
-      rating: { 
-        v: ratingVal || (matchedPhoto?.rating?.v ?? 0), 
-        n: ratingCount || (matchedPhoto?.rating?.n ?? "0") 
-      },
+      rating: { v: ratingVal || (info.rating?.v ?? 0), n: ratingCount || (info.rating?.n ?? "0") },
       ref: { k: "ID", v: code },
       imgs: imgs
     });
   }
 
   fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`Successfully generated catalog.json with ${catalog.length} products and real photo galleries!`);
+  console.log(`Successfully generated catalog.json with ${catalog.length} products and mapped photo galleries!`);
 })();

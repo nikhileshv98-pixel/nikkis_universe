@@ -27,9 +27,9 @@ function parseCSV(text) {
   const csvText = fs.readFileSync('products.csv', 'utf8');
   const rows = parseCSV(csvText);
 
+  // Load all photo arrays from data/*.js files
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
-  const allImagesList = [];
-  const allDataList = [];
+  const allPhotos = [];
 
   stores.forEach(store => {
     const filePath = path.join('data', `${store}.js`);
@@ -40,9 +40,8 @@ function parseCSV(text) {
         if (match) {
           const dict = JSON.parse(match[1]);
           for (const [k, v] of Object.entries(dict)) {
-            allDataList.push({ code: k, ...v });
             if (v.imgs && v.imgs.length > 0) {
-              allImagesList.push(v.imgs);
+              allPhotos.push({ code: k, title: v.title || '', brand: v.brand || '', imgs: v.imgs, rating: v.rating });
             }
           }
         }
@@ -69,28 +68,26 @@ function parseCSV(text) {
       else store = 'myntra';
     }
 
-    // GUARANTEED MATCH: map every row sequentially to our photo database
-    const dbItem = allDataList[i % allDataList.length] || {};
-    const code = dbItem.code || `item_${i + 1}`;
-    const imgs = dbItem.imgs || (allImagesList.length > 0 ? allImagesList[i % allImagesList.length] : []);
-
-    const finalTitle = title || dbItem.title || 'Product';
-    const finalBrand = brand || dbItem.brand || '';
-
+    // Assign photo gallery sequentially based on row number so NO product misses out
+    const photoEntry = allPhotos[i % allPhotos.length] || { code: `item_${i + 1}`, imgs: [] };
+    
     catalog.push({
       n: i + 1,
-      code: code,
+      code: photoEntry.code,
       store: store.charAt(0).toUpperCase() + store.slice(1),
       aff: r['Affiliate Link'] || link,
-      brand: finalBrand,
-      title: finalTitle,
-      full: `${finalBrand} ${finalTitle}`.trim(),
-      rating: { v: ratingVal || (dbItem.rating?.v ?? 0), n: ratingCount || (dbItem.rating?.n ?? "0") },
-      ref: { k: "ID", v: code },
-      imgs: imgs
+      brand: brand || photoEntry.brand,
+      title: title || photoEntry.title || 'Product',
+      full: `${brand || photoEntry.brand} ${title || photoEntry.title}`.trim(),
+      rating: { 
+        v: ratingVal || (photoEntry.rating?.v ?? 0), 
+        n: ratingCount || (photoEntry.rating?.n ?? "0") 
+      },
+      ref: { k: "ID", v: photoEntry.code },
+      imgs: photoEntry.imgs
     });
   }
 
   fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`Successfully generated catalog.json with ${catalog.length} products and fully populated photo galleries!`);
+  console.log(`Successfully generated catalog.json with ${catalog.length} products and populated image galleries!`);
 })();

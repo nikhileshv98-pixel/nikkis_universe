@@ -3,15 +3,36 @@ const path = require('path');
 
 function parseCSV(text) {
   const lines = text.split(/\r?\n/);
+  // Handle BOM if present
+  if (lines[0].charCodeAt(0) === 0xFEFF) {
+    lines[0] = lines[0].slice(1);
+  }
   const headers = lines[0].split(',').map(h => h.trim().replace(/^"|"$/g, ''));
   const rows = [];
   for (let i = 1; i < lines.length; i++) {
-    if (!lines[i].trim()) continue;
-    const currentLine = lines[i].match(/(".*?"|[^",\s]+)(?=\s*,|\s*$)/g) || lines[i].split(',');
+    const line = lines[i].trim();
+    if (!line) continue;
+
+    // Robust CSV parser supporting quotes
+    const row = [];
+    let inQuotes = false;
+    let currentVal = '';
+    for (let c = 0; c < line.length; c++) {
+      const char = line[c];
+      if (char === '"') {
+        inQuotes = !inQuotes;
+      } else if (char === ',' && !inQuotes) {
+        row.push(currentVal.trim().replace(/^"|"$/g, ''));
+        currentVal = '';
+      } else {
+        currentVal += char;
+      }
+    }
+    row.push(currentVal.trim().replace(/^"|"$/g, ''));
+
     const obj = {};
     headers.forEach((h, index) => {
-      let val = currentLine[index] ? currentLine[index].trim().replace(/^"|"$/g, '') : '';
-      obj[h] = val;
+      obj[h] = row[index] !== undefined ? row[index] : '';
     });
     rows.push(obj);
   }
@@ -20,105 +41,116 @@ function parseCSV(text) {
 
 (async () => {
   if (!fs.existsSync('products.csv')) {
-    console.log("products.csv not found!");
+    console.error("Error: products.csv not found!");
     process.exit(1);
   }
 
   const csvText = fs.readFileSync('products.csv', 'utf8');
   const rows = parseCSV(csvText);
+  console.log(`Parsed ${rows.length} rows from products.csv`);
 
   const stores = ['myntra', 'amazon', 'flipkart', 'meesho', 'ajio', 'manual'];
-  const photoMap = {}; // code -> { title, brand, imgs, rating }
+  const photoMap = {}; // slug -> { code, title, brand, imgs, rating }
 
   stores.forEach(store => {
     const filePath = path.join('data', `${store}.js`);
     if (fs.existsSync(filePath)) {
       try {
         const content = fs.readFileSync(filePath, 'utf8');
-        const match = content.match(/window\.NU_DATA\.\w+\s*=\s*(\{.+?\});/s);
+        // Match window.NU_DATA.store = { ... };
+        const match = content.match(/window\.NU_DATA\.\w+\s*=\s*(\{[\s\S]*?\});\s*(?:window\.NU_DATA|$)/s);
         if (match) {
-          const dict = JSON.parse(match[1]);
+          // Parse JSON safely by evaluating or parsing
+          const jsonText = match[1];
+          // We can use Function constructor to parse JS object literal safely
+          const dict = (new Function(`return ${jsonText};`))();
           for (const [k, v] of Object.entries(dict)) {
-            if (v && v.imgs && v.imgs.length > 0) {
-              photoMap[k] = {
+            if (v && v.imgs && Array.isArray(v.imgs) && v.imgs.length > 0) {
+              photoMap[k.toLowerCase().trim()] = {
                 code: k,
                 title: v.title || '',
                 brand: v.brand || '',
                 imgs: v.imgs,
-                rating: v.rating
+                rating: v.rating || null
               };
             }
           }
         }
-      } catch (e) {}
+      } catch (e) {
+        console.error(`Error parsing data/${store}.js:`, e.message);
+      }
     }
   });
+
+  console.log(`Loaded photo maps for ${Object.keys(photoMap).length} items from data files.`);
 
   const catalog = [];
 
   for (let i = 0; i < rows.length; i++) {
     const r = rows[i];
-    const link = r['Main link'] || r['Affiliate Link'] || '';
-    const title = r['Product Name'] || '';
-    const brand = r['Brand'] || '';
+    const affLink = r['Affiliate Link'] || '';
+    const mainLink = r['Main link'] || '';
+    const sheetTitle = r['Product Name'] || '';
+    const sheetBrand = r['Brand'] || '';
     const ratingVal = parseFloat(r['Rating']) || 0;
     const ratingCount = (r['Rating count'] || '0').replace(/,/g, '');
 
     let store = (r['Store'] || '').toLowerCase();
     if (!stores.includes(store)) {
-      if (/amazon/i.test(link)) {
-        store = 'amazon';
-      } else if (/flipkart/i.test(link)) {
-        store = 'flipkart';
-      } else if (/meesho/i.test(link)) {
-        store = 'meesho';
-      } else if (/ajio/i.test(link)) {
-        store = 'ajio';
-      } else {
-        store = 'myntra';
-      }
+      if (/amazon/i.test(mainLink)) store = 'amazon';
+      else if (/flipkart/i.test(mainLink)) store = 'flipkart';
+      else if (/meesho/i.test(mainLink)) store = 'meesho';
+      else if (/ajio/i.test(mainLink)) store = 'ajio';
+      else store = 'myntra';
     }
 
-    // Extract product code from affiliate link (e.g. https://faym.co/p/ycjtqs -> ycjtqs)
-    const slugMatch = link.match(/\/p\/([a-zA-Z0-9_-]+)/);
-    const codeFromLink = slugMatch ? slugMatch[1] : null;
-
-    // Match by code from data files first, then fall back to title/brand match
-    let photoEntry = null;
-    if (codeFromLink && photoMap[codeFromLink]) {
-      photoEntry = photoMap[codeFromLink];
+    // Extract slug from affiliate link or main link e.g. https://faym.co/p/ycjtqs -> ycjtqs
+    let slug = '';
+    const affMatch = affLink.match(/\/p\/([a-zA-Z0-9_-]+)/);
+    if (affMatch) {
+      slug = affMatch[1].toLowerCase();
     } else {
-      // Fallback: match by title + brand
-      for (const [k, v] of Object.entries(photoMap)) {
-        if (v.title && title && v.title.toLowerCase().includes(title.toLowerCase().split(' ')[0]) &&
-            v.brand && brand && v.brand.toLowerCase() === brand.toLowerCase()) {
-          photoEntry = v;
+      const mainMatch = mainLink.match(/\/p\/([a-zA-Z0-9_-]+)/) || mainLink.match(/\/(\d+)\?/);
+      if (mainMatch) slug = mainMatch[1].toLowerCase();
+    }
+
+    let photoEntry = photoMap[slug];
+
+    // If not found by slug, try matching by exact brand + title
+    if (!photoEntry) {
+      for (const entry of Object.values(photoMap)) {
+        if (sheetBrand && entry.brand && sheetBrand.toLowerCase() === entry.brand.toLowerCase() &&
+            sheetTitle && entry.title && entry.title.toLowerCase() === sheetTitle.toLowerCase()) {
+          photoEntry = entry;
           break;
         }
       }
     }
 
-    if (!photoEntry) {
-      photoEntry = { code: `item_${i + 1}`, title: title || 'Product', brand: brand || '', imgs: [], rating: null };
-    }
+    // Fallback if still not found
+    const code = photoEntry ? photoEntry.code : `item_${i + 1}`;
+    const brand = sheetBrand || (photoEntry ? photoEntry.brand : '');
+    const title = sheetTitle || (photoEntry ? photoEntry.title : 'Product');
+    const imgs = (photoEntry && photoEntry.imgs && photoEntry.imgs.length > 0) ? photoEntry.imgs : [];
+    const ratingObj = photoEntry && photoEntry.rating ? photoEntry.rating : { v: ratingVal, n: ratingCount };
 
     catalog.push({
       n: i + 1,
-      code: photoEntry.code,
+      code: code,
       store: store.charAt(0).toUpperCase() + store.slice(1),
-      aff: r['Affiliate Link'] || link,
-      brand: brand || photoEntry.brand,
-      title: title || photoEntry.title || 'Product',
-      full: `${brand || photoEntry.brand} ${title || photoEntry.title}`.trim(),
+      aff: affLink || mainLink,
+      brand: brand,
+      title: title,
+      full: `${brand} ${title}`.trim(),
       rating: {
-        v: ratingVal || (photoEntry.rating?.v ?? 0),
-        n: ratingCount || (photoEntry.rating?.n ?? "0")
+        v: ratingVal || (ratingObj.v ?? 0),
+        n: ratingCount || (ratingObj.n ?? "0")
       },
-      ref: { k: "ID", v: photoEntry.code },
-      imgs: photoEntry.imgs
+      ref: { k: "ID", v: code },
+      imgs: imgs
     });
   }
 
   fs.writeFileSync('catalog.json', JSON.stringify(catalog, null, 2), 'utf8');
-  console.log(`Successfully generated catalog.json with ${catalog.length} products and real photo galleries!`);
+  console.log(`Successfully generated catalog.json with ${catalog.length} products and real image galleries!`);
 })();

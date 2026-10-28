@@ -1,1 +1,850 @@
-window.NU_DATA=window.NU_DATA||{};window.NU_DATA.myntra={"ycjtqs":{"title":"Bohemian Women Solid Halter Neck Top with Trousers","brand":"Suo","imgs":["https://assets.myntassets.com/assets/images/2026/AUGUST/10/4YBIa718_435511c2c49844b1bb1ad05fc116020a.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/10/NtawYAEa_28e70cd4f06d46989b9a6df2933d351c.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/10/kBhy40gh_10d6a2b78e464528899fab417dcf2db4.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/10/NEnQhpRt_79a8bd59c78846d7ac3b3325014d1831.jpg"],"rating":null},"ozpoor":{"title":"Bow Detail Embellished Top with Trousers","brand":"BLANC9","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/15/gp0paxSz_1aaf9d58230942e4b97dd1d4f593e063.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/Xf0pI0Lk_77324718fc52488cb8954b85b0608eb0.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/BX28WyWX_f3d0f188502b415ba6a1f2551ad51b62.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/t18vqEL0_5e708d21cb47411591efaad524c3fc2e.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/v1GZwXJT_160f24f98f884c40926bcdfb8e317fa9.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/12S7asYg_16427e1bc6e743a3bf9919a955eb2d0d.jpg"],"rating":{"v":5,"n":"11"}},"zqw4fk":{"title":"Women Floral Printed Regular Top with Palazzos","brand":"Marigold Lane","imgs":["https://assets.myntassets.com/assets/images/2026/APRIL/16/a6a4Tgi1_7c74398ef82c4da48f1dc76b192e9b3b.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/16/A3gcdFYB_e8d3ed380a314b74bdb55e5275b0f464.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/16/rM60vI7e_f05eb45b48d94a988398ab12dc0cd112.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/16/dbAIvINb_48562eea25684dbfbf8736eb63000bbc.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/16/Ewa3VJpu_472a9d393eb34a1d9ef4a9541b46d5de.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/16/dKk5AUOy_2db130c3b991493191c1be7dba854ba0.jpg"],"rating":null},"arj13n":{"title":"Bohemian Cotton Striped Top with Trousers","brand":"Woomn","imgs":["https://assets.myntassets.com/assets/images/2026/JUNE/27/D9Ozof2Y_bc2344cdfd9a4fe285b1382a7fb2222c.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/27/rEMedimp_3ed0f41a1c3749c79c7b0f64916debde.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/27/hK8bo6ke_7d763b24454046c29585c485d754d5fe.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/27/uRFVa0Zs_2094d5abc4ce46009a472d76ca45ccdd.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/27/Dx15t98s_1a6b16b4b8464f0ea8049aadc587b72e.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/27/SfzXF1ln_ed63ccf5f9274db091e7bbaf060a45eb.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/27/Ckr2OnkX_72a5d84a6c92482cb435864d38945008.jpg"],"rating":{"v":4.1,"n":"316"}},"i9qpl5":{"title":"Solid Top with Trousers","brand":"Outzidr","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/22/CAFR9iUC_2f4b030f06a24bcdb5d99f24a1da5450.jpg","https://assets.myntassets.com/assets/images/2026/JULY/22/h1YGiXGj_8fd68ec811fa4d8d9aeccf5c20bfafc4.jpg","https://assets.myntassets.com/assets/images/2026/JULY/22/PF5QzDAG_208525e7a25048619fb38039337833e5.jpg","https://assets.myntassets.com/assets/images/2026/JULY/22/UUUtDcgE_136218fb65f8430e8e64d083f84d930f.jpg","https://assets.myntassets.com/assets/images/2026/JULY/22/Xor1CAML_3bf94a985d1f47a1ae254bb2ea0a88a7.jpg"],"rating":null},"0levas":{"title":"Ribbed Studded Detail Fitted Top","brand":"Chemistry","imgs":["https://assets.myntassets.com/assets/images/21387180/2025/7/4/1d8c7d15-0caf-4191-8a8d-5e09d1beaed51751619513868-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-1.jpg","https://assets.myntassets.com/assets/images/21387180/2025/7/4/7d69b680-f04d-460f-a4ad-710fc2bba09a1751619513841-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-2.jpg","https://assets.myntassets.com/assets/images/21387180/2025/7/4/2c1d71b8-325d-4c08-b55c-c302635397fc1751619513813-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-3.jpg","https://assets.myntassets.com/assets/images/21387180/2025/7/4/a2f72a81-4ac1-4140-8862-e6895224e3041751619513784-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-4.jpg","https://assets.myntassets.com/assets/images/21387180/2025/7/4/50f7d3b3-fedd-4699-b8c0-72058ea4cd3d1751619513758-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-5.jpg"],"rating":{"v":4.2,"n":"800"}},"bccjg8":{"title":"Women Straight-Fit High-Rise Clean-Look Stretchable Denim Midi Skirt","brand":"Life With Pockets","imgs":["https://assets.myntassets.com/assets/images/35660326/2025/7/18/c98ce05b-1b3a-4dd7-80c6-ab6406460fc21752826251159-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-1.jpg","https://assets.myntassets.com/assets/images/35660326/2025/7/18/19ebc19e-66b4-4fc1-8dc0-8baca70d7ca91752826251144-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-2.jpg","https://assets.myntassets.com/assets/images/35660326/2025/7/18/38722286-bfae-4e18-afae-75182ed6f17c1752826251130-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-3.jpg","https://assets.myntassets.com/assets/images/35660326/2025/7/18/f2922f82-5572-4865-80f7-b425262462cd1752826251117-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-4.jpg","https://assets.myntassets.com/assets/images/35660326/2025/7/18/d6cb8f49-c48d-49d8-92f1-8056ea55d4fe1752826251103-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-5.jpg","https://assets.myntassets.com/assets/images/35660326/2025/7/18/9b5f3745-15a5-40d8-a4f3-27545c8fec3d1752826251089-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-6.jpg"],"rating":{"v":4.1,"n":"65"}},"hg97iv":{"title":"Rose Ribbed Boat Neck Top with Cut Out","brand":"Zucchini","imgs":["https://assets.myntassets.com/assets/images/2025/DECEMBER/19/yNHvPCPw_0db26f78bebd4b98a85b13d082a4f714.jpg","https://assets.myntassets.com/assets/images/2025/DECEMBER/19/4Obuy33q_7f9f12a374cc45c7b0698304f18e52a6.jpg","https://assets.myntassets.com/assets/images/2025/DECEMBER/19/8O0CND8B_d88be6056fbe41268add1f0e7b9b0c72.jpg"],"rating":{"v":3.6,"n":"24"}},"hrwlus":{"title":"Linen Embroidered Shirt with Palazzos","brand":"Manqsh by Claura","imgs":["https://assets.myntassets.com/assets/images/2026/AUGUST/19/c5c014aba4014bd8ae16a9af80f4bb32.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/19/b53abacb9e0a4ee98491818fd633bf14.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/19/393204ac470445a89291d3f9e964b788.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/19/6d25a03bb12e42ba93b569fe34731538.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/19/bdd698b25a1d432e80bb2cfaa2892f80.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/19/2b1a715eb8cc47dfa261e12b7e25ea49.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/19/e3443f9f04604f46bc0d914ec35bcd73.jpg"],"rating":{"v":4,"n":"21"}},"wpjl6q":{"title":"Linen Embroidered Top with Palazzos","brand":"Sangria","imgs":["https://assets.myntassets.com/assets/images/2026/JUNE/6/JJmZnphC_93dced913d974c758a34d8ad8aec7589.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/wMPATFSh_c2ac0037f921442ba2f8703a8e9f4c9c.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/7Qh14ilB_f2eb2a7a10fb4b268078d1753055b2b5.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/tGXhtv3M_c540f3c56fda47ae9815284054aa1438.jpg"],"rating":{"v":4,"n":"295"}},"cqi5vf":{"title":"Pure Cotton Crop Top & Trousers Co-Ords","brand":"Pink Paprika by SASSAFRAS","imgs":["https://assets.myntassets.com/assets/images/34123131/2025/5/21/553240fc-fc0e-4fe5-93ab-251aef8157e11747819555515-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--1.jpg","https://assets.myntassets.com/assets/images/34123131/2025/5/21/6613ea77-6e9c-46b4-83b3-716f2f429c261747819555492-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--2.jpg","https://assets.myntassets.com/assets/images/34123131/2025/5/21/5644d33c-7d05-4ea5-a168-9d8f3cfbcf261747819555469-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--3.jpg","https://assets.myntassets.com/assets/images/34123131/2025/5/21/dc76c12a-7686-4917-8210-e6f18abeb5871747819555446-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--4.jpg","https://assets.myntassets.com/assets/images/34123131/2025/5/21/94d76568-c87d-479d-88f9-bcf765af20be1747819555423-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--5.jpg","https://assets.myntassets.com/assets/images/34123131/2025/5/21/d9f935a0-1b66-44b5-bd60-a0f9045b96861747819555402-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--6.jpg","https://assets.myntassets.com/assets/images/34123131/2025/5/21/e7888e87-bed6-4303-8ea0-222cafc91c6b1747819555380-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--7.jpg"],"rating":{"v":4.5,"n":"466"}},"ewnxtd":{"title":"Cotton Embellished Tunic with Palazzos","brand":"AUTUMN LANE","imgs":["https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/vwHOaYoZ_efb83ee5d33b46828d9f36871270d1bd.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/w8RSYiWR_f0f82193cdd6448683dffed3214b47e6.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/J6JLqsPp_479f496e71414914a5e6158008317876.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/x2NC8sZa_0ac42a9ed855462a9a7c14f667533d83.jpg"],"rating":{"v":3.3,"n":"7"}},"qjzoq6":{"title":"Printed Shirt with Trousers","brand":"MASSTANI BY INDDUS","imgs":["https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/u7DGgRiJ_3023fa3420bf42bea3d471eebc03e69d.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/Bm2F9Dbn_83ec2b4299ef450db525d42ac88a5ac1.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/pWVUIxDJ_6daeb088bdc64b5383add36fdf95b35d.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/ZfuRUhza_6a4cc2732a5d48abb1f5c996a880914d.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/YPG5xuKc_86daf46829254abc9013011ebd474e40.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/6cwzDmDT_b5147281bd0e4c6fbb26fb86bd150527.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/fUZh5XPR_838181b78de546219e9a8eb455597b05.jpg"],"rating":{"v":4.2,"n":"37"}},"d0dssj":{"title":"Romantic Florals Cotton Embroidered Shirt with Trousers","brand":"ZUMMER","imgs":["https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/LHkpwmmv_9085248a79dc4d0f824b2b3c0a3d5785.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/4xYUDbRT_5ac4835838a743e59851f64942fbbb68.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/Pg734vDo_502bcbc93d07409885002808d921044a.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/02bopWQe_f5c81be88c4a4aeaa32bb2950aec02aa.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/5ms3c0U9_8f633ab1e9db44268e167915ce12c7d6.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/sq1uR7u5_4d822703335b47eab276cf5494b07546.jpg"],"rating":null},"thlgmz":{"title":"Embroidered Top With Trousers Co-Ords","brand":"Warthy Ent","imgs":["https://assets.myntassets.com/assets/images/2026/JANUARY/22/foH0RkKF_e637e4c6ef14418eab7ecd3a92fefdf0.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/22/ZQp2EbVO_3d376c0cec96431e9213e0eb3341f816.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/22/bO1Rle77_d53a828d6977410297b1c75c77815e0e.jpg"],"rating":{"v":3.8,"n":"26"}},"mevklc":{"title":"Women Buckle Detailing Stretchable Skorts","brand":"Purple Feather","imgs":["https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/zVkQjXG1_c9854e7591a946df97467ff249ee03c4.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/paD9omOn_4935cc0ec3494d88a631106dd7f906da.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/6zWPGj6T_2ba20c4ce0b64f77849e28bdc791607d.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/XIOiHkdU_97b13e499675432eafa2866ee07125bd.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/gvTfOHWO_7c3ad47211c841a282c6f1f3c8d0df6f.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/tYuyxxlb_7fb8e3b5ef474fb6840f5641aa1989a4.jpg"],"rating":{"v":4.3,"n":"519"}},"hkgc1f":{"title":"Top","brand":"Suo","imgs":["https://assets.myntassets.com/assets/images/2026/MAY/16/3rn9G5cv_a4117bf5a9af4cd1a68a408b238a8f4f.jpg","https://assets.myntassets.com/assets/images/2026/MAY/16/1gvnbDaN_5ceeec025c5049848c4d771584010c17.jpg","https://assets.myntassets.com/assets/images/2026/MAY/16/uAQLb8tx_e4008a54cfe94078b11cc3446a65a6e2.jpg","https://assets.myntassets.com/assets/images/2026/MAY/16/QQBSfLOu_3ab4e99970124232a4c4cfe9d667fff1.jpg"],"rating":{"v":3.5,"n":"8"}},"b6fyc2":{"title":"Women A-Line Skirt","brand":"Suo","imgs":["https://assets.myntassets.com/assets/images/2026/JUNE/14/uPC0HW6J_25aec93dfec44934bf89952db1b9afcb.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/14/fPWimvWQ_111724d4ccc64754a0103cdcaeb78e20.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/14/tzyE2NVK_30a5bbba10cd4183b081e117dee966be.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/14/wZKlDCmk_5737bcc6ce694ccca46f18a6f17493af.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/14/CaYQzeUl_64c7353fe2174e85818b02e20f863d74.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/14/7FEgBf3c_88dbf89e48cd47bebba00ff0ed36c5ad.jpg"],"rating":null},"agphtr":{"title":"Ruffles Top","brand":"glitchez","imgs":["https://assets.myntassets.com/assets/images/2026/OCTOBER/3/140d4d96189841c0bb9ab76f054712bc.jpg","https://assets.myntassets.com/assets/images/2026/OCTOBER/3/2dfc0a0cff2242cc803f3b8c20fbe9aa.jpg","https://assets.myntassets.com/assets/images/2026/OCTOBER/3/fcb0ac92c24744df967591a579280ec1.jpg","https://assets.myntassets.com/assets/images/2026/OCTOBER/3/43c89ebc4d334c918fe781d08e5a0962.jpg","https://assets.myntassets.com/assets/images/2026/OCTOBER/3/f302958cf95045318f1636b61a1b3f03.jpg","https://assets.myntassets.com/assets/images/2026/OCTOBER/3/1013d4d645284460ae88181f1bdc49f0.jpg","https://assets.myntassets.com/assets/images/2026/OCTOBER/3/5bc60093978647e5be5afd01dfcffa0c.jpg"],"rating":{"v":4.2,"n":"871"}},"zb4k0j":{"title":"Women Sleek Utility Midi A-Line Skirt","brand":"FOREVER FRIDAY","imgs":["https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/af2dc86e0b0b4b929e9a46c0b8fe87b4.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/589fedee7cdd4f36bf6a2945f00f304d.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/1329ffc114c04f21b3f9ae1bcd9274b1.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/78b5b4192da24e0ba8c566fac747882f.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/61758df367de448ea6aec588e5a57038.jpg"],"rating":null},"johalo":{"title":"Embroidered Shirt Collar Shirt & Trousers Co-Ords","brand":"Anouk","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/15/RwBHkKoM_2ebda812b76145a79a53bf875f5b2d40.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/Qiu4ansW_4d511bdea5794cf581abb846171bca60.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/UQtau2hk_0050177875184d5687e252dddd35e849.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/B2JdS9qW_4f3e854bd0484302836f84d710dc07aa.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/7Z07VfnJ_1dc6061c3706403f8970e79d2ba2bf5c.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/XoanZbtO_76ca10d83ccc437585173af28691f422.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/45K0nKTh_26d763ead4454b8090469eb019eb2790.jpg"],"rating":{"v":4.1,"n":"14"}},"vsz4ts":{"title":"Embroidered Tunic with Palazzos","brand":"KALINI","imgs":["https://assets.myntassets.com/assets/images/2026/JANUARY/30/B7JoYFMf_3e10cd2aa5cb4a2d8fad55b98e1b0d8c.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/30/85ZtVOhq_15f7c28c6ebb42b5962e0483cf35f225.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/30/WNZjbIvf_5cbf50012c38406f9f6203f8b1712689.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/30/DiC7Tfwx_90acab0ec6c6465caf9d58c295896641.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/30/aQi6xebu_ab6d067540ae4ee5b54a14fb45ed1df2.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/30/L0wxW80f_48ba61bb130d444c8cba1d7cfdfcf910.jpg"],"rating":{"v":3.9,"n":"198"}},"6lkvd1":{"title":"Women Floral Regular Pure Cotton Kurti with Trousers","brand":"AAFAMI","imgs":["https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/ZpbNW5pE_577805417b434d3cabe7822d1feab6c2.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/RkowgPQ0_f08929132d25441b8a38b71118c81373.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/XauzMkgR_2539c7dbd1b64ccf94323f760b66083d.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/1ShISyJX_289f8ef601514f5fa0010be19e448398.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/Xr8Rx4ZQ_dfc78ba5a7af4e46a0c3b7ef3ee9865b.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/0B87HH7H_15f0d40e9c4d412f80f4a882572722b4.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/p8bdwulC_6f642692924c4c8d86d154e31bb69ae7.jpg"],"rating":{"v":4.1,"n":"202"}},"kd1wan":{"title":"Vertican Embroidery Coord Set","brand":"Amarasha","imgs":["https://assets.myntassets.com/assets/images/2025/OCTOBER/31/gRgyOF8I_6d40de4b12ed41ebabe1ac962bb41264.jpg","https://assets.myntassets.com/assets/images/2025/OCTOBER/31/Km4JtUwg_5f849841d89e4337a5770b2799ae6c8c.jpg","https://assets.myntassets.com/assets/images/2025/OCTOBER/31/aHKgw5QL_ac53039ca8c14f4781e87e82a7eeb0a2.jpg","https://assets.myntassets.com/assets/images/2025/OCTOBER/31/Cy3xr21b_8ff5ce2c7c804ef5988a3b0d22452a3e.jpg","https://assets.myntassets.com/assets/images/2025/OCTOBER/31/K0h6MYkE_6a67d94c95d34a40b42b4f19d7ba7253.jpg","https://assets.myntassets.com/assets/images/2025/OCTOBER/31/zu8gqxNd_5274166fd11e4072ba9599b670e42dcf.jpg"],"rating":{"v":4.3,"n":"703"}},"i0sotr":{"title":"Pure Cotton Embroidered V-Neck Top & Trousers Co-Ords","brand":"Warthy Ent","imgs":["https://assets.myntassets.com/assets/images/2026/JANUARY/22/V0IirEye_5c2c65684c4843aa94e2efa93274fae9.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/22/PtSLxCnG_cdf2fa4af583491aad5b304cbab65dc0.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/22/VrVVsL7L_ce694852dd8f484f84f8642ea988f886.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/22/FsX2sKcp_0e3c4c77c6f3489c885a3647be3e5247.jpg"],"rating":{"v":3.6,"n":"261"}},"rtvzfn":{"title":"Embroidered Silk Blend Shirt Collar Romantic Florals Co-Ords","brand":"Anouk","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/15/TtzI7rxw_d3720e8e7c7449c09e0f9c8c9054249e.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/ist2GQx2_4ddcae61b757463c914a7e8504203fba.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/uFSp7uS6_a660738160de48d2a1c4265c1bc9f739.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/LQTq7Enj_232f279a080e48cfaae2845cccc2aa47.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/dTYimOfq_815ec3fee45d4a019d8464519f1553f1.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/seziBtMx_a7a2e6894f6649aca7e21fb1604ea873.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/Xl7p2bam_cf1a4ea20e0447ab88be7625ffa2cd61.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/Mg9H80rE_99612ba479894340b71d6708f0c89d8d.jpg"],"rating":{"v":4.3,"n":"273"}},"raf25k":{"title":"Floral Printed Co-Ord Set","brand":"Globus","imgs":["https://assets.myntassets.com/assets/images/27637220/2024/2/16/67427619-1145-4904-99de-65e080a35bc81708071893105GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos1.jpg","https://assets.myntassets.com/assets/images/27637220/2024/2/16/a8364f15-f07a-4377-acca-0bc6eb6be2bf1708071893130GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos2.jpg","https://assets.myntassets.com/assets/images/27637220/2024/2/16/8e96fbf5-006f-4fcd-a597-69570ba98f461708071893138GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos3.jpg","https://assets.myntassets.com/assets/images/27637220/2024/2/16/d280bbec-4bfe-4f37-94a4-780d88c3b0601708071893122GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos4.jpg","https://assets.myntassets.com/assets/images/27637220/2024/2/16/140348ab-f42a-4986-89e8-843cdaeb09ff1708071893115GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos5.jpg","https://assets.myntassets.com/assets/images/27637220/2024/2/16/3b218ad2-7794-419a-af2f-8df3648b28c01708071893146GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos6.jpg"],"rating":{"v":4.5,"n":"485"}},"mabsfl":{"title":"Schiffli Embroidered Square Neck Pure Cotton Top With Palazzo","brand":"SASSAFRAS","imgs":["https://assets.myntassets.com/assets/images/2025/APRIL/7/AYwogeBo_f4b7492f148a482a87fc3864b8c12685.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/7/2yi7eDnB_05096db3c062474782d379a267309545.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/7/wdrxCv4e_f5ea795c7ca940528be25fd0924737a6.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/7/7UNg0q9M_ddacf55145274797aecaaf1e0a1065e4.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/7/NmSesZnM_c4a9da31a2c54cc385520a01800427db.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/7/jpW0JyuV_2c28cdbb255741e5825f16c6a259ff82.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/7/avQcS0Mz_c778e5f81c31473186507dd7bdb472ac.jpg"],"rating":{"v":4.3,"n":"340"}},"ggqbsf":{"title":"Floral Printed Notch Lapel Shirt & Palazzos Fusion Co-Ord Set","brand":"Globus","imgs":["https://assets.myntassets.com/assets/images/30083517/2024/7/1/628bc8e4-76a4-4c90-b11a-86dc762f31201719817322218GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo1.jpg","https://assets.myntassets.com/assets/images/30083517/2024/7/1/868142b7-a4f4-4779-b195-d8756fc69a2d1719817322194GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo2.jpg","https://assets.myntassets.com/assets/images/30083517/2024/7/1/0aec8ed1-86cc-46a5-924f-edf1f20228bc1719817322169GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo3.jpg","https://assets.myntassets.com/assets/images/30083517/2024/7/1/f1313203-8b19-4672-828e-4dcd965669981719817322125GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo4.jpg","https://assets.myntassets.com/assets/images/30083517/2024/7/1/66e63e9c-41b3-4f0b-8813-2f42dee8d0d91719817322241GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo5.jpg","https://assets.myntassets.com/assets/images/30083517/2024/7/1/b33518d1-1970-499c-9341-8829683fe3f61719817322145GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo6.jpg"],"rating":{"v":4.4,"n":"71"}},"y89nza":{"title":"Round Neck Top With Palazzos Co-Ords","brand":"bebe","imgs":["https://assets.myntassets.com/assets/images/2025/MAY/7/81aj2EPL_d30084ff26a34fe2865be72600590d9e.jpg","https://assets.myntassets.com/assets/images/2025/MAY/7/a09fq8SV_0882eff2c77445038dc46bb81e4ff96c.jpg","https://assets.myntassets.com/assets/images/2025/MAY/7/yJdMoxPG_65b8d04c45e34e9a85e425a6a775b102.jpg","https://assets.myntassets.com/assets/images/2025/MAY/7/JwcXJdQ8_4c2031d266a9440f92ac3f4a41813df1.jpg","https://assets.myntassets.com/assets/images/2025/MAY/7/60hUNbT7_0a4848beb2634308beec249cd3398d00.jpg","https://assets.myntassets.com/assets/images/2025/MAY/7/g1Isa2st_cea42ac669e8408e98be9cbfeedaaee3.jpg","https://assets.myntassets.com/assets/images/2025/MAY/7/WVgtPNef_41deb41b39be450aabaa5afea48132fd.jpg"],"rating":{"v":4,"n":"566"}},"gz2gbl":{"title":"Pastels Cotton Tunic with Trousers","brand":"Anouk","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/16/yPcMZWdF_f81ce58be26e4baebac79d4b1ecd19b2.jpg","https://assets.myntassets.com/assets/images/2026/JULY/16/ZcpUOPrb_60f0f78dc6ef4f6e91a06c6b1391ec09.jpg","https://assets.myntassets.com/assets/images/2026/JULY/16/zG2GmyHA_aee2cdef79bd46a69d497d0fa37d92de.jpg","https://assets.myntassets.com/assets/images/2026/JULY/16/kAIj8PbQ_24930d12b45c4f42aa7ccd69f59d85c9.jpg","https://assets.myntassets.com/assets/images/2026/JULY/16/enAlVz1A_4836857eeeff48bfa6f9227a1d83548e.jpg","https://assets.myntassets.com/assets/images/2026/JULY/16/T3dUQucn_6b9538f8cdf445ffa86cecc1974dc80d.jpg"],"rating":{"v":4.1,"n":"1,043"}},"6j5kim":{"title":"Women Floral Embroidered Scoop Neck Viscose Rayon Tunic With Trouser","brand":"ROSHNI","imgs":["https://assets.myntassets.com/assets/images/2026/JUNE/6/KlBEfcNk_4a940a4a22fe4950ba81727cc5749cfc.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/t14hkNAZ_cbe5a42025984dc5b3946a57a2e125d3.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/0hdbp1JK_419241ca86794715a56cd2bd3bd832bf.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/BTYjNz2f_1e6cc749e4cd4355bd97e3a642d7b9b7.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/f0Tp3mAK_b01137ab4b874f9ea76f9751b20ff3c4.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/6/MPdjn0k6_252d195ea72f452fbd29698eb2023d5d.jpg"],"rating":{"v":4.3,"n":"345"}},"uzrrya":{"title":"Embroidered Tunic with Palazzos","brand":"Tikhi Imli","imgs":["https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/fuJQsAO5_bc5a0f1459b34550840f737792a52c91.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/TAMX3hxd_fbaa5a8af0f84b9f83648dfd963012f7.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/sAqEpria_d07c0aac4f2c4abcaeffc1fddae58f2b.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/A2k1Rrse_892b169e49154fa7b4d9e0a231b80121.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/q5OfjGvX_b3b379b91bc0401aac35ed00356d5e89.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/Yc5oWxcb_fba99a5fa0c944099c3cab7c1051aa2b.jpg"],"rating":{"v":4.4,"n":"255"}},"9lyi4x":{"title":"Chanderi Embroidered Tunic with Trousers","brand":"Sangria","imgs":["https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/DIxzwE3E_c1ca20bbc16e47bb9ee1e82a15685160.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/foiOX0qy_144b30447560469a9b957f9e5ec873a7.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/fP3Qe0FR_3a5151ca3ea44dad907f5bd85adbc1e7.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/Y1TJPQRA_9ab01b7b22064b7389de581e2267c27e.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/F5d6Aem8_94710031c16d4b3da4f30a86058797db.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/VCdOU0q7_78554eb316244180aaa794f4dceb1ee1.jpg","https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/ZB5HQsXW_d432ed736e084258a09a94f79d7bec06.jpg"],"rating":{"v":4.1,"n":"134"}},"sweaii":{"title":"Pink Off-Shoulder Top With Floral Embellishments","brand":"Outzidr","imgs":["https://assets.myntassets.com/assets/images/2026/APRIL/17/gVwTQayh_36c9a26331fb46eab85f18015d31ca9c.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/17/aN5BFkRM_efdd82f51093445c8139128bba28334e.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/17/zJfjIiEv_f176c02582e84c6183f920ef6a6a5822.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/17/ZgcuxuNN_abd5b3472e194c2aaa11a88b4a7cfe3b.jpg","https://assets.myntassets.com/assets/images/2026/APRIL/17/wGJMXqXZ_928c046ec8d64e778e51458c9264d4e0.jpg"],"rating":{"v":4,"n":"291"}},"15calr":{"title":"Embroidered Pure Cotton Round Neck Top With Trousers Co-Ords","brand":"GIANNA","imgs":["https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/ygIFqzcg_42a3ac75594b4296941272885489f734.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/fnudcixU_f416819154954a03b5602198e7976d80.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/EsiaYJSS_308baeeaeed0488a8cf3642b936bc51a.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/9wsUCk1h_8b6d0c3289224297bee755df46b79815.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/qnFHvbkW_79904df2e3994f2f84eb37b1a63c89f2.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/JUtBNOO1_422c9ad54f204089bd18cc597d6bd5a7.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/AQ7f3xVh_a1601f129ea34f66974ca507b444be32.jpg"],"rating":{"v":4,"n":"6"}},"nymph1":{"title":"Embroidered Round Neck Top With Palazzos Co-Ords","brand":"Tikhi Imli","imgs":["https://assets.myntassets.com/assets/images/2026/JANUARY/16/QrfUriFY_e3b3b2e72ec243c3858c85731db58656.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/16/be1IJPpO_f2bb52e727ce415ca41f94062d88ade7.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/16/w4UtcCMF_ba2b66eb26144d91afe70457c84e8edf.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/16/HcXcoguw_1bcbbb0fc63f4291b1b52f6fe7f36ba4.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/16/RhHusNeA_32fe487260df44eaa6b39846e6b420f5.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/16/TRIS895S_2b70406f27e040959f943b120423d0e9.jpg","https://assets.myntassets.com/assets/images/2026/JANUARY/16/Tm2H4Nhm_19cf7e4767e04d29a0a5308fa23d7b4f.jpg"],"rating":{"v":4.2,"n":"201"}},"hf7svp":{"title":"Embroidered Tunic With Palazzos Co-Ords","brand":"Anouk","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/15/JubiHgn3_80c049e9e53343e591c51e8c723fe094.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/CgbWv7x1_b8823f7209f54019895e9033fa5b73a9.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/HOYrlD2w_9d2d120b343a4446a96afb51e7fc94bb.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/EWPOj2MS_a971473b193344c7b8dc0aac6fc500e7.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/1JlLudaa_8096c2dd2d784e448c614f429f897578.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/nBYjbA2S_65cbdd389de64966acb43a053eeceaaf.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/Q1yz7zHp_da025cc7719f49918a2edefec43ae6d3.jpg"],"rating":{"v":4.3,"n":"789"}},"6226h7":{"title":"Embroidered Tunic with Palazzos","brand":"Inddus","imgs":["https://assets.myntassets.com/assets/images/2026/JUNE/13/wwB0UFu6_d5c3264b01cf40a281f24a299bb880fe.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/13/TA4tpLyj_a6f5a15667b4494aa4a396ec7115d93f.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/13/xre6kUoL_2377928c8d4a4bab9d7ace3b86eb9afd.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/13/eZIP0wrk_0e47ff78592e407a8602b61f06bb67d7.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/13/lqsYtzD1_0d5904bbfb3e45a0a9d4f5fc26cb01a0.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/13/iZAgXR1t_decca333ba844d1c8d4ea74996a2337f.jpg","https://assets.myntassets.com/assets/images/2026/JUNE/13/KSQKiqwL_20bd62d8aa154d56b394145e5d08981c.jpg"],"rating":{"v":3.7,"n":"6"}},"7hookr":{"title":"Embroidered Round Neck Tunic & Trousers Co-Ords","brand":"Anouk","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/15/zhWRGpyy_dee2abbac6da4445bc8ba37f2d1e433e.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/lZJaGCKN_bfc8ac204f344957b8e1227f8de83438.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/bnr6sSdz_6338f83724ef45dab91b2425f92a2bbf.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/Jp0G4eNj_c338920286054f86bc0869ff762eeba0.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/GPJSXPKX_864ca79eef9448b2bce551b1031d5f56.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/EgY6FzZM_713c830bdc9148e792389ab2dc0fad74.jpg","https://assets.myntassets.com/assets/images/2026/JULY/15/gsiaTtFw_44d53bd1376448f98fab07c39bfcfbfb.jpg"],"rating":{"v":4.3,"n":"1,183"}},"92drml":{"title":"Pink Ethnic Motif Sleeveless Peplum Top","brand":"fusion by glitchez","imgs":["https://assets.myntassets.com/assets/images/2026/MAY/26/4EpRy43w_7c6b1e9d736a449db231ebc8d560232c.jpg","https://assets.myntassets.com/assets/images/2026/MAY/26/M9ap122y_5d62751f2915435d9d81ab2f7b63fc6c.jpg","https://assets.myntassets.com/assets/images/2026/MAY/26/xpCnH57D_46cc7fa4038a4e7ba3e2aef4907f9f4f.jpg","https://assets.myntassets.com/assets/images/2026/MAY/26/M0zDD0as_e900d58eabc54e0195fbc309a9590893.jpg","https://assets.myntassets.com/assets/images/2026/MAY/26/6aTCMNjX_48476202fd824af98deb097622a2a3d2.jpg"],"rating":{"v":4.1,"n":"39"}},"hpqapg":{"title":"Solid Top with Trousers","brand":"Stylum","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/29/9LnUCyTz_ccadda4d93a742c68cb379855504266f.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/rW6skYPt_7d3343deb1134be38f6d31f9e290183b.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/6rCQRiiX_9c64b0ab9c854fc3b9f1ffbfdf1d3aed.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/MF3uZwcF_d6f89af57fa14600996a61b9a1feb0f2.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/va9IzS2M_750eaa02723e497dbabe47206fe53d0f.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/0PwJ4Y2u_abe86da394bf4e2abd7bf7ec7c353fff.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/7ogV80wn_48aba673248549398d17cfca2203d135.jpg"],"rating":{"v":4.2,"n":"7,755"}},"uygxuy":{"title":"Women Embroidered Thread Work Anarkali Kurta","brand":"Inddus","imgs":["https://assets.myntassets.com/assets/images/2026/MAY/5/ZHNKPLu5_d5647bc9837644c5993e5db07bfa5b7b.jpg","https://assets.myntassets.com/assets/images/2026/MAY/5/XvojCD7Y_8eacf257448f4b50956c62a604aa25d0.jpg","https://assets.myntassets.com/assets/images/2026/MAY/5/e2sK6Cng_cab556b5324f4a59a3fe35520e68181b.jpg","https://assets.myntassets.com/assets/images/2026/MAY/5/Je9VZ43W_164b607d7d7f4d77984513be73aed6f0.jpg","https://assets.myntassets.com/assets/images/2026/MAY/5/HNVCDB5r_f926e0209caa446eaa02b9d0c6822b1e.jpg","https://assets.myntassets.com/assets/images/2026/MAY/5/zMISbRs7_8f89a1c458a1464392e21757cb299446.jpg","https://assets.myntassets.com/assets/images/2026/MAY/5/6ouF5IPw_fd2c486eb9ea4412a3ba9b4353d8f5d0.jpg"],"rating":{"v":3.7,"n":"35"}},"nl71qr":{"title":"Women Ethnic Motifs Embroidered Empire Sequinned Kurta ,Trousers & Dupatta","brand":"TENNECY","imgs":["https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/ff79eaf910bd41fa89c291ae42615cbc.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/b4f9074b69724a2e98180b2961a157fa.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/26bd4aa2723044f0aa89a21d202b11f4.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/b3b0ca5f6bcc47dd99956f9b947ca89b.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/feea965bd1c147c7a7b72cbd4df644ce.jpg","https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/5543aad6c0c14da9928c7589f5d61ca4.jpg"],"rating":{"v":3.1,"n":"72"}},"qvmv6v":{"title":"Formal Women Striped Pleated Kurta with Trousers","brand":"Navibhu","imgs":["https://assets.myntassets.com/assets/images/2026/AUGUST/5/4RcWVjkK_2424b34eadd242e88f40bc24f55b29cf.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/CbqCPlIB_fefbbbd70c844005974b148a2c291a19.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/nRTBEDeO_0fa0547a0b7846e1a18bd4a94190c702.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/kwsFWKfv_5c01a4b5378a4146806facdb3f77abeb.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/IfYB3qSx_3342c882cacc4531b185774f782b74ea.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/LUBAPLiS_fae320718da14e4bb6aa0e6b78d8f82c.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/jbLbevQ4_834b6b6f3b8a49159ef9a8ada47e778b.jpg","https://assets.myntassets.com/assets/images/2026/AUGUST/5/rqc8M1S0_fc84648e3b8a4c5cb785081536948026.jpg"],"rating":{"v":4.1,"n":"51"}},"aw1oos":{"title":"Women Floral Printed Pullover","brand":"StyleCast","imgs":["https://assets.myntassets.com/assets/images/2025/NOVEMBER/3/LSoJzSyt_eea76e47f9fd47408a60d12d87386c5c.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/3/NpfQhdI5_e6f736cc1c784f89b7ae1c7a4cc10590.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/3/arFB0KAc_ee205879c4bf4c08b92e30367bf7ac65.jpg"],"rating":null},"m8gni0":{"title":"Striped Twisted Cotton Peplum Top","brand":"SZN","imgs":["https://assets.myntassets.com/assets/images/2026/MAY/14/72LGS9T1_f7e28aae6fb84f63a9c4b14df8b749d2.jpg","https://assets.myntassets.com/assets/images/2026/MAY/14/ZneFlJQ5_8e580696ee964468969798130a708d06.jpg","https://assets.myntassets.com/assets/images/2026/MAY/14/4WfSlqOV_bad4a0dd80044c3cba45822e340c6aa4.jpg","https://assets.myntassets.com/assets/images/2026/MAY/14/Lxex08nm_c556fe38872047768868438f65552aeb.jpg","https://assets.myntassets.com/assets/images/2026/MAY/14/y1xSNRB0_4c09713276604034b0bf7399774a35f2.jpg","https://assets.myntassets.com/assets/images/2026/MAY/14/eVn2VuWv_1aea4940778142b29247a5fd8beacc49.jpg","https://assets.myntassets.com/assets/images/2026/MAY/14/j8x2sKC1_fbd1096b44fb444ab91faf03bcf5d759.jpg"],"rating":{"v":4.2,"n":"76"}},"tudvlq":{"title":"Women Loose Fit Wide Leg Chinos Trousers","brand":"StyleCast x Revolte","imgs":["https://assets.myntassets.com/assets/images/2025/APRIL/22/uanqwqDX_afe61384e533459192c6d7e478bdb79d.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/22/msKNTojY_1e12f26d49084bd29ad91afa12c0738f.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/22/2DnsFZZV_2aefca2373494db58e5d5b4bb663a222.jpg"],"rating":{"v":3.9,"n":"73"}},"a8nt0m":{"title":"Women Relaxed Trousers","brand":"makemyfab","imgs":["https://assets.myntassets.com/assets/images/2026/JULY/29/hI6fPD6e_1b35b5982e954c5ba03d476f030b59cc.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/2r8XEmoR_59e342890b534659a84e4b336def036b.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/N6AO5t8j_a354f028ef6b4ff2af09b24ab976ac00.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/eRaq5Xwt_8d32a417e4ff4d94bddf0cb52c8959d8.jpg","https://assets.myntassets.com/assets/images/2026/JULY/29/gaDORXH1_372ae54b9a604251956ddd3ddb1264a0.jpg"],"rating":{"v":4.2,"n":"124"}},"narkxq":{"title":"Floral Print Linen Blend Peplum Crop Top","brand":"Youthnic","imgs":["https://assets.myntassets.com/assets/images/2026/MARCH/23/pzvOjxyI_fdf9534ecc0a43c794f1a8389ed24e4f.jpg","https://assets.myntassets.com/assets/images/2026/MARCH/23/qhmmw3VV_ba3c3ce3ffe44e85bb9c76c9ab083498.jpg","https://assets.myntassets.com/assets/images/2026/MARCH/23/7SJ10pP5_069f28cf97564634b93bad34f903f519.jpg","https://assets.myntassets.com/assets/images/2026/MARCH/23/UwW1PojV_c81f73023b2e4e5aba910d21be22154e.jpg","https://assets.myntassets.com/assets/images/2026/MARCH/23/g8xOhLxz_fb348e6eaf334a388f44760a3988916f.jpg","https://assets.myntassets.com/assets/images/2026/MARCH/23/3GVNfjvY_20c0cf2c64374dc5a780955fa3ae5c4b.jpg"],"rating":{"v":4,"n":"14"}},"ijcoxa":{"title":"Oversized Pullover with Bow Embroidered Detail","brand":"glitchez","imgs":["https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/QWImiTtW_7ddbae7d663b4a9491dcbac22dadf4f4.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/L7sJ49mq_68759cc6b5924bb78cae098214d07a96.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/NhRqx1gM_66b4ce1838654c0b85f6cc7461597ead.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/OUGRzuAU_a2dfd20b64844e1f8603b0e83425024b.jpg","https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/r41Mc8Yq_efd8d2cd81d540689a39882768c32576.jpg"],"rating":{"v":4.3,"n":"276"}},"1lhsfq":{"title":"Women Floral Printed Pullover","brand":"StyleCast","imgs":["https://assets.myntassets.com/assets/images/2025/APRIL/24/7uWaiPCW_7e3e8a560dc243daaa3869fe1e2fa307.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/vQd5GPzB_633eb81448614ec5a34dda2dbe689705.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/txO6j9mY_400ecc44d9ca4dc9801a4c52f02c7a52.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/bQ65QChg_a93afe13e0f341dbaa4400ea444b9f6d.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/1XATDwvs_2cc6e81d6907489e947609224100da70.jpg"],"rating":{"v":4.1,"n":"7"}},"rotv6c":{"title":"Women Pullover Applique Sweaters","brand":"ESPYR By Tokyo Talkies","imgs":["https://assets.myntassets.com/assets/images/2025/AUGUST/2/y1LxiuV9_773c2402470b4e3aa77df639bc1477b5.jpg","https://assets.myntassets.com/assets/images/2025/AUGUST/2/6UdlKoZk_487218c2491d47e58dbceb7d0bc643df.jpg","https://assets.myntassets.com/assets/images/2025/AUGUST/2/TCulVCFs_5a04b4b80fd44941a67697f040cda749.jpg","https://assets.myntassets.com/assets/images/2025/AUGUST/2/3pUuwcFX_50adf825bfd54afb93b2f149ddb42a39.jpg","https://assets.myntassets.com/assets/images/2025/AUGUST/2/oDTHbmlD_c5e85a101fed4cc3a71f621fe5f60860.jpg","https://assets.myntassets.com/assets/images/2025/AUGUST/2/uwdCJP6L_385e4c497cf049fcbf25eca18558b40a.jpg"],"rating":{"v":4.5,"n":"78"}},"pozjbi":{"title":"Women Floral Embroidered Round Neck Pullover","brand":"StyleCast","imgs":["https://assets.myntassets.com/assets/images/2025/APRIL/24/N57PczsC_ff2aa9b8c3a34518926ab68c2e755e04.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/jWWBUJGY_2673f0c0c03c4cc89bce36d89818e6dd.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/geNIWi4W_a0fd5fee6abc40359e35250a8d3995eb.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/Ub6NCJYJ_50b46074faf54b39a36d8578c8b3e42f.jpg","https://assets.myntassets.com/assets/images/2025/APRIL/24/QyeR4hI4_517cf9326b9342e8bba9211ea2553132.jpg"],"rating":{"v":4.5,"n":"116"}},"kwq7gf":{"title":"Women Conversational Embroidered Round Neck Woollen Pullover","brand":"StyleCast","imgs":["https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/DHQ8Uidr_b61ef9afdd7149b69b6102100bfe07bb.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/4IH1I9HV_0eb00a65bd1f484e9ddf2c4e6d5635a9.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/t6b4Rps4_1176009f285c4869926055293a73d70a.jpg","https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/07awaeZZ_df9a9be0702347b5add21daff2359686.jpg"],"rating":{"v":4.7,"n":"20"}}};
+window.NU_DATA=window.NU_DATA||{};window.NU_DATA.myntra = {
+  "ycjtqs": {
+    "title": "Bohemian Women Solid Halter Neck Top with Trousers",
+    "brand": "Suo",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/10/4YBIa718_435511c2c49844b1bb1ad05fc116020a.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/10/NtawYAEa_28e70cd4f06d46989b9a6df2933d351c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/10/kBhy40gh_10d6a2b78e464528899fab417dcf2db4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/10/NEnQhpRt_79a8bd59c78846d7ac3b3325014d1831.jpg"
+    ],
+    "rating": null
+  },
+  "ozpoor": {
+    "title": "Bow Detail Embellished Top with Trousers",
+    "brand": "BLANC9",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/gp0paxSz_1aaf9d58230942e4b97dd1d4f593e063.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/Xf0pI0Lk_77324718fc52488cb8954b85b0608eb0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/BX28WyWX_f3d0f188502b415ba6a1f2551ad51b62.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/t18vqEL0_5e708d21cb47411591efaad524c3fc2e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/v1GZwXJT_160f24f98f884c40926bcdfb8e317fa9.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/12S7asYg_16427e1bc6e743a3bf9919a955eb2d0d.jpg"
+    ],
+    "rating": {
+      "v": 5,
+      "n": "11"
+    }
+  },
+  "zqw4fk": {
+    "title": "Women Floral Printed Regular Top with Palazzos",
+    "brand": "Marigold Lane",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/APRIL/16/a6a4Tgi1_7c74398ef82c4da48f1dc76b192e9b3b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/16/A3gcdFYB_e8d3ed380a314b74bdb55e5275b0f464.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/16/rM60vI7e_f05eb45b48d94a988398ab12dc0cd112.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/16/dbAIvINb_48562eea25684dbfbf8736eb63000bbc.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/16/Ewa3VJpu_472a9d393eb34a1d9ef4a9541b46d5de.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/16/dKk5AUOy_2db130c3b991493191c1be7dba854ba0.jpg"
+    ],
+    "rating": null
+  },
+  "arj13n": {
+    "title": "Bohemian Cotton Striped Top with Trousers",
+    "brand": "Woomn",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/D9Ozof2Y_bc2344cdfd9a4fe285b1382a7fb2222c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/rEMedimp_3ed0f41a1c3749c79c7b0f64916debde.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/hK8bo6ke_7d763b24454046c29585c485d754d5fe.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/uRFVa0Zs_2094d5abc4ce46009a472d76ca45ccdd.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/Dx15t98s_1a6b16b4b8464f0ea8049aadc587b72e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/SfzXF1ln_ed63ccf5f9274db091e7bbaf060a45eb.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/27/Ckr2OnkX_72a5d84a6c92482cb435864d38945008.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "316"
+    }
+  },
+  "i9qpl5": {
+    "title": "Solid Top with Trousers",
+    "brand": "Outzidr",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/22/CAFR9iUC_2f4b030f06a24bcdb5d99f24a1da5450.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/22/h1YGiXGj_8fd68ec811fa4d8d9aeccf5c20bfafc4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/22/PF5QzDAG_208525e7a25048619fb38039337833e5.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/22/UUUtDcgE_136218fb65f8430e8e64d083f84d930f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/22/Xor1CAML_3bf94a985d1f47a1ae254bb2ea0a88a7.jpg"
+    ],
+    "rating": null
+  },
+  "0levas": {
+    "title": "Ribbed Studded Detail Fitted Top",
+    "brand": "Chemistry",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/21387180/2025/7/4/1d8c7d15-0caf-4191-8a8d-5e09d1beaed51751619513868-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-1.jpg",
+      "https://assets.myntassets.com/assets/images/21387180/2025/7/4/7d69b680-f04d-460f-a4ad-710fc2bba09a1751619513841-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-2.jpg",
+      "https://assets.myntassets.com/assets/images/21387180/2025/7/4/2c1d71b8-325d-4c08-b55c-c302635397fc1751619513813-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-3.jpg",
+      "https://assets.myntassets.com/assets/images/21387180/2025/7/4/a2f72a81-4ac1-4140-8862-e6895224e3041751619513784-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-4.jpg",
+      "https://assets.myntassets.com/assets/images/21387180/2025/7/4/50f7d3b3-fedd-4699-b8c0-72058ea4cd3d1751619513758-Chemistry-Ribbed-Studded-Detail-Fitted-Top-5481751619513376-5.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "800"
+    }
+  },
+  "bccjg8": {
+    "title": "Women Straight-Fit High-Rise Clean-Look Stretchable Denim Midi Skirt",
+    "brand": "Life With Pockets",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/35660326/2025/7/18/c98ce05b-1b3a-4dd7-80c6-ab6406460fc21752826251159-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-1.jpg",
+      "https://assets.myntassets.com/assets/images/35660326/2025/7/18/19ebc19e-66b4-4fc1-8dc0-8baca70d7ca91752826251144-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-2.jpg",
+      "https://assets.myntassets.com/assets/images/35660326/2025/7/18/38722286-bfae-4e18-afae-75182ed6f17c1752826251130-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-3.jpg",
+      "https://assets.myntassets.com/assets/images/35660326/2025/7/18/f2922f82-5572-4865-80f7-b425262462cd1752826251117-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-4.jpg",
+      "https://assets.myntassets.com/assets/images/35660326/2025/7/18/d6cb8f49-c48d-49d8-92f1-8056ea55d4fe1752826251103-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-5.jpg",
+      "https://assets.myntassets.com/assets/images/35660326/2025/7/18/9b5f3745-15a5-40d8-a4f3-27545c8fec3d1752826251089-Life-With-Pockets-Straight-Midi--Slit-Skirt-621752826250927-6.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "65"
+    }
+  },
+  "hg97iv": {
+    "title": "Rose Ribbed Boat Neck Top with Cut Out",
+    "brand": "Zucchini",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/DECEMBER/19/yNHvPCPw_0db26f78bebd4b98a85b13d082a4f714.jpg",
+      "https://assets.myntassets.com/assets/images/2025/DECEMBER/19/4Obuy33q_7f9f12a374cc45c7b0698304f18e52a6.jpg",
+      "https://assets.myntassets.com/assets/images/2025/DECEMBER/19/8O0CND8B_d88be6056fbe41268add1f0e7b9b0c72.jpg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "24"
+    }
+  },
+  "hrwlus": {
+    "title": "Linen Embroidered Shirt with Palazzos",
+    "brand": "Manqsh by Claura",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/c5c014aba4014bd8ae16a9af80f4bb32.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/b53abacb9e0a4ee98491818fd633bf14.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/393204ac470445a89291d3f9e964b788.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/6d25a03bb12e42ba93b569fe34731538.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/bdd698b25a1d432e80bb2cfaa2892f80.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/2b1a715eb8cc47dfa261e12b7e25ea49.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/19/e3443f9f04604f46bc0d914ec35bcd73.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "21"
+    }
+  },
+  "wpjl6q": {
+    "title": "Linen Embroidered Top with Palazzos",
+    "brand": "Sangria",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/JJmZnphC_93dced913d974c758a34d8ad8aec7589.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/wMPATFSh_c2ac0037f921442ba2f8703a8e9f4c9c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/7Qh14ilB_f2eb2a7a10fb4b268078d1753055b2b5.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/tGXhtv3M_c540f3c56fda47ae9815284054aa1438.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "295"
+    }
+  },
+  "cqi5vf": {
+    "title": "Pure Cotton Crop Top & Trousers Co-Ords",
+    "brand": "Pink Paprika by SASSAFRAS",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/553240fc-fc0e-4fe5-93ab-251aef8157e11747819555515-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--1.jpg",
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/6613ea77-6e9c-46b4-83b3-716f2f429c261747819555492-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--2.jpg",
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/5644d33c-7d05-4ea5-a168-9d8f3cfbcf261747819555469-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--3.jpg",
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/dc76c12a-7686-4917-8210-e6f18abeb5871747819555446-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--4.jpg",
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/94d76568-c87d-479d-88f9-bcf765af20be1747819555423-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--5.jpg",
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/d9f935a0-1b66-44b5-bd60-a0f9045b96861747819555402-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--6.jpg",
+      "https://assets.myntassets.com/assets/images/34123131/2025/5/21/e7888e87-bed6-4303-8ea0-222cafc91c6b1747819555380-Pink-Paprika-by-SASSAFRAS-Pure-Cotton-Crop-Top--Trousers-Co--7.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "466"
+    }
+  },
+  "ewnxtd": {
+    "title": "Cotton Embellished Tunic with Palazzos",
+    "brand": "AUTUMN LANE",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/vwHOaYoZ_efb83ee5d33b46828d9f36871270d1bd.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/w8RSYiWR_f0f82193cdd6448683dffed3214b47e6.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/J6JLqsPp_479f496e71414914a5e6158008317876.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/21/x2NC8sZa_0ac42a9ed855462a9a7c14f667533d83.jpg"
+    ],
+    "rating": {
+      "v": 3.3,
+      "n": "7"
+    }
+  },
+  "qjzoq6": {
+    "title": "Printed Shirt with Trousers",
+    "brand": "MASSTANI BY INDDUS",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/u7DGgRiJ_3023fa3420bf42bea3d471eebc03e69d.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/Bm2F9Dbn_83ec2b4299ef450db525d42ac88a5ac1.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/pWVUIxDJ_6daeb088bdc64b5383add36fdf95b35d.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/ZfuRUhza_6a4cc2732a5d48abb1f5c996a880914d.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/YPG5xuKc_86daf46829254abc9013011ebd474e40.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/6cwzDmDT_b5147281bd0e4c6fbb26fb86bd150527.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/5/fUZh5XPR_838181b78de546219e9a8eb455597b05.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "37"
+    }
+  },
+  "d0dssj": {
+    "title": "Romantic Florals Cotton Embroidered Shirt with Trousers",
+    "brand": "ZUMMER",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/LHkpwmmv_9085248a79dc4d0f824b2b3c0a3d5785.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/4xYUDbRT_5ac4835838a743e59851f64942fbbb68.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/Pg734vDo_502bcbc93d07409885002808d921044a.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/02bopWQe_f5c81be88c4a4aeaa32bb2950aec02aa.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/5ms3c0U9_8f633ab1e9db44268e167915ce12c7d6.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/3/sq1uR7u5_4d822703335b47eab276cf5494b07546.jpg"
+    ],
+    "rating": null
+  },
+  "thlgmz": {
+    "title": "Embroidered Top With Trousers Co-Ords",
+    "brand": "Warthy Ent",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/foH0RkKF_e637e4c6ef14418eab7ecd3a92fefdf0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/ZQp2EbVO_3d376c0cec96431e9213e0eb3341f816.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/bO1Rle77_d53a828d6977410297b1c75c77815e0e.jpg"
+    ],
+    "rating": {
+      "v": 3.8,
+      "n": "26"
+    }
+  },
+  "mevklc": {
+    "title": "Women Buckle Detailing Stretchable Skorts",
+    "brand": "Purple Feather",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/zVkQjXG1_c9854e7591a946df97467ff249ee03c4.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/paD9omOn_4935cc0ec3494d88a631106dd7f906da.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/6zWPGj6T_2ba20c4ce0b64f77849e28bdc791607d.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/XIOiHkdU_97b13e499675432eafa2866ee07125bd.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/gvTfOHWO_7c3ad47211c841a282c6f1f3c8d0df6f.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/6/tYuyxxlb_7fb8e3b5ef474fb6840f5641aa1989a4.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "519"
+    }
+  },
+  "hkgc1f": {
+    "title": "Top",
+    "brand": "Suo",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/MAY/16/3rn9G5cv_a4117bf5a9af4cd1a68a408b238a8f4f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/16/1gvnbDaN_5ceeec025c5049848c4d771584010c17.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/16/uAQLb8tx_e4008a54cfe94078b11cc3446a65a6e2.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/16/QQBSfLOu_3ab4e99970124232a4c4cfe9d667fff1.jpg"
+    ],
+    "rating": {
+      "v": 3.5,
+      "n": "8"
+    }
+  },
+  "b6fyc2": {
+    "title": "Women A-Line Skirt",
+    "brand": "Suo",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JUNE/14/uPC0HW6J_25aec93dfec44934bf89952db1b9afcb.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/14/fPWimvWQ_111724d4ccc64754a0103cdcaeb78e20.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/14/tzyE2NVK_30a5bbba10cd4183b081e117dee966be.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/14/wZKlDCmk_5737bcc6ce694ccca46f18a6f17493af.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/14/CaYQzeUl_64c7353fe2174e85818b02e20f863d74.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/14/7FEgBf3c_88dbf89e48cd47bebba00ff0ed36c5ad.jpg"
+    ],
+    "rating": null
+  },
+  "agphtr": {
+    "title": "Ruffles Top",
+    "brand": "glitchez",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/140d4d96189841c0bb9ab76f054712bc.jpg",
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/2dfc0a0cff2242cc803f3b8c20fbe9aa.jpg",
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/fcb0ac92c24744df967591a579280ec1.jpg",
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/43c89ebc4d334c918fe781d08e5a0962.jpg",
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/f302958cf95045318f1636b61a1b3f03.jpg",
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/1013d4d645284460ae88181f1bdc49f0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/OCTOBER/3/5bc60093978647e5be5afd01dfcffa0c.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "871"
+    }
+  },
+  "zb4k0j": {
+    "title": "Women Sleek Utility Midi A-Line Skirt",
+    "brand": "FOREVER FRIDAY",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/af2dc86e0b0b4b929e9a46c0b8fe87b4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/589fedee7cdd4f36bf6a2945f00f304d.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/1329ffc114c04f21b3f9ae1bcd9274b1.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/78b5b4192da24e0ba8c566fac747882f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/21/61758df367de448ea6aec588e5a57038.jpg"
+    ],
+    "rating": null
+  },
+  "johalo": {
+    "title": "Embroidered Shirt Collar Shirt & Trousers Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/RwBHkKoM_2ebda812b76145a79a53bf875f5b2d40.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/Qiu4ansW_4d511bdea5794cf581abb846171bca60.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/UQtau2hk_0050177875184d5687e252dddd35e849.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/B2JdS9qW_4f3e854bd0484302836f84d710dc07aa.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/7Z07VfnJ_1dc6061c3706403f8970e79d2ba2bf5c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/XoanZbtO_76ca10d83ccc437585173af28691f422.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/45K0nKTh_26d763ead4454b8090469eb019eb2790.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "14"
+    }
+  },
+  "vsz4ts": {
+    "title": "Embroidered Tunic with Palazzos",
+    "brand": "KALINI",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/30/B7JoYFMf_3e10cd2aa5cb4a2d8fad55b98e1b0d8c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/30/85ZtVOhq_15f7c28c6ebb42b5962e0483cf35f225.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/30/WNZjbIvf_5cbf50012c38406f9f6203f8b1712689.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/30/DiC7Tfwx_90acab0ec6c6465caf9d58c295896641.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/30/aQi6xebu_ab6d067540ae4ee5b54a14fb45ed1df2.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/30/L0wxW80f_48ba61bb130d444c8cba1d7cfdfcf910.jpg"
+    ],
+    "rating": {
+      "v": 3.9,
+      "n": "198"
+    }
+  },
+  "6lkvd1": {
+    "title": "Women Floral Regular Pure Cotton Kurti with Trousers",
+    "brand": "AAFAMI",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/ZpbNW5pE_577805417b434d3cabe7822d1feab6c2.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/RkowgPQ0_f08929132d25441b8a38b71118c81373.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/XauzMkgR_2539c7dbd1b64ccf94323f760b66083d.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/1ShISyJX_289f8ef601514f5fa0010be19e448398.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/Xr8Rx4ZQ_dfc78ba5a7af4e46a0c3b7ef3ee9865b.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/0B87HH7H_15f0d40e9c4d412f80f4a882572722b4.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/25/p8bdwulC_6f642692924c4c8d86d154e31bb69ae7.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "202"
+    }
+  },
+  "kd1wan": {
+    "title": "Vertican Embroidery Coord Set",
+    "brand": "Amarasha",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/OCTOBER/31/gRgyOF8I_6d40de4b12ed41ebabe1ac962bb41264.jpg",
+      "https://assets.myntassets.com/assets/images/2025/OCTOBER/31/Km4JtUwg_5f849841d89e4337a5770b2799ae6c8c.jpg",
+      "https://assets.myntassets.com/assets/images/2025/OCTOBER/31/aHKgw5QL_ac53039ca8c14f4781e87e82a7eeb0a2.jpg",
+      "https://assets.myntassets.com/assets/images/2025/OCTOBER/31/Cy3xr21b_8ff5ce2c7c804ef5988a3b0d22452a3e.jpg",
+      "https://assets.myntassets.com/assets/images/2025/OCTOBER/31/K0h6MYkE_6a67d94c95d34a40b42b4f19d7ba7253.jpg",
+      "https://assets.myntassets.com/assets/images/2025/OCTOBER/31/zu8gqxNd_5274166fd11e4072ba9599b670e42dcf.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "703"
+    }
+  },
+  "i0sotr": {
+    "title": "Pure Cotton Embroidered V-Neck Top & Trousers Co-Ords",
+    "brand": "Warthy Ent",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/V0IirEye_5c2c65684c4843aa94e2efa93274fae9.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/PtSLxCnG_cdf2fa4af583491aad5b304cbab65dc0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/VrVVsL7L_ce694852dd8f484f84f8642ea988f886.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/22/FsX2sKcp_0e3c4c77c6f3489c885a3647be3e5247.jpg"
+    ],
+    "rating": {
+      "v": 3.6,
+      "n": "261"
+    }
+  },
+  "rtvzfn": {
+    "title": "Embroidered Silk Blend Shirt Collar Romantic Florals Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/TtzI7rxw_d3720e8e7c7449c09e0f9c8c9054249e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/ist2GQx2_4ddcae61b757463c914a7e8504203fba.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/uFSp7uS6_a660738160de48d2a1c4265c1bc9f739.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/LQTq7Enj_232f279a080e48cfaae2845cccc2aa47.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/dTYimOfq_815ec3fee45d4a019d8464519f1553f1.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/seziBtMx_a7a2e6894f6649aca7e21fb1604ea873.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/Xl7p2bam_cf1a4ea20e0447ab88be7625ffa2cd61.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/Mg9H80rE_99612ba479894340b71d6708f0c89d8d.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "273"
+    }
+  },
+  "raf25k": {
+    "title": "Floral Printed Co-Ord Set",
+    "brand": "Globus",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/27637220/2024/2/16/67427619-1145-4904-99de-65e080a35bc81708071893105GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos1.jpg",
+      "https://assets.myntassets.com/assets/images/27637220/2024/2/16/a8364f15-f07a-4377-acca-0bc6eb6be2bf1708071893130GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos2.jpg",
+      "https://assets.myntassets.com/assets/images/27637220/2024/2/16/8e96fbf5-006f-4fcd-a597-69570ba98f461708071893138GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos3.jpg",
+      "https://assets.myntassets.com/assets/images/27637220/2024/2/16/d280bbec-4bfe-4f37-94a4-780d88c3b0601708071893122GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos4.jpg",
+      "https://assets.myntassets.com/assets/images/27637220/2024/2/16/140348ab-f42a-4986-89e8-843cdaeb09ff1708071893115GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos5.jpg",
+      "https://assets.myntassets.com/assets/images/27637220/2024/2/16/3b218ad2-7794-419a-af2f-8df3648b28c01708071893146GlobusWomenBlackCasualCo-OrdSetWithSleevelessTopandPalazzos6.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "485"
+    }
+  },
+  "mabsfl": {
+    "title": "Schiffli Embroidered Square Neck Pure Cotton Top With Palazzo",
+    "brand": "SASSAFRAS",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/AYwogeBo_f4b7492f148a482a87fc3864b8c12685.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/2yi7eDnB_05096db3c062474782d379a267309545.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/wdrxCv4e_f5ea795c7ca940528be25fd0924737a6.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/7UNg0q9M_ddacf55145274797aecaaf1e0a1065e4.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/NmSesZnM_c4a9da31a2c54cc385520a01800427db.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/jpW0JyuV_2c28cdbb255741e5825f16c6a259ff82.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/7/avQcS0Mz_c778e5f81c31473186507dd7bdb472ac.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "340"
+    }
+  },
+  "ggqbsf": {
+    "title": "Floral Printed Notch Lapel Shirt & Palazzos Fusion Co-Ord Set",
+    "brand": "Globus",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/30083517/2024/7/1/628bc8e4-76a4-4c90-b11a-86dc762f31201719817322218GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo1.jpg",
+      "https://assets.myntassets.com/assets/images/30083517/2024/7/1/868142b7-a4f4-4779-b195-d8756fc69a2d1719817322194GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo2.jpg",
+      "https://assets.myntassets.com/assets/images/30083517/2024/7/1/0aec8ed1-86cc-46a5-924f-edf1f20228bc1719817322169GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo3.jpg",
+      "https://assets.myntassets.com/assets/images/30083517/2024/7/1/f1313203-8b19-4672-828e-4dcd965669981719817322125GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo4.jpg",
+      "https://assets.myntassets.com/assets/images/30083517/2024/7/1/66e63e9c-41b3-4f0b-8813-2f42dee8d0d91719817322241GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo5.jpg",
+      "https://assets.myntassets.com/assets/images/30083517/2024/7/1/b33518d1-1970-499c-9341-8829683fe3f61719817322145GlobusWomenMultiColorFloralPrintedLapelCollarShirtPalazzosCo6.jpg"
+    ],
+    "rating": {
+      "v": 4.4,
+      "n": "71"
+    }
+  },
+  "y89nza": {
+    "title": "Round Neck Top With Palazzos Co-Ords",
+    "brand": "bebe",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/81aj2EPL_d30084ff26a34fe2865be72600590d9e.jpg",
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/a09fq8SV_0882eff2c77445038dc46bb81e4ff96c.jpg",
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/yJdMoxPG_65b8d04c45e34e9a85e425a6a775b102.jpg",
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/JwcXJdQ8_4c2031d266a9440f92ac3f4a41813df1.jpg",
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/60hUNbT7_0a4848beb2634308beec249cd3398d00.jpg",
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/g1Isa2st_cea42ac669e8408e98be9cbfeedaaee3.jpg",
+      "https://assets.myntassets.com/assets/images/2025/MAY/7/WVgtPNef_41deb41b39be450aabaa5afea48132fd.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "566"
+    }
+  },
+  "gz2gbl": {
+    "title": "Pastels Cotton Tunic with Trousers",
+    "brand": "Anouk",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/16/yPcMZWdF_f81ce58be26e4baebac79d4b1ecd19b2.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/16/ZcpUOPrb_60f0f78dc6ef4f6e91a06c6b1391ec09.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/16/zG2GmyHA_aee2cdef79bd46a69d497d0fa37d92de.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/16/kAIj8PbQ_24930d12b45c4f42aa7ccd69f59d85c9.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/16/enAlVz1A_4836857eeeff48bfa6f9227a1d83548e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/16/T3dUQucn_6b9538f8cdf445ffa86cecc1974dc80d.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "1,043"
+    }
+  },
+  "6j5kim": {
+    "title": "Women Floral Embroidered Scoop Neck Viscose Rayon Tunic With Trouser",
+    "brand": "ROSHNI",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/KlBEfcNk_4a940a4a22fe4950ba81727cc5749cfc.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/t14hkNAZ_cbe5a42025984dc5b3946a57a2e125d3.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/0hdbp1JK_419241ca86794715a56cd2bd3bd832bf.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/BTYjNz2f_1e6cc749e4cd4355bd97e3a642d7b9b7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/f0Tp3mAK_b01137ab4b874f9ea76f9751b20ff3c4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/6/MPdjn0k6_252d195ea72f452fbd29698eb2023d5d.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "345"
+    }
+  },
+  "uzrrya": {
+    "title": "Embroidered Tunic with Palazzos",
+    "brand": "Tikhi Imli",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/fuJQsAO5_bc5a0f1459b34550840f737792a52c91.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/TAMX3hxd_fbaa5a8af0f84b9f83648dfd963012f7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/sAqEpria_d07c0aac4f2c4abcaeffc1fddae58f2b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/A2k1Rrse_892b169e49154fa7b4d9e0a231b80121.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/q5OfjGvX_b3b379b91bc0401aac35ed00356d5e89.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/18/Yc5oWxcb_fba99a5fa0c944099c3cab7c1051aa2b.jpg"
+    ],
+    "rating": {
+      "v": 4.4,
+      "n": "255"
+    }
+  },
+  "9lyi4x": {
+    "title": "Chanderi Embroidered Tunic with Trousers",
+    "brand": "Sangria",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/DIxzwE3E_c1ca20bbc16e47bb9ee1e82a15685160.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/foiOX0qy_144b30447560469a9b957f9e5ec873a7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/fP3Qe0FR_3a5151ca3ea44dad907f5bd85adbc1e7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/Y1TJPQRA_9ab01b7b22064b7389de581e2267c27e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/F5d6Aem8_94710031c16d4b3da4f30a86058797db.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/VCdOU0q7_78554eb316244180aaa794f4dceb1ee1.jpg",
+      "https://assets.myntassets.com/assets/images/2026/FEBRUARY/16/ZB5HQsXW_d432ed736e084258a09a94f79d7bec06.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "134"
+    }
+  },
+  "sweaii": {
+    "title": "Pink Off-Shoulder Top With Floral Embellishments",
+    "brand": "Outzidr",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/APRIL/17/gVwTQayh_36c9a26331fb46eab85f18015d31ca9c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/17/aN5BFkRM_efdd82f51093445c8139128bba28334e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/17/zJfjIiEv_f176c02582e84c6183f920ef6a6a5822.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/17/ZgcuxuNN_abd5b3472e194c2aaa11a88b4a7cfe3b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/APRIL/17/wGJMXqXZ_928c046ec8d64e778e51458c9264d4e0.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "291"
+    }
+  },
+  "15calr": {
+    "title": "Embroidered Pure Cotton Round Neck Top With Trousers Co-Ords",
+    "brand": "GIANNA",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/ygIFqzcg_42a3ac75594b4296941272885489f734.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/fnudcixU_f416819154954a03b5602198e7976d80.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/EsiaYJSS_308baeeaeed0488a8cf3642b936bc51a.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/9wsUCk1h_8b6d0c3289224297bee755df46b79815.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/qnFHvbkW_79904df2e3994f2f84eb37b1a63c89f2.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/JUtBNOO1_422c9ad54f204089bd18cc597d6bd5a7.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/6/AQ7f3xVh_a1601f129ea34f66974ca507b444be32.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "6"
+    }
+  },
+  "nymph1": {
+    "title": "Embroidered Round Neck Top With Palazzos Co-Ords",
+    "brand": "Tikhi Imli",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/QrfUriFY_e3b3b2e72ec243c3858c85731db58656.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/be1IJPpO_f2bb52e727ce415ca41f94062d88ade7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/w4UtcCMF_ba2b66eb26144d91afe70457c84e8edf.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/HcXcoguw_1bcbbb0fc63f4291b1b52f6fe7f36ba4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/RhHusNeA_32fe487260df44eaa6b39846e6b420f5.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/TRIS895S_2b70406f27e040959f943b120423d0e9.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JANUARY/16/Tm2H4Nhm_19cf7e4767e04d29a0a5308fa23d7b4f.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "201"
+    }
+  },
+  "hf7svp": {
+    "title": "Embroidered Tunic With Palazzos Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/JubiHgn3_80c049e9e53343e591c51e8c723fe094.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/CgbWv7x1_b8823f7209f54019895e9033fa5b73a9.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/HOYrlD2w_9d2d120b343a4446a96afb51e7fc94bb.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/EWPOj2MS_a971473b193344c7b8dc0aac6fc500e7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/1JlLudaa_8096c2dd2d784e448c614f429f897578.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/nBYjbA2S_65cbdd389de64966acb43a053eeceaaf.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/Q1yz7zHp_da025cc7719f49918a2edefec43ae6d3.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "789"
+    }
+  },
+  "6226h7": {
+    "title": "Embroidered Tunic with Palazzos",
+    "brand": "Inddus",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/wwB0UFu6_d5c3264b01cf40a281f24a299bb880fe.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/TA4tpLyj_a6f5a15667b4494aa4a396ec7115d93f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/xre6kUoL_2377928c8d4a4bab9d7ace3b86eb9afd.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/eZIP0wrk_0e47ff78592e407a8602b61f06bb67d7.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/lqsYtzD1_0d5904bbfb3e45a0a9d4f5fc26cb01a0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/iZAgXR1t_decca333ba844d1c8d4ea74996a2337f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JUNE/13/KSQKiqwL_20bd62d8aa154d56b394145e5d08981c.jpg"
+    ],
+    "rating": {
+      "v": 3.7,
+      "n": "6"
+    }
+  },
+  "7hookr": {
+    "title": "Embroidered Round Neck Tunic & Trousers Co-Ords",
+    "brand": "Anouk",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/zhWRGpyy_dee2abbac6da4445bc8ba37f2d1e433e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/lZJaGCKN_bfc8ac204f344957b8e1227f8de83438.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/bnr6sSdz_6338f83724ef45dab91b2425f92a2bbf.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/Jp0G4eNj_c338920286054f86bc0869ff762eeba0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/GPJSXPKX_864ca79eef9448b2bce551b1031d5f56.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/EgY6FzZM_713c830bdc9148e792389ab2dc0fad74.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/15/gsiaTtFw_44d53bd1376448f98fab07c39bfcfbfb.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "1,183"
+    }
+  },
+  "92drml": {
+    "title": "Pink Ethnic Motif Sleeveless Peplum Top",
+    "brand": "fusion by glitchez",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/MAY/26/4EpRy43w_7c6b1e9d736a449db231ebc8d560232c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/26/M9ap122y_5d62751f2915435d9d81ab2f7b63fc6c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/26/xpCnH57D_46cc7fa4038a4e7ba3e2aef4907f9f4f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/26/M0zDD0as_e900d58eabc54e0195fbc309a9590893.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/26/6aTCMNjX_48476202fd824af98deb097622a2a3d2.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "39"
+    }
+  },
+  "hpqapg": {
+    "title": "Solid Top with Trousers",
+    "brand": "Stylum",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/9LnUCyTz_ccadda4d93a742c68cb379855504266f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/rW6skYPt_7d3343deb1134be38f6d31f9e290183b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/6rCQRiiX_9c64b0ab9c854fc3b9f1ffbfdf1d3aed.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/MF3uZwcF_d6f89af57fa14600996a61b9a1feb0f2.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/va9IzS2M_750eaa02723e497dbabe47206fe53d0f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/0PwJ4Y2u_abe86da394bf4e2abd7bf7ec7c353fff.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/7ogV80wn_48aba673248549398d17cfca2203d135.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "7,755"
+    }
+  },
+  "uygxuy": {
+    "title": "Women Embroidered Thread Work Anarkali Kurta",
+    "brand": "Inddus",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/ZHNKPLu5_d5647bc9837644c5993e5db07bfa5b7b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/XvojCD7Y_8eacf257448f4b50956c62a604aa25d0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/e2sK6Cng_cab556b5324f4a59a3fe35520e68181b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/Je9VZ43W_164b607d7d7f4d77984513be73aed6f0.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/HNVCDB5r_f926e0209caa446eaa02b9d0c6822b1e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/zMISbRs7_8f89a1c458a1464392e21757cb299446.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/5/6ouF5IPw_fd2c486eb9ea4412a3ba9b4353d8f5d0.jpg"
+    ],
+    "rating": {
+      "v": 3.7,
+      "n": "35"
+    }
+  },
+  "nl71qr": {
+    "title": "Women Ethnic Motifs Embroidered Empire Sequinned Kurta ,Trousers & Dupatta",
+    "brand": "TENNECY",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/ff79eaf910bd41fa89c291ae42615cbc.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/b4f9074b69724a2e98180b2961a157fa.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/26bd4aa2723044f0aa89a21d202b11f4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/b3b0ca5f6bcc47dd99956f9b947ca89b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/feea965bd1c147c7a7b72cbd4df644ce.jpg",
+      "https://assets.myntassets.com/assets/images/2026/SEPTEMBER/22/5543aad6c0c14da9928c7589f5d61ca4.jpg"
+    ],
+    "rating": {
+      "v": 3.1,
+      "n": "72"
+    }
+  },
+  "qvmv6v": {
+    "title": "Formal Women Striped Pleated Kurta with Trousers",
+    "brand": "Navibhu",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/4RcWVjkK_2424b34eadd242e88f40bc24f55b29cf.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/CbqCPlIB_fefbbbd70c844005974b148a2c291a19.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/nRTBEDeO_0fa0547a0b7846e1a18bd4a94190c702.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/kwsFWKfv_5c01a4b5378a4146806facdb3f77abeb.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/IfYB3qSx_3342c882cacc4531b185774f782b74ea.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/LUBAPLiS_fae320718da14e4bb6aa0e6b78d8f82c.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/jbLbevQ4_834b6b6f3b8a49159ef9a8ada47e778b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/AUGUST/5/rqc8M1S0_fc84648e3b8a4c5cb785081536948026.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "51"
+    }
+  },
+  "aw1oos": {
+    "title": "Women Floral Printed Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/3/LSoJzSyt_eea76e47f9fd47408a60d12d87386c5c.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/3/NpfQhdI5_e6f736cc1c784f89b7ae1c7a4cc10590.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/3/arFB0KAc_ee205879c4bf4c08b92e30367bf7ac65.jpg"
+    ],
+    "rating": null
+  },
+  "m8gni0": {
+    "title": "Striped Twisted Cotton Peplum Top",
+    "brand": "SZN",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/72LGS9T1_f7e28aae6fb84f63a9c4b14df8b749d2.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/ZneFlJQ5_8e580696ee964468969798130a708d06.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/4WfSlqOV_bad4a0dd80044c3cba45822e340c6aa4.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/Lxex08nm_c556fe38872047768868438f65552aeb.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/y1xSNRB0_4c09713276604034b0bf7399774a35f2.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/eVn2VuWv_1aea4940778142b29247a5fd8beacc49.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MAY/14/j8x2sKC1_fbd1096b44fb444ab91faf03bcf5d759.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "76"
+    }
+  },
+  "tudvlq": {
+    "title": "Women Loose Fit Wide Leg Chinos Trousers",
+    "brand": "StyleCast x Revolte",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/APRIL/22/uanqwqDX_afe61384e533459192c6d7e478bdb79d.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/22/msKNTojY_1e12f26d49084bd29ad91afa12c0738f.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/22/2DnsFZZV_2aefca2373494db58e5d5b4bb663a222.jpg"
+    ],
+    "rating": {
+      "v": 3.9,
+      "n": "73"
+    }
+  },
+  "a8nt0m": {
+    "title": "Women Relaxed Trousers",
+    "brand": "makemyfab",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/hI6fPD6e_1b35b5982e954c5ba03d476f030b59cc.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/2r8XEmoR_59e342890b534659a84e4b336def036b.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/N6AO5t8j_a354f028ef6b4ff2af09b24ab976ac00.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/eRaq5Xwt_8d32a417e4ff4d94bddf0cb52c8959d8.jpg",
+      "https://assets.myntassets.com/assets/images/2026/JULY/29/gaDORXH1_372ae54b9a604251956ddd3ddb1264a0.jpg"
+    ],
+    "rating": {
+      "v": 4.2,
+      "n": "124"
+    }
+  },
+  "narkxq": {
+    "title": "Floral Print Linen Blend Peplum Crop Top",
+    "brand": "Youthnic",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2026/MARCH/23/pzvOjxyI_fdf9534ecc0a43c794f1a8389ed24e4f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MARCH/23/qhmmw3VV_ba3c3ce3ffe44e85bb9c76c9ab083498.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MARCH/23/7SJ10pP5_069f28cf97564634b93bad34f903f519.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MARCH/23/UwW1PojV_c81f73023b2e4e5aba910d21be22154e.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MARCH/23/g8xOhLxz_fb348e6eaf334a388f44760a3988916f.jpg",
+      "https://assets.myntassets.com/assets/images/2026/MARCH/23/3GVNfjvY_20c0cf2c64374dc5a780955fa3ae5c4b.jpg"
+    ],
+    "rating": {
+      "v": 4,
+      "n": "14"
+    }
+  },
+  "ijcoxa": {
+    "title": "Oversized Pullover with Bow Embroidered Detail",
+    "brand": "glitchez",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/QWImiTtW_7ddbae7d663b4a9491dcbac22dadf4f4.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/L7sJ49mq_68759cc6b5924bb78cae098214d07a96.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/NhRqx1gM_66b4ce1838654c0b85f6cc7461597ead.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/OUGRzuAU_a2dfd20b64844e1f8603b0e83425024b.jpg",
+      "https://assets.myntassets.com/assets/images/2025/NOVEMBER/13/r41Mc8Yq_efd8d2cd81d540689a39882768c32576.jpg"
+    ],
+    "rating": {
+      "v": 4.3,
+      "n": "276"
+    }
+  },
+  "1lhsfq": {
+    "title": "Women Floral Printed Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/7uWaiPCW_7e3e8a560dc243daaa3869fe1e2fa307.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/vQd5GPzB_633eb81448614ec5a34dda2dbe689705.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/txO6j9mY_400ecc44d9ca4dc9801a4c52f02c7a52.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/bQ65QChg_a93afe13e0f341dbaa4400ea444b9f6d.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/1XATDwvs_2cc6e81d6907489e947609224100da70.jpg"
+    ],
+    "rating": {
+      "v": 4.1,
+      "n": "7"
+    }
+  },
+  "rotv6c": {
+    "title": "Women Pullover Applique Sweaters",
+    "brand": "ESPYR By Tokyo Talkies",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/AUGUST/2/y1LxiuV9_773c2402470b4e3aa77df639bc1477b5.jpg",
+      "https://assets.myntassets.com/assets/images/2025/AUGUST/2/6UdlKoZk_487218c2491d47e58dbceb7d0bc643df.jpg",
+      "https://assets.myntassets.com/assets/images/2025/AUGUST/2/TCulVCFs_5a04b4b80fd44941a67697f040cda749.jpg",
+      "https://assets.myntassets.com/assets/images/2025/AUGUST/2/3pUuwcFX_50adf825bfd54afb93b2f149ddb42a39.jpg",
+      "https://assets.myntassets.com/assets/images/2025/AUGUST/2/oDTHbmlD_c5e85a101fed4cc3a71f621fe5f60860.jpg",
+      "https://assets.myntassets.com/assets/images/2025/AUGUST/2/uwdCJP6L_385e4c497cf049fcbf25eca18558b40a.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "78"
+    }
+  },
+  "pozjbi": {
+    "title": "Women Floral Embroidered Round Neck Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/N57PczsC_ff2aa9b8c3a34518926ab68c2e755e04.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/jWWBUJGY_2673f0c0c03c4cc89bce36d89818e6dd.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/geNIWi4W_a0fd5fee6abc40359e35250a8d3995eb.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/Ub6NCJYJ_50b46074faf54b39a36d8578c8b3e42f.jpg",
+      "https://assets.myntassets.com/assets/images/2025/APRIL/24/QyeR4hI4_517cf9326b9342e8bba9211ea2553132.jpg"
+    ],
+    "rating": {
+      "v": 4.5,
+      "n": "116"
+    }
+  },
+  "kwq7gf": {
+    "title": "Women Conversational Embroidered Round Neck Woollen Pullover",
+    "brand": "StyleCast",
+    "imgs": [
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/DHQ8Uidr_b61ef9afdd7149b69b6102100bfe07bb.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/4IH1I9HV_0eb00a65bd1f484e9ddf2c4e6d5635a9.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/t6b4Rps4_1176009f285c4869926055293a73d70a.jpg",
+      "https://assets.myntassets.com/assets/images/2025/SEPTEMBER/2/07awaeZZ_df9a9be0702347b5add21daff2359686.jpg"
+    ],
+    "rating": {
+      "v": 4.7,
+      "n": "20"
+    }
+  }
+};
